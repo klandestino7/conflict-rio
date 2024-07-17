@@ -1,0 +1,8 @@
+GameProject {
+ ID "ConflictRio"
+ GUID "61DF6437F353B69C"
+ TITLE "Conflict Rio"
+ Dependencies {
+  "58D0FB3206B6F859"
+ }
+}

@@ -1,0 +1,454 @@
+$grp GenericEntity {
+ {
+  components {
+   MeshObject "{61E10D22E4926AA6}" {
+    Object "{7B7BF090DECE3F84}Assets/Structures/BuildingsParts/Entry/ConcreteStairs_01_entry_2m.xob"
+   }
+   RigidBody "{61E10D21D01440A1}" {
+    ModelGeometry 1
+    Static 1
+   }
+  }
+  coords 1206.212 40.504 3426.71
+  angleY 11.229
+ }
+ {
+  components {
+   MeshObject "{61E10D22E4926AA6}" {
+    Object "{7B7BF090DECE3F84}Assets/Structures/BuildingsParts/Entry/ConcreteStairs_01_entry_2m.xob"
+   }
+   RigidBody "{61E10D21CB80775B}" {
+    ModelGeometry 1
+    Static 1
+   }
+  }
+  coords 1195.593 40.433 3433.769
+  angleY 100.317
+ }
+ {
+  components {
+   MeshObject "{61E10D22E4926AA6}" {
+    Object "{7B7BF090DECE3F84}Assets/Structures/BuildingsParts/Entry/ConcreteStairs_01_entry_2m.xob"
+   }
+   RigidBody "{61E10D21D6003EBA}" {
+    ModelGeometry 1
+    Static 1
+   }
+  }
+  coords 1234.232 35.699 3421.718
+  angleY 10.293
+ }
+ {
+  components {
+   MeshObject "{61E1798B154B5EE2}" {
+    Object "{E0C8C82C9331B270}Assets/barraco_15.xob"
+   }
+  }
+  coords 1221.934 34.421 3441.955
+ }
+ {
+  components {
+   MeshObject "{61E179888AA1CAEA}" {
+    Object "{1CDE6CC9198DCE21}Assets/antena.xob"
+   }
+  }
+  coords 1235.742 34.668 3429.18
+ }
+ {
+  components {
+   MeshObject "{61E1798D416CE22B}" {
+    Object "{7659851743DBF666}Assets/barraco_18.xob"
+   }
+  }
+  coords 1236.537 33.01 3440.612
+ }
+ {
+  components {
+   MeshObject "{61E1798D1DFFC5BE}" {
+    Object "{56D4330EA4523F38}Assets/GN_barraco01.xob"
+   }
+  }
+  coords 1233.063 32.355 3450.756
+ }
+ {
+  components {
+   MeshObject "{61E17982328FE385}" {
+    Object "{A7BA28ADE2376517}Assets/escada2.xob"
+   }
+  }
+  coords 1243.683 30.569 3448.962
+ }
+ {
+  components {
+   MeshObject "{61E17981D7057431}" {
+    Object "{0EDC193D7A746C90}Assets/barraco_17.xob"
+   }
+  }
+  coords 1246.568 32.122 3440.078
+ }
+ {
+  components {
+   MeshObject "{61E17981A87635E4}" {
+    Object "{8DDE362D830BEB94}Assets/barraco_06.xob"
+   }
+  }
+  coords 1207.397 37.63 3438.817
+ }
+ {
+  components {
+   MeshObject "{61E17981ACE2C304}" {
+    Object "{39636B659956EE44}Assets/escada6.xob"
+   }
+  }
+  coords 1216.116 33.966 3449.336
+ }
+ {
+  components {
+   MeshObject "{61E17981BF52CEBE}" {
+    Object "{A07DD2FC84B1DFD4}Assets/escada5.xob"
+   }
+  }
+  coords 1216.98 34.695 3459.656
+ }
+ {
+  components {
+   MeshObject "{61E17981847F4C86}" {
+    Object "{419E925A2E830856}Assets/prediocda.xob"
+   }
+  }
+  coords 1284.573 34.236 3436.853
+ }
+ {
+  components {
+   MeshObject "{61E179814290B995}" {
+    Object "{3EA49134FFD05487}Assets/escada1.xob"
+   }
+  }
+  coords 1258.898 27.358 3458.661
+ }
+ {
+  components {
+   MeshObject "{61E17981459B220F}" {
+    Object "{D0B0402516958A67}Assets/escada3.xob"
+   }
+  }
+  coords 1261.028 28.547 3451.412
+ }
+ {
+  components {
+   MeshObject "{61E1798147ACCA95}" {
+    Object "{D777BA74701330A4}Assets/escada4.xob"
+   }
+  }
+  coords 1276.551 27.052 3454.111
+ }
+ {
+  components {
+   MeshObject "{61E1798146B02226}" {
+    Object "{90055AF50115E7C3}Assets/barraco_13.xob"
+   }
+  }
+  coords 1264.789 32.963 3430.933
+ }
+ {
+  components {
+   MeshObject "{61E179811CC9C7B9}" {
+    Object "{0153ED9FB7791916}Assets/barraco_19.xob"
+   }
+  }
+  coords 1262.648 30.032 3440.059
+ }
+ {
+  components {
+   MeshObject "{61E17980D309D8B1}" {
+    Object "{B9E71B3E4A3A86BC}Assets/barraco_22.xob"
+   }
+  }
+  coords 1246.682 28.097 3456.427
+ }
+ {
+  components {
+   MeshObject "{61E17980B54ADD47}" {
+    Object "{57F3CA2FA37F585C}Assets/barraco_20.xob"
+   }
+  }
+  coords 1226.078 31.579 3457.822
+ }
+ {
+  components {
+   MeshObject "{61E1798096CCE882}" {
+    Object "{7E118BE4E8503923}Assets/barraco_11.xob"
+   }
+  }
+  coords 1232.285 29.726 3459.165
+ }
+ {
+  components {
+   MeshObject "{61E1798012A2FB2B}" {
+    Object "{7E118BE4E8503923}Assets/barraco_11.xob"
+   }
+  }
+  coords 1241.067 34.292 3425.757
+ }
+ {
+  components {
+   MeshObject "{61E1798016C5FB92}" {
+    Object "{3391A18D91EB8924}Assets/rampa.xob"
+   }
+  }
+  coords 1240.647 32.923 3417.723
+ }
+ {
+  components {
+   MeshObject "{61E179801926F04D}" {
+    Object "{FDEF6F3F43A98E14}Assets/casa1.xob"
+   }
+  }
+  coords 1254.438 33.451 3430.246
+ }
+ {
+  components {
+   MeshObject "{61E17987EF1EBDA3}" {
+    Object "{59D46E88221129F9}Assets/orelhao.xob"
+   }
+  }
+  coords 1251.949 33.558 3422.686
+ }
+ {
+  components {
+   MeshObject "{61E17987FD32A879}" {
+    Object "{20F9A2A757DDB72C}Assets/barraco_21.xob"
+   }
+  }
+  coords 1258.818 32.756 3418.823
+ }
+ {
+  components {
+   MeshObject "{61E17987FF00518A}" {
+    Object "{4E6903ED6DF40134}Assets/escada7.xob"
+   }
+  }
+  coords 1250.338 32.431 3418.493
+ }
+ {
+  components {
+   MeshObject "{61E17987C3B306DE}" {
+    Object "{97C2A0A467935D00}Assets/barraco_14.xob"
+   }
+  }
+  coords 1272.463 32.981 3418.734
+ }
+ {
+  components {
+   MeshObject "{61E17987C7391C4C}" {
+    Object "{96187A34175295FB}Assets/barraco_1.xob"
+   }
+  }
+  coords 1253.136 30.852 3408.989
+ }
+ {
+  components {
+   MeshObject "{61E17987DFC0B519}" {
+    Object "{0F06C3AD0AB5A46B}Assets/barraco_2.xob"
+   }
+  }
+  coords 1263.725 28.715 3410.39
+ }
+ {
+  components {
+   MeshObject "{61E17987A501FB9D}" {
+    Object "{640D1D6D0CC88FB7}Assets/barraco_03.xob"
+   }
+  }
+  coords 1232.01 27.195 3406.264
+ }
+ {
+  components {
+   MeshObject "{61E17987B38F0E96}" {
+    Object "{780CAB25FE174B1B}Assets/barraco_3.xob"
+   }
+  }
+  coords 1274.517 29.314 3407.14
+ }
+ {
+  components {
+   MeshObject "{61E17987B7BBE549}" {
+    Object "{63CAE73C6A4E3574}Assets/barraco_04.xob"
+   }
+  }
+  coords 1288.441 31.001 3407.056
+ }
+ {
+  components {
+   MeshObject "{61E17987BC92F099}" {
+    Object "{14C08FB49EECDA04}Assets/barraco_05.xob"
+   }
+  }
+  coords 1302.15 34.025 3424.665
+ }
+ {
+  components {
+   MeshObject "{61E1798783D9BA31}" {
+    Object "{BB578CFE4A2C9245}Assets/ruareta.xob"
+   }
+  }
+  coords 1299.661 31.938 3412.42
+ }
+ {
+  components {
+   MeshObject "{61E1798785FB7BF2}" {
+    Object "{7659851743DBF666}Assets/barraco_18.xob"
+   }
+  }
+  coords 1311.419 34.157 3418.031
+ }
+ {
+  components {
+   MeshObject "{61E1798788D29A14}" {
+    Object "{E45C142EE19E61DA}Assets/telhado.xob"
+   }
+  }
+  coords 1288.201 38.056 3408.832
+ }
+ {
+  components {
+   MeshObject "{61E1798797D4301C}" {
+    Object "{56D4330EA4523F38}Assets/GN_barraco01.xob"
+   }
+  }
+  coords 1310.404 31.195 3410.377
+ }
+ {
+  components {
+   MeshObject "{61E1798763C14A0A}" {
+    Object "{8081E656EE98191C}Assets/curva.xob"
+   }
+  }
+  coords 1297.491 27.221 3401.041
+ }
+ {
+  components {
+   MeshObject "{61E1798765C426EB}" {
+    Object "{420934613EB91BCC}Assets/calcada.xob"
+   }
+  }
+  coords 1252.628 21.611 3392.47
+ }
+ {
+  components {
+   MeshObject "{61E17987677B03CA}" {
+    Object "{54C574CEFF0B20E5}Assets/lombada.xob"
+   }
+  }
+  coords 1272.768 24.345 3397.459
+ }
+ {
+  components {
+   MeshObject "{61E1798770C9A7B3}" {
+    Object "{CFCA8A97B9B50EA8}Assets/GN_barraco02.xob"
+   }
+  }
+  coords 1255.573 23.965 3397.354
+ }
+ {
+  components {
+   MeshObject "{61E179874ACC68CD}" {
+    Object "{CFCA8A97B9B50EA8}Assets/GN_barraco02.xob"
+   }
+  }
+  coords 1281.799 26.174 3397.986
+ }
+}
+$grp SCR_DestructibleBuildingEntity {
+ {
+  components {
+   SignalsManagerComponent "{61E10D2751F3B506}" {
+   }
+   MeshObject "{61E0FD87588E6CCB}" {
+    Object "{91DF806571D42F38}Assets/barraco_6.xob"
+    LODFactors {
+     500 250 200 100 50 20 1
+    }
+    ObjectHeightmapBias 1
+   }
+   RigidBody "{61E10D2746B62818}" {
+    ModelGeometry 1
+    Static 1
+   }
+   RplComponent "{61E10D274D729915}" {
+   }
+  }
+  coords 1208.583 42.803 3421.042
+  angleY -167.919
+ }
+ {
+  components {
+   SignalsManagerComponent "{61E10D27A9445613}" {
+   }
+   MeshObject "{61E0FD87AB5261C1}" {
+    Object "{08C139FC6C331EA8}Assets/barraco_5.xob"
+    LODFactors {
+     500 250 200 100 50 20 1
+    }
+    ObjectHeightmapBias 1
+   }
+   RigidBody "{61E0FD87B337B60A}" {
+    ModelGeometry 1
+    Static 1
+   }
+   RplComponent "{61E0FD87B57FF146}" {
+   }
+   Hierarchy "{61E10D27870EF0F1}" {
+   }
+  }
+  coords 1220.92 37.265 3419.189
+  angleY 111.912
+ }
+ {
+  components {
+   SignalsManagerComponent "{61E10D276B65E9F3}" {
+    Enabled 0
+   }
+   MeshObject "{61E0FD870A193D41}" {
+    Object "{780CAB25FE174B1B}Assets/barraco_3.xob"
+    LODFactors {
+     500 250 200 100 50 20 1
+    }
+    ObjectHeightmapBias 1
+   }
+   RigidBody "{61E10D27791265F2}" {
+    ModelGeometry 1
+    Static 1
+   }
+   RplComponent "{61E10D27413C1142}" {
+    Enabled 0
+   }
+   Hierarchy "{61E10D27423A7A7E}" {
+    Enabled 0
+   }
+  }
+  coords 1229.676 34.766 3416.796
+  angleY 100.252
+ }
+ {
+  components {
+   SignalsManagerComponent "{61E10D275526688F}" {
+   }
+   MeshObject "{61E0FD98F84E1F0B}" {
+    Object "{E70F327DF5B708B3}Assets/barraco_12.xob"
+    LODFactors {
+     500 250 200 100 50 20 1
+    }
+    ObjectHeightmapBias 1
+   }
+   RigidBody "{61E10D27535FE60B}" {
+    ModelGeometry 1
+    Static 1
+   }
+   RplComponent "{61E10D2759B6E985}" {
+   }
+  }
+  coords 1197.916 39.225 3426.875
+  angleY 10.835
+ }
+}
