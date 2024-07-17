@@ -1,3 +1,30 @@
+$grp DestructibleEntity {
+ {
+  components {
+   MeshObject "{61E17987677B03CA}" {
+    Object "{54C574CEFF0B20E5}Assets/lombada.xob"
+   }
+   RigidBody "{61E2A79F98A623FB}" {
+    ModelGeometry 1
+    Static 1
+   }
+  }
+  coords 1272.768 24.345 3397.459
+ }
+ {
+  components {
+   MeshObject "{61E17987677B03CA}" {
+    Object "{54C574CEFF0B20E5}Assets/lombada.xob"
+   }
+   RigidBody "{61E2A79F98A623FB}" {
+    ModelGeometry 1
+    Static 1
+   }
+  }
+  coords 1721.437 17.531 3400.651
+  angleY 70.19
+ }
+}
 $grp GenericEntity {
  {
   components {
@@ -40,64 +67,24 @@ $grp GenericEntity {
  }
  {
   components {
-   MeshObject "{61E1798B154B5EE2}" {
-    Object "{E0C8C82C9331B270}Assets/barraco_15.xob"
-   }
-  }
-  coords 1221.934 34.421 3441.955
- }
- {
-  components {
-   MeshObject "{61E179888AA1CAEA}" {
-    Object "{1CDE6CC9198DCE21}Assets/antena.xob"
-   }
-  }
-  coords 1235.742 34.668 3429.18
- }
- {
-  components {
-   MeshObject "{61E1798D416CE22B}" {
-    Object "{7659851743DBF666}Assets/barraco_18.xob"
-   }
-  }
-  coords 1236.537 33.01 3440.612
- }
- {
-  components {
-   MeshObject "{61E1798D1DFFC5BE}" {
-    Object "{56D4330EA4523F38}Assets/GN_barraco01.xob"
-   }
-  }
-  coords 1233.063 32.355 3450.756
- }
- {
-  components {
    MeshObject "{61E17982328FE385}" {
     Object "{A7BA28ADE2376517}Assets/escada2.xob"
+   }
+   RigidBody "{61E2A79C49F1F3FF}" {
+    ModelGeometry 1
+    Static 1
    }
   }
   coords 1243.683 30.569 3448.962
  }
  {
   components {
-   MeshObject "{61E17981D7057431}" {
-    Object "{0EDC193D7A746C90}Assets/barraco_17.xob"
-   }
-  }
-  coords 1246.568 32.122 3440.078
- }
- {
-  components {
-   MeshObject "{61E17981A87635E4}" {
-    Object "{8DDE362D830BEB94}Assets/barraco_06.xob"
-   }
-  }
-  coords 1207.397 37.63 3438.817
- }
- {
-  components {
    MeshObject "{61E17981ACE2C304}" {
     Object "{39636B659956EE44}Assets/escada6.xob"
+   }
+   RigidBody "{61E2A79D16BD35DF}" {
+    ModelGeometry 1
+    Static 1
    }
   }
   coords 1216.116 33.966 3449.336
@@ -107,21 +94,21 @@ $grp GenericEntity {
    MeshObject "{61E17981BF52CEBE}" {
     Object "{A07DD2FC84B1DFD4}Assets/escada5.xob"
    }
+   RigidBody "{61E2A79D12CAC875}" {
+    ModelGeometry 1
+    Static 1
+   }
   }
   coords 1216.98 34.695 3459.656
  }
  {
   components {
-   MeshObject "{61E17981847F4C86}" {
-    Object "{419E925A2E830856}Assets/prediocda.xob"
-   }
-  }
-  coords 1284.573 34.236 3436.853
- }
- {
-  components {
    MeshObject "{61E179814290B995}" {
     Object "{3EA49134FFD05487}Assets/escada1.xob"
+   }
+   RigidBody "{61E2A79F36996B84}" {
+    ModelGeometry 1
+    Static 1
    }
   }
   coords 1258.898 27.358 3458.661
@@ -131,6 +118,10 @@ $grp GenericEntity {
    MeshObject "{61E17981459B220F}" {
     Object "{D0B0402516958A67}Assets/escada3.xob"
    }
+   RigidBody "{61E2A79F3BEAF6AE}" {
+    ModelGeometry 1
+    Static 1
+   }
   }
   coords 1261.028 28.547 3451.412
  }
@@ -139,120 +130,48 @@ $grp GenericEntity {
    MeshObject "{61E1798147ACCA95}" {
     Object "{D777BA74701330A4}Assets/escada4.xob"
    }
+   RigidBody "{61E2A79F358F141F}" {
+    ModelGeometry 1
+    Static 1
+   }
   }
   coords 1276.551 27.052 3454.111
- }
- {
-  components {
-   MeshObject "{61E1798146B02226}" {
-    Object "{90055AF50115E7C3}Assets/barraco_13.xob"
-   }
-  }
-  coords 1264.789 32.963 3430.933
- }
- {
-  components {
-   MeshObject "{61E179811CC9C7B9}" {
-    Object "{0153ED9FB7791916}Assets/barraco_19.xob"
-   }
-  }
-  coords 1262.648 30.032 3440.059
- }
- {
-  components {
-   MeshObject "{61E17980D309D8B1}" {
-    Object "{B9E71B3E4A3A86BC}Assets/barraco_22.xob"
-   }
-  }
-  coords 1246.682 28.097 3456.427
- }
- {
-  components {
-   MeshObject "{61E17980B54ADD47}" {
-    Object "{57F3CA2FA37F585C}Assets/barraco_20.xob"
-   }
-  }
-  coords 1226.078 31.579 3457.822
- }
- {
-  components {
-   MeshObject "{61E1798096CCE882}" {
-    Object "{7E118BE4E8503923}Assets/barraco_11.xob"
-   }
-  }
-  coords 1232.285 29.726 3459.165
- }
- {
-  components {
-   MeshObject "{61E1798012A2FB2B}" {
-    Object "{7E118BE4E8503923}Assets/barraco_11.xob"
-   }
-  }
-  coords 1241.067 34.292 3425.757
  }
  {
   components {
    MeshObject "{61E1798016C5FB92}" {
     Object "{3391A18D91EB8924}Assets/rampa.xob"
    }
-  }
-  coords 1240.647 32.923 3417.723
- }
- {
-  components {
-   MeshObject "{61E179801926F04D}" {
-    Object "{FDEF6F3F43A98E14}Assets/casa1.xob"
+   RigidBody "{61E2A79C5AC76AA2}" {
+    ModelGeometry 1
+    Static 1
    }
   }
-  coords 1254.438 33.451 3430.246
+  coords 1240.647 32.923 3417.723
  }
  {
   components {
    MeshObject "{61E17987EF1EBDA3}" {
     Object "{59D46E88221129F9}Assets/orelhao.xob"
    }
-  }
-  coords 1251.949 33.558 3422.686
- }
- {
-  components {
-   MeshObject "{61E17987FD32A879}" {
-    Object "{20F9A2A757DDB72C}Assets/barraco_21.xob"
+   RigidBody "{61E2A79C37BA4015}" {
+    ResponseIndex "Normal"
+    ModelGeometry 1
    }
   }
-  coords 1258.818 32.756 3418.823
+  coords 1251.949 33.558 3422.686
  }
  {
   components {
    MeshObject "{61E17987FF00518A}" {
     Object "{4E6903ED6DF40134}Assets/escada7.xob"
    }
+   RigidBody "{61E2A79C2026A9E8}" {
+    ModelGeometry 1
+    Static 1
+   }
   }
   coords 1250.338 32.431 3418.493
- }
- {
-  components {
-   MeshObject "{61E17987C3B306DE}" {
-    Object "{97C2A0A467935D00}Assets/barraco_14.xob"
-   }
-  }
-  coords 1272.463 32.981 3418.734
- }
- {
-  components {
-   MeshObject "{61E17987C7391C4C}" {
-    Object "{96187A34175295FB}Assets/barraco_1.xob"
-   }
-  }
-  coords 1253.136 30.852 3408.989
- }
- {
-  components {
-   MeshObject "{61E17987DFC0B519}" {
-    Object "{0F06C3AD0AB5A46B}Assets/barraco_2.xob"
-   }
-  }
-  coords 1263.725 28.715 3410.39
  }
  {
   components {
@@ -264,43 +183,15 @@ $grp GenericEntity {
  }
  {
   components {
-   MeshObject "{61E17987B38F0E96}" {
-    Object "{780CAB25FE174B1B}Assets/barraco_3.xob"
-   }
-  }
-  coords 1274.517 29.314 3407.14
- }
- {
-  components {
-   MeshObject "{61E17987B7BBE549}" {
-    Object "{63CAE73C6A4E3574}Assets/barraco_04.xob"
-   }
-  }
-  coords 1288.441 31.001 3407.056
- }
- {
-  components {
-   MeshObject "{61E17987BC92F099}" {
-    Object "{14C08FB49EECDA04}Assets/barraco_05.xob"
-   }
-  }
-  coords 1302.15 34.025 3424.665
- }
- {
-  components {
    MeshObject "{61E1798783D9BA31}" {
     Object "{BB578CFE4A2C9245}Assets/ruareta.xob"
    }
-  }
-  coords 1299.661 31.938 3412.42
- }
- {
-  components {
-   MeshObject "{61E1798785FB7BF2}" {
-    Object "{7659851743DBF666}Assets/barraco_18.xob"
+   RigidBody "{61E2A79F69AE5CAE}" {
+    ModelGeometry 1
+    Static 1
    }
   }
-  coords 1311.419 34.157 3418.031
+  coords 1299.661 31.938 3412.42
  }
  {
   components {
@@ -312,40 +203,363 @@ $grp GenericEntity {
  }
  {
   components {
-   MeshObject "{61E1798797D4301C}" {
-    Object "{56D4330EA4523F38}Assets/GN_barraco01.xob"
-   }
-  }
-  coords 1310.404 31.195 3410.377
- }
- {
-  components {
    MeshObject "{61E1798763C14A0A}" {
     Object "{8081E656EE98191C}Assets/curva.xob"
    }
+   RigidBody "{61E2A79F904BFD9C}" {
+    ModelGeometry 1
+    Static 1
+   }
   }
   coords 1297.491 27.221 3401.041
+  angleZ 7.078
  }
  {
   components {
    MeshObject "{61E1798765C426EB}" {
     Object "{420934613EB91BCC}Assets/calcada.xob"
    }
+   RigidBody "{61E2A79F611DF7D8}" {
+    ModelGeometry 1
+    Static 1
+   }
   }
   coords 1252.628 21.611 3392.47
  }
+}
+$grp SCR_DestructibleBuildingEntity {
  {
   components {
-   MeshObject "{61E17987677B03CA}" {
-    Object "{54C574CEFF0B20E5}Assets/lombada.xob"
+   SignalsManagerComponent "{61E2A79CE40A793F}" {
+   }
+   MeshObject "{61E1798B154B5EE2}" {
+    Object "{E0C8C82C9331B270}Assets/barraco_15.xob"
+   }
+   RigidBody "{61E2A79D1F5A211F}" {
+    ModelGeometry 1
+    Static 1
+   }
+   RplComponent "{61E2A79CE0AACA0A}" {
    }
   }
-  coords 1272.768 24.345 3397.459
+  coords 1221.934 34.421 3441.955
+ }
+ {
+  components {
+   MeshObject "{61E179888AA1CAEA}" {
+    Object "{1CDE6CC9198DCE21}Assets/antena.xob"
+   }
+   RigidBody "{61E2A79C89027095}" {
+   }
+   RplComponent "{61E2A79C8BFC2928}" {
+   }
+  }
+  coords 1235.742 34.668 3429.18
+ }
+ {
+  components {
+   MeshObject "{61E1798D416CE22B}" {
+    Object "{7659851743DBF666}Assets/barraco_18.xob"
+   }
+   RigidBody "{61E2A79CA3DA423D}" {
+    ModelGeometry 1
+    Static 1
+   }
+   RplComponent "{61E2A79CA0824508}" {
+   }
+  }
+  coords 1236.537 33.01 3440.612
+ }
+ {
+  components {
+   MeshObject "{61E1798D1DFFC5BE}" {
+    Object "{56D4330EA4523F38}Assets/GN_barraco01.xob"
+   }
+   RigidBody "{61E2A79CD204D83A}" {
+    ModelGeometry 1
+    Static 1
+   }
+   RplComponent "{61E2A79CD55D35DB}" {
+   }
+  }
+  coords 1233.063 32.355 3450.756
+ }
+ {
+  components {
+   MeshObject "{61E17981D7057431}" {
+    Object "{0EDC193D7A746C90}Assets/barraco_17.xob"
+   }
+   RigidBody "{61E2A79C7AF7263C}" {
+    ModelGeometry 1
+    Static 1
+   }
+   RplComponent "{61E2A79C7D2E961C}" {
+   }
+  }
+  coords 1246.568 32.122 3440.078
+ }
+ {
+  components {
+   SignalsManagerComponent "{61E2A79D03519F80}" {
+   }
+   MeshObject "{61E17981A87635E4}" {
+    Object "{8DDE362D830BEB94}Assets/barraco_06.xob"
+   }
+   RigidBody "{61E2A79D3017D12A}" {
+    ModelGeometry 1
+    Static 1
+   }
+   RplComponent "{61E2A79D320E953D}" {
+   }
+  }
+  coords 1207.397 37.63 3438.817
+ }
+ {
+  components {
+   MeshObject "{61E17981847F4C86}" {
+    Object "{419E925A2E830856}Assets/prediocda.xob"
+   }
+   RigidBody "{61E2A79FAF7B5A96}" {
+    ModelGeometry 1
+    Static 1
+   }
+   RplComponent "{61E2A79FB35AC488}" {
+   }
+  }
+  coords 1284.573 34.236 3436.853
+ }
+ {
+  components {
+   MeshObject "{61E1798146B02226}" {
+    Object "{90055AF50115E7C3}Assets/barraco_13.xob"
+   }
+   RigidBody "{61E2A79FD57F1910}" {
+    ModelGeometry 1
+    Static 1
+   }
+   RplComponent "{61E2A79FD609884A}" {
+   }
+  }
+  coords 1264.789 32.963 3430.933
+ }
+ {
+  components {
+   MeshObject "{61E179811CC9C7B9}" {
+    Object "{0153ED9FB7791916}Assets/barraco_19.xob"
+   }
+   RigidBody "{61E2A79F261D036B}" {
+    ModelGeometry 1
+    Static 1
+   }
+  }
+  coords 1262.648 30.032 3440.059
+ }
+ {
+  components {
+   MeshObject "{61E17980D309D8B1}" {
+    Object "{B9E71B3E4A3A86BC}Assets/barraco_22.xob"
+   }
+   RigidBody "{61E2A79C733C432C}" {
+    ModelGeometry 1
+    Static 1
+   }
+   RplComponent "{61E2A79C70882144}" {
+   }
+  }
+  coords 1246.682 28.097 3456.427
+ }
+ {
+  components {
+   SignalsManagerComponent "{61E2A79CF20D4F63}" {
+   }
+   MeshObject "{61E17980B54ADD47}" {
+    Object "{57F3CA2FA37F585C}Assets/barraco_20.xob"
+   }
+   RigidBody "{61E2A79CF1A327B7}" {
+    ModelGeometry 1
+    Static 1
+   }
+   RplComponent "{61E2A79CF3EACCF1}" {
+   }
+  }
+  coords 1226.078 31.579 3457.822
+ }
+ {
+  components {
+   MeshObject "{61E1798096CCE882}" {
+    Object "{7E118BE4E8503923}Assets/barraco_11.xob"
+   }
+   RigidBody "{61E2A79CC2CE8D46}" {
+    ModelGeometry 1
+    Static 1
+   }
+   RplComponent "{61E2A79CC51190DC}" {
+   }
+  }
+  coords 1232.285 29.726 3459.165
+ }
+ {
+  components {
+   MeshObject "{61E1798012A2FB2B}" {
+    Object "{7E118BE4E8503923}Assets/barraco_11.xob"
+   }
+   RigidBody "{61E2A79C4F333056}" {
+    ModelGeometry 1
+    Static 1
+   }
+   RplComponent "{61E2A79C5005387A}" {
+   }
+  }
+  coords 1241.067 34.292 3425.757
+ }
+ {
+  components {
+   MeshObject "{61E179801926F04D}" {
+    Object "{FDEF6F3F43A98E14}Assets/casa1.xob"
+   }
+   RigidBody "{61E2A79FA041B96F}" {
+    ModelGeometry 1
+    Static 1
+   }
+   RplComponent "{61E2A79FA7374CEB}" {
+   }
+  }
+  coords 1254.438 33.451 3430.246
+ }
+ {
+  components {
+   MeshObject "{61E17987FD32A879}" {
+    Object "{20F9A2A757DDB72C}Assets/barraco_21.xob"
+   }
+   RigidBody "{61E2A79FE4C4CBD8}" {
+    ModelGeometry 1
+    Static 1
+   }
+   RplComponent "{61E2A79FE60A609D}" {
+   }
+  }
+  coords 1258.818 32.756 3418.823
+ }
+ {
+  components {
+   MeshObject "{61E17987C3B306DE}" {
+    Object "{97C2A0A467935D00}Assets/barraco_14.xob"
+   }
+   RigidBody "{61E2A79FC8FA9649}" {
+    ModelGeometry 1
+    Static 1
+   }
+   RplComponent "{61E2A79FCA170C17}" {
+   }
+  }
+  coords 1272.463 32.981 3418.734
+ }
+ {
+  components {
+   MeshObject "{61E17987C7391C4C}" {
+    Object "{96187A34175295FB}Assets/barraco_1.xob"
+   }
+   RigidBody "{61E2A79C0013A573}" {
+    ModelGeometry 1
+    Static 1
+   }
+   RplComponent "{61E2A79C0DBE61BA}" {
+   }
+  }
+  coords 1253.136 30.852 3408.989
+ }
+ {
+  components {
+   MeshObject "{61E17987DFC0B519}" {
+    Object "{0F06C3AD0AB5A46B}Assets/barraco_2.xob"
+   }
+   RigidBody "{61E2A79C1BF0451D}" {
+    ModelGeometry 1
+    Static 1
+   }
+   RplComponent "{61E2A79C1D241EBE}" {
+   }
+  }
+  coords 1263.725 28.715 3410.39
+ }
+ {
+  components {
+   MeshObject "{61E17987B38F0E96}" {
+    Object "{780CAB25FE174B1B}Assets/barraco_3.xob"
+   }
+   RigidBody "{61E2A79FF46E33C0}" {
+    ModelGeometry 1
+    Static 1
+   }
+   RplComponent "{61E2A79FF8D4CDD6}" {
+   }
+  }
+  coords 1274.517 29.314 3407.14
+ }
+ {
+  components {
+   MeshObject "{61E17987B7BBE549}" {
+    Object "{63CAE73C6A4E3574}Assets/barraco_04.xob"
+   }
+   RigidBody "{61E2A79F81EF9875}" {
+    ModelGeometry 1
+    Static 1
+   }
+   RplComponent "{61E2A79FBC5ACEC3}" {
+   }
+  }
+  coords 1288.441 31.001 3407.056
+ }
+ {
+  components {
+   MeshObject "{61E17987BC92F099}" {
+    Object "{14C08FB49EECDA04}Assets/barraco_05.xob"
+   }
+   RigidBody "{61E2A79F20A36311}" {
+    ModelGeometry 1
+    Static 1
+   }
+  }
+  coords 1302.15 34.025 3424.665
+ }
+ {
+  components {
+   MeshObject "{61E1798785FB7BF2}" {
+    Object "{7659851743DBF666}Assets/barraco_18.xob"
+   }
+   RigidBody "{61E2A79F7ACFF7EE}" {
+    ModelGeometry 1
+    Static 1
+   }
+   RplComponent "{61E2A79F790A1BAA}" {
+   }
+  }
+  coords 1311.419 34.157 3418.031
+ }
+ {
+  components {
+   MeshObject "{61E1798797D4301C}" {
+    Object "{56D4330EA4523F38}Assets/GN_barraco01.xob"
+   }
+   RigidBody "{61E2A79F6DE43B0E}" {
+    ModelGeometry 1
+    Static 1
+   }
+   RplComponent "{61E2A79F6FBA4D64}" {
+   }
+  }
+  coords 1310.404 31.195 3410.377
  }
  {
   components {
    MeshObject "{61E1798770C9A7B3}" {
     Object "{CFCA8A97B9B50EA8}Assets/GN_barraco02.xob"
+   }
+   RigidBody "{61E2A79C103CC4C2}" {
+    ModelGeometry 1
+    Static 1
+   }
+   RplComponent "{61E2A79C15F3AF35}" {
    }
   }
   coords 1255.573 23.965 3397.354
@@ -355,11 +569,15 @@ $grp GenericEntity {
    MeshObject "{61E179874ACC68CD}" {
     Object "{CFCA8A97B9B50EA8}Assets/GN_barraco02.xob"
    }
+   RigidBody "{61E2A79FC32C0C01}" {
+    ModelGeometry 1
+    Static 1
+   }
+   RplComponent "{61E2A79FC57792D1}" {
+   }
   }
   coords 1281.799 26.174 3397.986
  }
-}
-$grp SCR_DestructibleBuildingEntity {
  {
   components {
    SignalsManagerComponent "{61E10D2751F3B506}" {
