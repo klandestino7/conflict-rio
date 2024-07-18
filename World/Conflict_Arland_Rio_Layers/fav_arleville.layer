@@ -1,0 +1,54 @@
+$grp GenericEntity : "{03DA1744D0D06828}Prefab/utilitarios/calcada.et" {
+ {
+  coords 2220.49 87.782 1194.785
+  angleX 1.356
+  angleY 61.338
+  angleZ 0.075
+ }
+ {
+  coords 2228.771 88.008 1199.499
+  angleX 1.358
+  angleY 59.461
+  angleZ 0.031
+ }
+ {
+  coords 2236.778 88.233 1204.6
+  angleX 1.357
+  angleY 55.656
+  angleZ -0.06
+ }
+}
+GenericEntity : "{2D2442ABF4776F2B}Prefab/Casas/barraco_03.et" {
+ coords 2239.339 88.736 1189.871
+ angleY 147.585
+}
+SCR_DestructibleBuildingEntity : "{52C21FCB3959A68E}Prefab/Casas/barraco_11_peq.et" {
+ coords 2226.706 87.422 1188.069
+ angleY 63.481
+}
+SCR_DestructibleBuildingEntity : "{5737DC0CD20B5C38}Prefab/Casas/barraco_01_peq.et" {
+ coords 2233.855 88.058 1187.31
+ angleY 150.309
+}
+SCR_DestructibleBuildingEntity : "{7EC852242187999E}Prefab/Casas/barraco_21_med.et" {
+ coords 2228.509 89.23 1203.421
+ angleY -34.847
+}
+SCR_DestructibleBuildingEntity : "{A2A9408BC5B28AC9}Prefab/Casas/barraco_gn_01.et" {
+ coords 2251.737 89.726 1200.599
+ angleY 136.661
+}
+$grp SCR_DestructibleBuildingEntity : "{CC1F10CF7E25AA06}Prefab/Casas/barraco_22_med.et" {
+ {
+  coords 2246.274 89.808 1195.181
+  angleY 50.628
+ }
+ {
+  coords 2234.552 89.482 1210.262
+  angleY 56.084
+ }
+}
+SCR_DestructibleBuildingEntity : "{E7BACF3E6868897B}Prefab/Casas/barraco_19_peq.et" {
+ coords 2219.959 89.459 1197.957
+ angleY -29.064
+}
