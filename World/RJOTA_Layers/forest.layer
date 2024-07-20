@@ -33,61 +33,7 @@ $grp Tree : "{0CA0547EB03759E1}Prefabs/Vegetation/Bush/b_rubus_idaeus_1s.et" {
   coords 914.877 0 2361.414
  }
  {
-  coords 907.489 0 2333.869
- }
- {
   coords 884.138 0 2338.59
- }
- {
-  coords 903.331 0 2319.645
- }
- {
-  coords 940.98 0 2301.666
- }
- {
-  coords 962.845 0 2279.026
- }
- {
-  coords 940.593 0 2249.71
- }
- {
-  coords 913.67 0 2260.996
- }
- {
-  coords 861.373 0 2269.935
- }
- {
-  coords 851.464 0 2231.523
- }
- {
-  coords 839.972 0 2225.716
- }
- {
-  coords 940.786 0 2164.023
- }
- {
-  coords 975.949 0 2146.561
- }
- {
-  coords 982.043 0 2125.207
- }
- {
-  coords 970.984 0 2130.309
- }
- {
-  coords 963.044 0 2195.022
- }
- {
-  coords 991.669 0 2181.992
- }
- {
-  coords 997.373 0 2126.797
- }
- {
-  coords 1011.835 0 2112.992
- }
- {
-  coords 999.911 0 2107.683
  }
  {
   coords 1035.461 0 2111.214
@@ -103,9 +49,6 @@ $grp Tree : "{0CA0547EB03759E1}Prefabs/Vegetation/Bush/b_rubus_idaeus_1s.et" {
  }
  {
   coords 1013.039 0 2046.198
- }
- {
-  coords 1019.436 0 2024.679
  }
  {
   coords 1035.826 0 2031.67
@@ -387,33 +330,6 @@ $grp Tree : "{0CA0547EB03759E1}Prefabs/Vegetation/Bush/b_rubus_idaeus_1s.et" {
   coords 1049.054 0 2182.338
  }
  {
-  coords 993.729 0 2248.139
- }
- {
-  coords 1019.332 0 2229.8
- }
- {
-  coords 1015.866 0 2255.151
- }
- {
-  coords 953.383 0 2272.321
- }
- {
-  coords 979.912 0 2249.908
- }
- {
-  coords 1013.223 0 2242.716
- }
- {
-  coords 1033.526 0 2233.687
- }
- {
-  coords 1027.392 0 2222.065
- }
- {
-  coords 1031.269 0 2197.768
- }
- {
   coords 1048.429 0 2200.213
  }
  {
@@ -427,9 +343,6 @@ $grp Tree : "{0CA0547EB03759E1}Prefabs/Vegetation/Bush/b_rubus_idaeus_1s.et" {
  }
  {
   coords 1080.778 0 2196.84
- }
- {
-  coords 1021.595 0 2197.613
  }
  {
   coords 1089.555 0 2193.94
@@ -552,13 +465,7 @@ $grp Tree : "{0CA0547EB03759E1}Prefabs/Vegetation/Bush/b_rubus_idaeus_1s.et" {
   coords 1190.89 0 2181.996
  }
  {
-  coords 1024.172 0 2207.011
- }
- {
   coords 1047.522 0 2195.379
- }
- {
-  coords 1024.776 0 2170.833
  }
  {
   coords 1144.972 0 2121.009
@@ -633,43 +540,19 @@ $grp Tree : "{0CA0547EB03759E1}Prefabs/Vegetation/Bush/b_rubus_idaeus_1s.et" {
   coords 1193.422 0 2254.196
  }
  {
-  coords 988.946 0 2146.738
- }
- {
   coords 1130.303 0 2206.612
- }
- {
-  coords 986.241 0 2093.034
- }
- {
-  coords 1015.502 0 2164.755
  }
  {
   coords 1064.33 0 2163.353
  }
  {
-  coords 987.326 0 2152.756
- }
- {
   coords 1059.869 0 2193.998
- }
- {
-  coords 1011.161 0 2167.804
- }
- {
-  coords 1041.242 0 2211.543
  }
  {
   coords 1158.9 0 2237.792
  }
  {
   coords 1159.441 0 2254.175
- }
- {
-  coords 1006.58 0 2264.974
- }
- {
-  coords 1019.17 0 2232.396
  }
 }
 $grp SCR_DestructibleTreeV2 : "{11F76EE5E08CB431}Prefabs/Vegetation/Tree/Dst/t_betula_pendula_2sw_dst.et" {
@@ -902,45 +785,6 @@ $grp SCR_DestructibleTreeV2 : "{11F76EE5E08CB431}Prefabs/Vegetation/Tree/Dst/t_b
   coords 1205.394 0 2455.562
  }
  {
-  coords 998.002 0 2169.405
- }
- {
-  coords 992.588 0 2150.592
- }
- {
-  coords 957.457 0 2103.7
- }
- {
-  coords 964.609 0 2111.583
- }
- {
-  coords 976.927 0 2120.131
- }
- {
-  coords 990.172 0 2131.083
- }
- {
-  coords 1005.845 0 2136.238
- }
- {
-  coords 1006.974 0 2125.365
- }
- {
-  coords 995.725 0 2120.094
- }
- {
-  coords 1004.258 0 2167.859
- }
- {
-  coords 1011.464 0 2204.826
- }
- {
-  coords 1018.842 0 2163.042
- }
- {
-  coords 1023.288 0 2121.068
- }
- {
   coords 1033.013 0 2117.865
  }
  {
@@ -956,9 +800,6 @@ $grp SCR_DestructibleTreeV2 : "{11F76EE5E08CB431}Prefabs/Vegetation/Tree/Dst/t_b
   coords 1021.733 0 2098.535
  }
  {
-  coords 1039.573 0 2150.65
- }
- {
   coords 1047.034 0 2124.61
  }
  {
@@ -966,9 +807,6 @@ $grp SCR_DestructibleTreeV2 : "{11F76EE5E08CB431}Prefabs/Vegetation/Tree/Dst/t_b
  }
  {
   coords 1045.553 0 2051.721
- }
- {
-  coords 1046.786 0 2007.86
  }
  {
   coords 1028.395 0 1985.274
@@ -998,220 +836,7 @@ $grp SCR_DestructibleTreeV2 : "{11F76EE5E08CB431}Prefabs/Vegetation/Tree/Dst/t_b
   coords 1058.663 0 2106.295
  }
  {
-  coords 1020.455 0 2129.36
- }
- {
-  coords 1011.253 0 2128.888
- }
- {
-  coords 1015.192 0 2183.847
- }
- {
-  coords 996.642 0 2194.027
- }
- {
-  coords 975.523 0 2192.872
- }
- {
-  coords 985.809 0 2219.434
- }
- {
-  coords 997.972 0 2220.58
- }
- {
-  coords 936.256 0 2222.159
- }
- {
-  coords 939.969 0 2207.173
- }
- {
-  coords 960.991 0 2208.186
- }
- {
-  coords 963.431 0 2212.298
- }
- {
-  coords 947.95 0 2183.95
- }
- {
-  coords 942.942 0 2193.003
- }
- {
-  coords 955.923 0 2184.84
- }
- {
-  coords 946.648 0 2166.258
- }
- {
-  coords 988.062 0 2143.033
- }
- {
-  coords 992.097 0 2152.854
- }
- {
-  coords 995.343 0 2165.016
- }
- {
-  coords 1027.524 0 2188.237
- }
- {
   coords 1035.523 0 2196.342
- }
- {
-  coords 1029.686 0 2211.7
- }
- {
-  coords 1000.716 0 2207.348
- }
- {
-  coords 1013.736 0 2220.713
- }
- {
-  coords 1002.38 0 2221.82
- }
- {
-  coords 1008.536 0 2222.053
- }
- {
-  coords 975.392 0 2226.483
- }
- {
-  coords 976.246 0 2234.897
- }
- {
-  coords 958.079 0 2222.113
- }
- {
-  coords 955.954 0 2250.514
- }
- {
-  coords 948.318 0 2258.372
- }
- {
-  coords 914.639 0 2274.152
- }
- {
-  coords 940.019 0 2280.682
- }
- {
-  coords 938.969 0 2285.767
- }
- {
-  coords 967.19 0 2278.918
- }
- {
-  coords 953.24 0 2275.953
- }
- {
-  coords 1000.54 0 2237.331
- }
- {
-  coords 994.725 0 2247.792
- }
- {
-  coords 956.631 0 2268.88
- }
- {
-  coords 919.451 0 2297.234
- }
- {
-  coords 929.226 0 2292.849
- }
- {
-  coords 900.453 0 2304.002
- }
- {
-  coords 901.472 0 2284.691
- }
- {
-  coords 913.544 0 2295.051
- }
- {
-  coords 934.842 0 2279.884
- }
- {
-  coords 941.044 0 2255.608
- }
- {
-  coords 926.043 0 2256.311
- }
- {
-  coords 906.375 0 2233.81
- }
- {
-  coords 929.577 0 2246.356
- }
- {
-  coords 902.631 0 2209.784
- }
- {
-  coords 895.748 0 2227.255
- }
- {
-  coords 886.409 0 2255.317
- }
- {
-  coords 880.235 0 2257.004
- }
- {
-  coords 894.188 0 2245.614
- }
- {
-  coords 898.215 0 2258.1
- }
- {
-  coords 907.287 0 2252.799
- }
- {
-  coords 925.952 0 2262.661
- }
- {
-  coords 881.767 0 2247.218
- }
- {
-  coords 880.429 0 2236.554
- }
- {
-  coords 859.527 0 2236.784
- }
- {
-  coords 882.865 0 2197.815
- }
- {
-  coords 881.114 0 2209.137
- }
- {
-  coords 902.863 0 2200.419
- }
- {
-  coords 900.542 0 2196.609
- }
- {
-  coords 910.429 0 2206.094
- }
- {
-  coords 900.554 0 2178.308
- }
- {
-  coords 909.93 0 2154.073
- }
- {
-  coords 919.332 0 2156.902
- }
- {
-  coords 869.143 0 2213.915
- }
- {
-  coords 963.074 0 2158.018
- }
- {
-  coords 981.242 0 2091.298
- }
- {
-  coords 967.275 0 2095.307
- }
- {
-  coords 953.35 0 2120.632
  }
  {
   coords 1189.71 0 2202.044
@@ -1769,13 +1394,7 @@ $grp SCR_DestructibleTreeV2 : "{11F76EE5E08CB431}Prefabs/Vegetation/Tree/Dst/t_b
   coords 884.993 0 2061.695
  }
  {
-  coords 910.838 0 2103.013
- }
- {
   coords 865.608 0 2098.657
- }
- {
-  coords 903.229 0 2146.323
  }
  {
   coords 857.325 0 2095.383
@@ -1796,31 +1415,16 @@ $grp SCR_DestructibleTreeV2 : "{11F76EE5E08CB431}Prefabs/Vegetation/Tree/Dst/t_b
   coords 958.63 0 1981.81
  }
  {
-  coords 957.794 0 2031.376
- }
- {
   coords 931.978 0 2027.375
  }
  {
   coords 953.518 0 1997.062
  }
  {
-  coords 961.418 0 2038.215
- }
- {
-  coords 936.267 0 2052.281
- }
- {
   coords 946.074 0 2020.705
  }
  {
-  coords 987.442 0 2038.096
- }
- {
   coords 905.568 0 2055.4
- }
- {
-  coords 933.31 0 2076.518
  }
  {
   coords 960.123 0 2024.051
@@ -1841,16 +1445,7 @@ $grp SCR_DestructibleTreeV2 : "{11F76EE5E08CB431}Prefabs/Vegetation/Tree/Dst/t_b
   coords 942.74 0 2019.553
  }
  {
-  coords 934.145 0 2072.197
- }
- {
-  coords 982.264 0 2037.364
- }
- {
   coords 925.229 0 2039.357
- }
- {
-  coords 954.336 0 2044.896
  }
  {
   coords 943.536 0 1991.95
@@ -1880,19 +1475,7 @@ $grp SCR_DestructibleTreeV2 : "{11F76EE5E08CB431}Prefabs/Vegetation/Tree/Dst/t_b
   coords 882.16 0 1996.766
  }
  {
-  coords 931.725 0 2064.406
- }
- {
-  coords 934.562 0 2082.818
- }
- {
   coords 915.689 0 2049.937
- }
- {
-  coords 922.756 0 2089.649
- }
- {
-  coords 943.432 0 2063.884
  }
  {
   coords 913.535 0 2083.078
@@ -1901,16 +1484,7 @@ $grp SCR_DestructibleTreeV2 : "{11F76EE5E08CB431}Prefabs/Vegetation/Tree/Dst/t_b
   coords 901.711 0 2091.751
  }
  {
-  coords 948.365 0 2111.806
- }
- {
   coords 972.252 0 2092.078
- }
- {
-  coords 938.878 0 2117.625
- }
- {
-  coords 958.53 0 2073.579
  }
  {
   coords 976.531 0 2067.908
@@ -1919,22 +1493,10 @@ $grp SCR_DestructibleTreeV2 : "{11F76EE5E08CB431}Prefabs/Vegetation/Tree/Dst/t_b
   coords 1007.517 0 2047.055
  }
  {
-  coords 1027.834 0 2023.355
- }
- {
-  coords 1030.914 0 2027.635
- }
- {
-  coords 981.15 0 2041.108
- }
- {
   coords 1057.23 0 2000.007
  }
  {
   coords 1059.61 0 1953.95
- }
- {
-  coords 1041.075 0 1985.747
  }
  {
   coords 1086.075 0 1953.991
@@ -1943,16 +1505,10 @@ $grp SCR_DestructibleTreeV2 : "{11F76EE5E08CB431}Prefabs/Vegetation/Tree/Dst/t_b
   coords 1051.057 0 1931.019
  }
  {
-  coords 1080.151 0 1906.837
- }
- {
   coords 1052.845 0 1875.601
  }
  {
   coords 1065.769 0 1840.845
- }
- {
-  coords 1091.822 0 1819.208
  }
  {
   coords 1085.302 0 1827.75
@@ -1962,9 +1518,6 @@ $grp SCR_DestructibleTreeV2 : "{11F76EE5E08CB431}Prefabs/Vegetation/Tree/Dst/t_b
  }
  {
   coords 1110.214 0 1869.282
- }
- {
-  coords 1089.975 0 1903.876
  }
  {
   coords 1123.035 0 1882.416
@@ -2033,9 +1586,6 @@ $grp SCR_DestructibleTreeV2 : "{11F76EE5E08CB431}Prefabs/Vegetation/Tree/Dst/t_b
   coords 1129.482 0 1981.426
  }
  {
-  coords 1057.906 0 1989.833
- }
- {
   coords 1082.059 0 2000.824
  }
  {
@@ -2055,9 +1605,6 @@ $grp SCR_DestructibleTreeV2 : "{11F76EE5E08CB431}Prefabs/Vegetation/Tree/Dst/t_b
  }
  {
   coords 1058.912 0 2036.416
- }
- {
-  coords 1042.207 0 2001.425
  }
  {
   coords 1000.301 0 2061.233
@@ -2112,12 +1659,6 @@ $grp SCR_DestructibleTreeV2 : "{11F76EE5E08CB431}Prefabs/Vegetation/Tree/Dst/t_b
  }
  {
   coords 1028.889 0 1865.197
- }
- {
-  coords 1087.625 0 1862.876
- }
- {
-  coords 1093.683 0 1903.769
  }
  {
   coords 1142.037 0 1871.891
@@ -5732,7 +5273,7 @@ $grp SCR_DestructibleTreeV2 : "{11F76EE5E08CB431}Prefabs/Vegetation/Tree/Dst/t_b
   coords 2108.017 0 2152.571
  }
  {
-  coords 2136.213 -0 2197.449
+  coords 2136.213 0 2197.449
  }
  {
   coords 2071.341 0 2163.006
@@ -12059,7 +11600,7 @@ $grp SCR_TreePartV2 : "{1AE4B61B20DE15C7}Prefabs/Vegetation/Tree/Dst/t_carpinus_
   coords 1172.27 11.119 2276.493
  }
  {
-  coords 1081.333 -4.617 2318.091
+  coords 1077.294 -4.617 2334.024
  }
  {
   coords 1054.548 -4.729 2365.552
@@ -12251,28 +11792,10 @@ $grp SCR_TreePartV2 : "{1AE4B61B20DE15C7}Prefabs/Vegetation/Tree/Dst/t_carpinus_
   coords 1249.617 -3.706 2496.555
  }
  {
-  coords 1002.59 -4.386 2182.499
- }
- {
-  coords 1002.872 -4.386 2165.413
- }
- {
   coords 1011.641 -4.039 2146.298
  }
  {
   coords 1008.516 -4.174 2145.24
- }
- {
-  coords 1005.842 -4.278 2158.811
- }
- {
-  coords 1020.142 -4.292 2184.926
- }
- {
-  coords 1025.745 -4.292 2200.467
- }
- {
-  coords 1016.641 -4.324 2188.972
  }
  {
   coords 1039.172 -3.658 2118.897
@@ -12302,241 +11825,7 @@ $grp SCR_TreePartV2 : "{1AE4B61B20DE15C7}Prefabs/Vegetation/Tree/Dst/t_carpinus_
   coords 1028.555 -4.324 2115.409
  }
  {
-  coords 986.778 -4.467 2185.117
- }
- {
-  coords 982.509 -4.479 2187.913
- }
- {
-  coords 968.617 -4.542 2183.189
- }
- {
-  coords 969.955 -4.542 2207.015
- }
- {
-  coords 977.259 -4.542 2223.78
- }
- {
-  coords 984.982 -4.511 2226.259
- }
- {
-  coords 982.887 -4.542 2234.43
- }
- {
-  coords 986.401 -4.511 2229.489
- }
- {
-  coords 920.254 -4.73 2217.517
- }
- {
-  coords 954.415 -4.636 2212.79
- }
- {
-  coords 961.449 -4.604 2219.732
- }
- {
-  coords 971.791 -4.542 2169.037
- }
- {
-  coords 943.838 -4.667 2163.734
- }
- {
-  coords 932.402 -4.723 2168.109
- }
- {
-  coords 972.411 -4.535 2161.991
- }
- {
-  coords 986.411 -4.48 2153.312
- }
- {
-  coords 996.853 -4.417 2151.947
- }
- {
-  coords 1009.691 -4.417 2224.995
- }
- {
-  coords 999.136 -4.48 2230.359
- }
- {
-  coords 966.195 -4.573 2213.09
- }
- {
-  coords 931.933 -4.729 2282.384
- }
- {
-  coords 927.054 -4.729 2288.051
- }
- {
-  coords 924.299 -4.729 2283.345
- }
- {
-  coords 958.548 -4.725 2265.729
- }
- {
-  coords 959.203 -4.698 2258.26
- }
- {
-  coords 971.241 -4.636 2255.322
- }
- {
-  coords 974.188 -4.664 2264.149
- }
- {
-  coords 982.059 -4.542 2237.385
- }
- {
-  coords 991.648 -4.511 2237.426
- }
- {
-  coords 998.91 -4.542 2253.232
- }
- {
-  coords 991.938 -4.605 2260.851
- }
- {
-  coords 987.703 -4.573 2250.529
- }
- {
-  coords 981.173 -4.604 2250.215
- }
- {
-  coords 908.606 -4.73 2288.733
- }
- {
-  coords 886.254 -4.73 2298.208
- }
- {
-  coords 887.623 -4.73 2294.713
- }
- {
-  coords 895.74 -4.729 2300.324
- }
- {
-  coords 909.323 -4.73 2229.002
- }
- {
-  coords 936.683 -4.729 2232.448
- }
- {
-  coords 925.445 -4.73 2211.046
- }
- {
-  coords 912.988 -4.73 2217.238
- }
- {
-  coords 901.979 -4.73 2220.717
- }
- {
-  coords 896.595 -4.73 2241.722
- }
- {
-  coords 892.62 -4.73 2258.29
- }
- {
-  coords 887.798 -4.73 2268.369
- }
- {
-  coords 886.831 -4.73 2264.092
- }
- {
-  coords 871.486 -4.73 2256.614
- }
- {
-  coords 881.482 -4.73 2259.673
- }
- {
-  coords 879.91 -4.73 2261.982
- }
- {
-  coords 903.829 -4.729 2261.497
- }
- {
-  coords 888.476 -4.729 2247.031
- }
- {
-  coords 918.336 -4.73 2255.604
- }
- {
-  coords 926.035 -4.729 2247.761
- }
- {
-  coords 913.966 -4.729 2254.348
- }
- {
-  coords 889.161 -4.73 2250.12
- }
- {
-  coords 885.349 -4.729 2249.53
- }
- {
-  coords 891.412 -4.729 2243.651
- }
- {
-  coords 914.089 -4.73 2258.618
- }
- {
-  coords 855.087 -4.729 2207.325
- }
- {
-  coords 877.125 -4.73 2204.09
- }
- {
-  coords 939.56 -4.698 2193.638
- }
- {
-  coords 918.628 -4.73 2153.464
- }
- {
-  coords 908.721 -4.729 2147.109
- }
- {
-  coords 887.307 -4.73 2149.321
- }
- {
-  coords 895.091 -4.73 2169.162
- }
- {
-  coords 878.273 -4.73 2189.225
- }
- {
-  coords 854.832 -4.729 2210.995
- }
- {
-  coords 850.735 -4.73 2219.694
- }
- {
-  coords 861.125 -4.73 2225.359
- }
- {
-  coords 862.499 -4.73 2217.131
- }
- {
-  coords 927.4 -4.73 2175.71
- }
- {
-  coords 940.935 -4.683 2173.477
- }
- {
-  coords 954.493 -4.605 2172.935
- }
- {
-  coords 990.205 -4.492 2137.046
- }
- {
-  coords 984.779 -4.605 2102.387
- }
- {
   coords 974.719 -4.636 2103.191
- }
- {
-  coords 953.294 -4.636 2140.224
- }
- {
-  coords 949.926 -4.667 2139.44
- }
- {
-  coords 949.154 -4.636 2151.212
  }
  {
   coords 1148.441 10.148 2254.797
@@ -12818,13 +12107,7 @@ $grp SCR_TreePartV2 : "{1AE4B61B20DE15C7}Prefabs/Vegetation/Tree/Dst/t_carpinus_
   coords 860.258 3.969 2115.337
  }
  {
-  coords 858.347 3.969 2130.832
- }
- {
   coords 855.331 3.969 2075.419
- }
- {
-  coords 898.473 3.969 2128.091
  }
  {
   coords 877.981 3.969 2067.319
@@ -12833,31 +12116,13 @@ $grp SCR_TreePartV2 : "{1AE4B61B20DE15C7}Prefabs/Vegetation/Tree/Dst/t_carpinus_
   coords 889.721 3.969 2076.115
  }
  {
-  coords 907.343 3.969 2151.573
- }
- {
-  coords 861.111 3.969 2147.967
- }
- {
   coords 865.828 3.969 2092.639
- }
- {
-  coords 906.121 3.969 2113.268
- }
- {
-  coords 865.682 3.969 2136.153
  }
  {
   coords 890.971 3.969 2131.989
  }
  {
-  coords 969.709 3.969 2036.069
- }
- {
   coords 932.755 3.969 2038.268
- }
- {
-  coords 962.121 3.969 2071.665
  }
  {
   coords 919.931 3.969 2052.67
@@ -12866,13 +12131,7 @@ $grp SCR_TreePartV2 : "{1AE4B61B20DE15C7}Prefabs/Vegetation/Tree/Dst/t_carpinus_
   coords 986.197 3.969 2061.54
  }
  {
-  coords 932.453 3.969 2084.368
- }
- {
   coords 954.002 3.969 2019.147
- }
- {
-  coords 932.295 3.969 2073.145
  }
  {
   coords 957.393 3.969 2027
@@ -12885,9 +12144,6 @@ $grp SCR_TreePartV2 : "{1AE4B61B20DE15C7}Prefabs/Vegetation/Tree/Dst/t_carpinus_
  }
  {
   coords 977.37 3.969 2049.98
- }
- {
-  coords 983.001 3.969 2023.456
  }
  {
   coords 933.473 3.969 2025.086
@@ -12932,9 +12188,6 @@ $grp SCR_TreePartV2 : "{1AE4B61B20DE15C7}Prefabs/Vegetation/Tree/Dst/t_carpinus_
   coords 917.785 3.969 2064.873
  }
  {
-  coords 935.293 3.969 2079.64
- }
- {
   coords 894.043 3.969 2042.325
  }
  {
@@ -12942,15 +12195,6 @@ $grp SCR_TreePartV2 : "{1AE4B61B20DE15C7}Prefabs/Vegetation/Tree/Dst/t_carpinus_
  }
  {
   coords 916.87 3.969 2058.793
- }
- {
-  coords 928.934 3.969 2101.681
- }
- {
-  coords 953.747 3.969 2095.109
- }
- {
-  coords 956.937 3.969 2054.873
  }
  {
   coords 970.293 3.969 2058.619
@@ -12966,9 +12210,6 @@ $grp SCR_TreePartV2 : "{1AE4B61B20DE15C7}Prefabs/Vegetation/Tree/Dst/t_carpinus_
  }
  {
   coords 1060.033 4.032 1857.177
- }
- {
-  coords 1089.843 4.906 1877.241
  }
  {
   coords 1053.669 4 1839.534
@@ -12990,9 +12231,6 @@ $grp SCR_TreePartV2 : "{1AE4B61B20DE15C7}Prefabs/Vegetation/Tree/Dst/t_carpinus_
  }
  {
   coords 1117.915 7.605 1881.625
- }
- {
-  coords 1103.118 6.499 1896.026
  }
  {
   coords 1149.692 14.77 1880.465
@@ -13025,9 +12263,6 @@ $grp SCR_TreePartV2 : "{1AE4B61B20DE15C7}Prefabs/Vegetation/Tree/Dst/t_carpinus_
   coords 1121.075 12.733 2036.95
  }
  {
-  coords 1051.404 3.969 1983.904
- }
- {
   coords 1084.667 6.824 2022.628
  }
  {
@@ -13040,25 +12275,10 @@ $grp SCR_TreePartV2 : "{1AE4B61B20DE15C7}Prefabs/Vegetation/Tree/Dst/t_carpinus_
   coords 1062.437 4.399 2004.897
  }
  {
-  coords 1022.086 3.969 2012.02
- }
- {
-  coords 1045.405 3.969 2003.419
- }
- {
   coords 1060.399 4.331 2052.167
  }
  {
-  coords 1038.557 3.969 2002.942
- }
- {
-  coords 1002.699 3.969 2023.085
- }
- {
   coords 1015.492 3.969 2008.058
- }
- {
-  coords 986.873 3.969 2027.29
  }
  {
   coords 990.771 3.969 1978.93
@@ -19165,7 +18385,7 @@ $grp Tree : "{1C6F9AD2669C17F9}Prefabs/Vegetation/Tree/t_malus_domestica_2s.et" 
   coords 2980.17 0 2497.817
  }
  {
-  coords 2920.31 -0 2458.073
+  coords 2920.31 0 2458.073
  }
  {
   coords 2834.997 0 2205.009
@@ -22524,31 +21744,10 @@ $grp SCR_DestructibleTreeV2 : "{293AB3B63CD8BB9F}Prefabs/Vegetation/Tree/Dst/t_b
   coords 1193.32 0 2437.514
  }
  {
-  coords 973.293 0 2123.658
- }
- {
-  coords 968.102 0 2106.886
- }
- {
-  coords 969.595 0 2119.656
- }
- {
-  coords 987.574 0 2140.876
- }
- {
-  coords 998.661 0 2147.989
- }
- {
-  coords 1025.677 0 2173.157
- }
- {
   coords 1034.345 0 2092.481
  }
  {
   coords 1020.091 0 2109.825
- }
- {
-  coords 1035.781 0 2148.787
  }
  {
   coords 1047.234 0 2149.514
@@ -22558,12 +21757,6 @@ $grp SCR_DestructibleTreeV2 : "{293AB3B63CD8BB9F}Prefabs/Vegetation/Tree/Dst/t_b
  }
  {
   coords 1057.875 0 2135.288
- }
- {
-  coords 1045.077 0 2015.329
- }
- {
-  coords 1050.707 0 1993.034
  }
  {
   coords 1032.671 0 1968.979
@@ -22579,216 +21772,6 @@ $grp SCR_DestructibleTreeV2 : "{293AB3B63CD8BB9F}Prefabs/Vegetation/Tree/Dst/t_b
  }
  {
   coords 1060.324 0 2093.388
- }
- {
-  coords 1020.106 0 2172.583
- }
- {
-  coords 1028.204 0 2183.157
- }
- {
-  coords 1000.662 0 2195.899
- }
- {
-  coords 994.777 0 2186.128
- }
- {
-  coords 953.642 0 2201.359
- }
- {
-  coords 985.736 0 2234.281
- }
- {
-  coords 951.826 0 2221.138
- }
- {
-  coords 979.934 0 2211.841
- }
- {
-  coords 961.071 0 2210.792
- }
- {
-  coords 941.606 0 2183.747
- }
- {
-  coords 949.265 0 2188.02
- }
- {
-  coords 974.833 0 2160.793
- }
- {
-  coords 931.008 0 2165.157
- }
- {
-  coords 939.927 0 2168.575
- }
- {
-  coords 946.537 0 2170.908
- }
- {
-  coords 961.932 0 2167.755
- }
- {
-  coords 985.799 0 2157.834
- }
- {
-  coords 983.943 0 2147.787
- }
- {
-  coords 1023.214 0 2178.823
- }
- {
-  coords 975.698 0 2229.949
- }
- {
-  coords 954.48 0 2231.667
- }
- {
-  coords 954.104 0 2257.868
- }
- {
-  coords 943.707 0 2261.425
- }
- {
-  coords 945.099 0 2271.74
- }
- {
-  coords 968.2 0 2276.646
- }
- {
-  coords 977.621 0 2248.64
- }
- {
-  coords 996.591 0 2248.975
- }
- {
-  coords 990.706 0 2252.623
- }
- {
-  coords 980.486 0 2267.193
- }
- {
-  coords 962.017 0 2280.483
- }
- {
-  coords 985.773 0 2262.309
- }
- {
-  coords 994.921 0 2251.312
- }
- {
-  coords 974.049 0 2257.458
- }
- {
-  coords 972.205 0 2266.162
- }
- {
-  coords 889.744 0 2288.854
- }
- {
-  coords 875.246 0 2296.861
- }
- {
-  coords 952.029 0 2274.25
- }
- {
-  coords 922.974 0 2250.002
- }
- {
-  coords 913.428 0 2234.627
- }
- {
-  coords 928.235 0 2236.638
- }
- {
-  coords 918.699 0 2242.864
- }
- {
-  coords 939.13 0 2234.537
- }
- {
-  coords 885.894 0 2252.25
- }
- {
-  coords 894.623 0 2277.46
- }
- {
-  coords 875.028 0 2259.149
- }
- {
-  coords 896.605 0 2265.789
- }
- {
-  coords 932.699 0 2264.475
- }
- {
-  coords 906.743 0 2249.38
- }
- {
-  coords 872.725 0 2247.96
- }
- {
-  coords 911.602 0 2251.257
- }
- {
-  coords 915.163 0 2251.755
- }
- {
-  coords 906.483 0 2260.731
- }
- {
-  coords 899.655 0 2245.489
- }
- {
-  coords 864.957 0 2226.628
- }
- {
-  coords 925.187 0 2192.152
- }
- {
-  coords 912.953 0 2183.024
- }
- {
-  coords 906.084 0 2180.762
- }
- {
-  coords 907.603 0 2171.108
- }
- {
-  coords 888.247 0 2176.324
- }
- {
-  coords 909.114 0 2149.996
- }
- {
-  coords 897.413 0 2145.513
- }
- {
-  coords 891.177 0 2153.577
- }
- {
-  coords 888.966 0 2197.827
- }
- {
-  coords 883.502 0 2200.907
- }
- {
-  coords 933.125 0 2171.111
- }
- {
-  coords 988.942 0 2106.662
- }
- {
-  coords 975.054 0 2097.362
- }
- {
-  coords 972.981 0 2111.92
- }
- {
-  coords 955.682 0 2122.883
- }
- {
-  coords 958.255 0 2143.66
  }
  {
   coords 1136.115 0 2231.912
@@ -23223,9 +22206,6 @@ $grp SCR_DestructibleTreeV2 : "{293AB3B63CD8BB9F}Prefabs/Vegetation/Tree/Dst/t_b
   coords 839.969 0 2118.242
  }
  {
-  coords 850.669 0 2127.627
- }
- {
   coords 866.117 0 2079.361
  }
  {
@@ -23235,16 +22215,7 @@ $grp SCR_DestructibleTreeV2 : "{293AB3B63CD8BB9F}Prefabs/Vegetation/Tree/Dst/t_b
   coords 909.734 0 2083.234
  }
  {
-  coords 901.424 0 2108.625
- }
- {
   coords 871.048 0 2111.631
- }
- {
-  coords 900.474 0 2114.306
- }
- {
-  coords 882.899 0 2147.955
  }
  {
   coords 845.049 0 2113.213
@@ -23265,19 +22236,7 @@ $grp SCR_DestructibleTreeV2 : "{293AB3B63CD8BB9F}Prefabs/Vegetation/Tree/Dst/t_b
   coords 972.354 0 2052.136
  }
  {
-  coords 952.376 0 2036.601
- }
- {
   coords 940.488 0 2028.805
- }
- {
-  coords 953.882 0 2042.659
- }
- {
-  coords 942.799 0 2036.98
- }
- {
-  coords 959.653 0 2051.929
  }
  {
   coords 895.747 0 2031.4
@@ -23287,9 +22246,6 @@ $grp SCR_DestructibleTreeV2 : "{293AB3B63CD8BB9F}Prefabs/Vegetation/Tree/Dst/t_b
  }
  {
   coords 936.624 0 2011.18
- }
- {
-  coords 953.574 0 2034.909
  }
  {
   coords 916.217 0 2012.95
@@ -23337,37 +22293,10 @@ $grp SCR_DestructibleTreeV2 : "{293AB3B63CD8BB9F}Prefabs/Vegetation/Tree/Dst/t_b
   coords 924.08 0 2046.997
  }
  {
-  coords 903.093 0 2123.948
- }
- {
-  coords 916.224 0 2111.52
- }
- {
-  coords 935.733 0 2089.375
- }
- {
-  coords 952.718 0 2074.745
- }
- {
-  coords 958.687 0 2067.548
- }
- {
-  coords 921.313 0 2103.253
- }
- {
-  coords 975.406 0 2096.167
- }
- {
   coords 993.979 0 2019.697
  }
  {
-  coords 1045.973 0 2009.81
- }
- {
   coords 1053.266 0 1912.414
- }
- {
-  coords 1050.201 0 1978.441
  }
  {
   coords 1054.339 0 1873.755
@@ -23385,22 +22314,13 @@ $grp SCR_DestructibleTreeV2 : "{293AB3B63CD8BB9F}Prefabs/Vegetation/Tree/Dst/t_b
   coords 1041.112 0 1857.997
  }
  {
-  coords 1081.979 0 1872.611
- }
- {
   coords 1060.053 0 1896.218
- }
- {
-  coords 1100.271 0 1848.391
  }
  {
   coords 1070.111 0 1904.082
  }
  {
   coords 1074.029 0 1867.578
- }
- {
-  coords 1099.699 0 1904.271
  }
  {
   coords 1184.582 0 1974.678
@@ -23451,9 +22371,6 @@ $grp SCR_DestructibleTreeV2 : "{293AB3B63CD8BB9F}Prefabs/Vegetation/Tree/Dst/t_b
   coords 1092.065 0 1969.57
  }
  {
-  coords 1043.578 0 1985.179
- }
- {
   coords 1063.273 0 2048.1
  }
  {
@@ -23470,12 +22387,6 @@ $grp SCR_DestructibleTreeV2 : "{293AB3B63CD8BB9F}Prefabs/Vegetation/Tree/Dst/t_b
  }
  {
   coords 1022.987 0 2003.693
- }
- {
-  coords 1036.185 0 2017.317
- }
- {
-  coords 971.366 0 2040.821
  }
  {
   coords 1005.816 0 1972.707
@@ -33907,106 +32818,13 @@ $grp Tree : "{A5DE58FC9FB6BA60}Prefabs/Vegetation/Bush/b_corylus_avellana_2.et" 
   coords 927.437 0 2372.91
  }
  {
-  coords 915.006 0 2330.862
- }
- {
-  coords 894.531 0 2322.714
- }
- {
   coords 897.603 0 2339.988
- }
- {
-  coords 920.637 0 2305.79
- }
- {
-  coords 951.564 0 2296.83
- }
- {
-  coords 949.601 0 2303.655
- }
- {
-  coords 967.649 0 2249.673
- }
- {
-  coords 974.495 0 2258.34
- }
- {
-  coords 960.374 0 2254.959
- }
- {
-  coords 956.27 0 2248.365
- }
- {
-  coords 939.792 0 2239.299
- }
- {
-  coords 920.283 0 2255.895
- }
- {
-  coords 899.187 0 2267.421
- }
- {
-  coords 905.73 0 2297.044
- }
- {
-  coords 868.198 0 2285.132
  }
  {
   coords 848.652 0 2280.615
  }
  {
-  coords 843.739 0 2211.184
- }
- {
-  coords 847.442 0 2221.213
- }
- {
-  coords 867.729 0 2203.134
- }
- {
-  coords 870.651 0 2205.209
- }
- {
-  coords 881.617 0 2196.134
- }
- {
-  coords 880.053 0 2183.352
- }
- {
-  coords 912.333 0 2166.651
- }
- {
-  coords 951.393 0 2154.327
- }
- {
-  coords 978.636 0 2154
- }
- {
-  coords 935.044 0 2197.327
- }
- {
-  coords 967.573 0 2195.734
- }
- {
-  coords 958.908 0 2184.374
- }
- {
-  coords 985.089 0 2176.443
- }
- {
-  coords 996.187 0 2172.469
- }
- {
-  coords 968.06 0 2151.218
- }
- {
-  coords 985.707 0 2129.179
- }
- {
   coords 1035.536 0 2103.165
- }
- {
-  coords 1004.236 0 2032.418
  }
  {
   coords 1226.682 0 2309.038
@@ -34261,9 +33079,6 @@ $grp Tree : "{A5DE58FC9FB6BA60}Prefabs/Vegetation/Bush/b_corylus_avellana_2.et" 
   coords 1033.508 0 2187.797
  }
  {
-  coords 1022.686 0 2181.707
- }
- {
   coords 1050.515 0 2192.427
  }
  {
@@ -34277,15 +33092,6 @@ $grp Tree : "{A5DE58FC9FB6BA60}Prefabs/Vegetation/Bush/b_corylus_avellana_2.et" 
  }
  {
   coords 1104.491 0 2138.159
- }
- {
-  coords 1021.125 0 2235.99
- }
- {
-  coords 1035.334 0 2237.107
- }
- {
-  coords 1031.305 0 2223.419
  }
  {
   coords 1043.106 0 2201.731
@@ -34390,9 +33196,6 @@ $grp Tree : "{A5DE58FC9FB6BA60}Prefabs/Vegetation/Bush/b_corylus_avellana_2.et" 
   coords 1136.235 0 2120.896
  }
  {
-  coords 1028.607 0 2168.603
- }
- {
   coords 1095.925 0 2114.671
  }
  {
@@ -34438,19 +33241,7 @@ $grp Tree : "{A5DE58FC9FB6BA60}Prefabs/Vegetation/Bush/b_corylus_avellana_2.et" 
   coords 1119.349 0 2147.807
  }
  {
-  coords 1016.018 0 2176.712
- }
- {
   coords 1002.136 0 2088.738
- }
- {
-  coords 977.175 0 2170.088
- }
- {
-  coords 987.147 0 2098.791
- }
- {
-  coords 1022.624 0 2173.291
  }
  {
   coords 1093.197 0 2179.927
@@ -34463,15 +33254,6 @@ $grp Tree : "{A5DE58FC9FB6BA60}Prefabs/Vegetation/Bush/b_corylus_avellana_2.et" 
  }
  {
   coords 1101.68 0 2182.401
- }
- {
-  coords 1040.449 0 2227.938
- }
- {
-  coords 1040.93 0 2231.897
- }
- {
-  coords 1029.765 0 2224.952
  }
 }
 $grp Tree : "{AED5759B653DF6D0}Prefabs/Vegetation/Bush/b_rosa_canina_1s.et" {
@@ -34525,126 +33307,6 @@ $grp Tree : "{AED5759B653DF6D0}Prefabs/Vegetation/Bush/b_rosa_canina_1s.et" {
  }
  {
   coords 933.768 0 2363.364
-  angleY 0
- }
- {
-  coords 920.658 0 2344.106
-  angleY 0
- }
- {
-  coords 916.817 0 2338.246
-  angleY 0
- }
- {
-  coords 913.349 0 2323.849
-  angleY 0
- }
- {
-  coords 897.323 0 2322.64
-  angleY 0
- }
- {
-  coords 911.771 0 2320.563
-  angleY 0
- }
- {
-  coords 905.676 0 2323.437
-  angleY 0
- }
- {
-  coords 895.589 0 2320.323
-  angleY 0
- }
- {
-  coords 900.741 0 2325.526
-  angleY 0
- }
- {
-  coords 908.468 0 2312.741
-  angleY 0
- }
- {
-  coords 939.812 0 2304.275
-  angleY 0
- }
- {
-  coords 961.207 0 2284.875
-  angleY 0
- }
- {
-  coords 978.706 0 2266.306
-  angleY 0
- }
- {
-  coords 964.404 0 2249.881
-  angleY 0
- }
- {
-  coords 944.185 0 2254.47
-  angleY 0
- }
- {
-  coords 895.688 0 2281.848
-  angleY 0
- }
- {
-  coords 881.566 0 2285.632
-  angleY 0
- }
- {
-  coords 832.678 0 2236.901
-  angleY 0
- }
- {
-  coords 859.171 0 2207.168
-  angleY 0
- }
- {
-  coords 873.709 0 2182.379
-  angleY 0
- }
- {
-  coords 875.605 0 2174.459
-  angleY 0
- }
- {
-  coords 914.901 0 2155.907
-  angleY 0
- }
- {
-  coords 916.628 0 2158.039
-  angleY 0
- }
- {
-  coords 992.641 0 2113.332
-  angleY 0
- }
- {
-  coords 985.297 0 2120.517
-  angleY 0
- }
- {
-  coords 935.17 0 2178.47
-  angleY 0
- }
- {
-  coords 931.328 0 2212.931
-  angleY 0
- }
- {
-  coords 935.698 0 2215.345
-  angleY 0
- }
- {
-  coords 973.334 0 2173.252
-  angleY 0
- }
- {
-  coords 991.857 0 2178.97
-  angleY 0
- }
- {
-  coords 1018.191 0 2031.177
   angleY 0
  }
  {
@@ -35016,26 +33678,6 @@ $grp Tree : "{AED5759B653DF6D0}Prefabs/Vegetation/Bush/b_rosa_canina_1s.et" {
   angleY 0
  }
  {
-  coords 996.705 0 2260.351
-  angleY 0
- }
- {
-  coords 1015.812 0 2236.594
-  angleY 0
- }
- {
-  coords 991.869 0 2254.401
-  angleY 0
- }
- {
-  coords 1027.008 0 2195.878
-  angleY 0
- }
- {
-  coords 1033.517 0 2201.781
-  angleY 0
- }
- {
   coords 1110.025 0 2171.572
   angleY 0
  }
@@ -35296,22 +33938,6 @@ $grp Tree : "{AED5759B653DF6D0}Prefabs/Vegetation/Bush/b_rosa_canina_1s.et" {
   angleY 0
  }
  {
-  coords 979.618 0 2111.093
-  angleY 0
- }
- {
-  coords 975.743 0 2107.74
-  angleY 0
- }
- {
-  coords 982.61 0 2127.499
-  angleY 0
- }
- {
-  coords 983.1 0 2141.411
-  angleY 0
- }
- {
   coords 1162.27 0 2179.16
   angleY 0
  }
@@ -35320,23 +33946,11 @@ $grp Tree : "{AED5759B653DF6D0}Prefabs/Vegetation/Bush/b_rosa_canina_1s.et" {
   angleY 0
  }
  {
-  coords 994.909 0 2158.592
-  angleY 0
- }
- {
   coords 1145.097 0 2190.718
   angleY 0
  }
  {
   coords 1142.803 0 2204.51
-  angleY 0
- }
- {
-  coords 973.551 0 2104.507
-  angleY 0
- }
- {
-  coords 984.718 0 2152.61
   angleY 0
  }
  {
@@ -35353,14 +33967,6 @@ $grp Tree : "{AED5759B653DF6D0}Prefabs/Vegetation/Bush/b_rosa_canina_1s.et" {
  }
  {
   coords 1068.224 0 2183.429
-  angleY 0
- }
- {
-  coords 1018.079 0 2239.045
-  angleY 0
- }
- {
-  coords 998.054 0 2274.458
   angleY 0
  }
 }
@@ -35406,166 +34012,6 @@ $grp Tree : "{C98A6C1C2372354E}Prefabs/Vegetation/Bush/b_corylus_avellana_1.et" 
   scale 1.13
  }
  {
-  coords 925.903 0 2346.901
-  scale 1.13
- }
- {
-  coords 923.192 0 2327.871
-  scale 1.13
- }
- {
-  coords 907.157 0 2320.634
-  scale 1.13
- }
- {
-  coords 891.082 0 2319.051
-  scale 1.13
- }
- {
-  coords 923.569 0 2306.281
-  scale 1.13
- }
- {
-  coords 928.209 0 2321.095
-  scale 1.13
- }
- {
-  coords 951.2 0 2286.128
-  scale 1.13
- }
- {
-  coords 927.232 0 2250.895
-  scale 1.13
- }
- {
-  coords 920.66 0 2234.968
-  scale 1.13
- }
- {
-  coords 921.163 0 2242.156
-  scale 1.13
- }
- {
-  coords 904.392 0 2248.213
-  scale 1.13
- }
- {
-  coords 918.871 0 2251.537
-  scale 1.13
- }
- {
-  coords 911.119 0 2283.764
-  scale 1.13
- }
- {
-  coords 887.493 0 2295.957
-  scale 1.13
- }
- {
-  coords 887.317 0 2272.861
-  scale 1.13
- }
- {
-  coords 849.217 0 2260.469
-  scale 1.13
- }
- {
-  coords 844.25 0 2267.305
-  scale 1.13
- }
- {
-  coords 842.941 0 2253.464
-  scale 1.13
- }
- {
-  coords 843.838 0 2225.832
-  scale 1.13
- }
- {
-  coords 837.941 0 2210.628
-  scale 1.13
- }
- {
-  coords 852.761 0 2214.787
-  scale 1.13
- }
- {
-  coords 862.019 0 2216.24
-  scale 1.13
- }
- {
-  coords 847.834 0 2210.633
-  scale 1.13
- }
- {
-  coords 894.473 0 2190.503
-  scale 1.13
- }
- {
-  coords 949.519 0 2142.496
-  scale 1.13
- }
- {
-  coords 942.248 0 2146.109
-  scale 1.13
- }
- {
-  coords 962.067 0 2132.122
-  scale 1.13
- }
- {
-  coords 977.989 0 2142.481
-  scale 1.13
- }
- {
-  coords 971.3 0 2158.429
-  scale 1.13
- }
- {
-  coords 943.416 0 2171.311
-  scale 1.13
- }
- {
-  coords 934.568 0 2183.025
-  scale 1.13
- }
- {
-  coords 941.917 0 2193.125
-  scale 1.13
- }
- {
-  coords 946.289 0 2193.526
-  scale 1.13
- }
- {
-  coords 960.076 0 2202.333
-  scale 1.13
- }
- {
-  coords 957 0 2159.068
-  scale 1.13
- }
- {
-  coords 979.153 0 2137.987
-  scale 1.13
- }
- {
-  coords 984.431 0 2127.44
-  scale 1.13
- }
- {
-  coords 994.12 0 2137.12
-  scale 1.13
- }
- {
-  coords 995.839 0 2106.471
-  scale 1.13
- }
- {
-  coords 997.12 0 2119.03
-  scale 1.13
- }
- {
   coords 1030.633 0 2110.552
   scale 1.13
  }
@@ -35590,19 +34036,7 @@ $grp Tree : "{C98A6C1C2372354E}Prefabs/Vegetation/Bush/b_corylus_avellana_1.et" 
   scale 1.13
  }
  {
-  coords 1034.25 0 2022.624
-  scale 1.13
- }
- {
-  coords 1027.944 0 2026.7
-  scale 1.13
- }
- {
   coords 1038.747 0 2025.97
-  scale 1.13
- }
- {
-  coords 1044.925 0 2007.785
   scale 1.13
  }
  {
@@ -35990,10 +34424,6 @@ $grp Tree : "{C98A6C1C2372354E}Prefabs/Vegetation/Bush/b_corylus_avellana_1.et" 
   scale 1.13
  }
  {
-  coords 1029.05 0 2188.97
-  scale 1.13
- }
- {
   coords 1057.183 0 2180.616
   scale 1.13
  }
@@ -36022,38 +34452,6 @@ $grp Tree : "{C98A6C1C2372354E}Prefabs/Vegetation/Bush/b_corylus_avellana_1.et" 
   scale 1.13
  }
  {
-  coords 1011.875 0 2224.432
-  scale 1.13
- }
- {
-  coords 1025.475 0 2247.031
-  scale 1.13
- }
- {
-  coords 972.996 0 2267.78
-  scale 1.13
- }
- {
-  coords 1006.218 0 2257.879
-  scale 1.13
- }
- {
-  coords 1013.98 0 2247.033
-  scale 1.13
- }
- {
-  coords 1012.103 0 2255.564
-  scale 1.13
- }
- {
-  coords 1020.788 0 2245.367
-  scale 1.13
- }
- {
-  coords 1023.888 0 2226.169
-  scale 1.13
- }
- {
   coords 1055.176 0 2232.571
   scale 1.13
  }
@@ -36063,10 +34461,6 @@ $grp Tree : "{C98A6C1C2372354E}Prefabs/Vegetation/Bush/b_corylus_avellana_1.et" 
  }
  {
   coords 1063.963 0 2211.044
-  scale 1.13
- }
- {
-  coords 1033.095 0 2216.2
   scale 1.13
  }
  {
@@ -36310,10 +34704,6 @@ $grp Tree : "{C98A6C1C2372354E}Prefabs/Vegetation/Bush/b_corylus_avellana_1.et" 
   scale 1.13
  }
  {
-  coords 983.958 0 2137.662
-  scale 1.13
- }
- {
   coords 1055.263 0 2157.065
   scale 1.13
  }
@@ -36326,19 +34716,11 @@ $grp Tree : "{C98A6C1C2372354E}Prefabs/Vegetation/Bush/b_corylus_avellana_1.et" 
   scale 1.13
  }
  {
-  coords 994.635 0 2173.626
-  scale 1.13
- }
- {
   coords 1161.953 0 2113.549
   scale 1.13
  }
  {
   coords 1062.748 0 2198.607
-  scale 1.13
- }
- {
-  coords 994.523 0 2160.988
   scale 1.13
  }
  {
@@ -36400,93 +34782,6 @@ $grp Tree : "{D6EC31A48403A52A}Prefabs/Vegetation/Bush/b_sambucus_nigra_1.et" {
  }
  {
   coords 911.221 0 2353.221
- }
- {
-  coords 897.917 0 2315.68
- }
- {
-  coords 901.338 0 2322.334
- }
- {
-  coords 940.061 0 2306.488
- }
- {
-  coords 958.023 0 2300.403
- }
- {
-  coords 963.884 0 2267.748
- }
- {
-  coords 968.617 0 2252.068
- }
- {
-  coords 914.07 0 2265.691
- }
- {
-  coords 880.311 0 2291.246
- }
- {
-  coords 870.288 0 2277.966
- }
- {
-  coords 869.744 0 2289.221
- }
- {
-  coords 848.355 0 2256.624
- }
- {
-  coords 840.589 0 2249.975
- }
- {
-  coords 838.175 0 2235.772
- }
- {
-  coords 838.776 0 2238.26
- }
- {
-  coords 855.16 0 2209.766
- }
- {
-  coords 848.828 0 2214.847
- }
- {
-  coords 849.259 0 2231.122
- }
- {
-  coords 923.87 0 2160.27
- }
- {
-  coords 991.974 0 2121.391
- }
- {
-  coords 989.509 0 2132.225
- }
- {
-  coords 990.007 0 2142.665
- }
- {
-  coords 953.109 0 2164.287
- }
- {
-  coords 953.858 0 2174.172
- }
- {
-  coords 943.097 0 2183.542
- }
- {
-  coords 935.627 0 2165.559
- }
- {
-  coords 923.577 0 2214.714
- }
- {
-  coords 942.862 0 2198.682
- }
- {
-  coords 973.664 0 2153.538
- }
- {
-  coords 985.085 0 2149.832
  }
  {
   coords 1027.589 0 2096.834
@@ -37103,43 +35398,10 @@ $grp SCR_TreePartV2 : "{E2DFFDAE30E2B19D}Prefabs/Vegetation/Tree/Dst/t_picea_abi
   coords 1260.03 28.75 2220.752
  }
  {
-  coords 1013.832 4.372 2191.623
- }
- {
-  coords 996.615 4.281 2157.037
- }
- {
-  coords 1005.126 4.47 2147.83
- }
- {
-  coords 988.058 4.156 2119.591
- }
- {
   coords 1002.964 4.234 2130.755
  }
  {
-  coords 1021.056 4.375 2198.037
- }
- {
-  coords 1015.299 4.344 2206.409
- }
- {
   coords 1032.359 4.59 2197.324
- }
- {
-  coords 1027.578 4.421 2199.063
- }
- {
-  coords 1015.339 4.375 2186.216
- }
- {
-  coords 1025.306 5.108 2168.256
- }
- {
-  coords 1028.844 5.313 2157.192
- }
- {
-  coords 1025.52 5.127 2150.631
  }
  {
   coords 1027.185 4.261 2106.318
@@ -37149,9 +35411,6 @@ $grp SCR_TreePartV2 : "{E2DFFDAE30E2B19D}Prefabs/Vegetation/Tree/Dst/t_picea_abi
  }
  {
   coords 1028.498 4.24 2102.375
- }
- {
-  coords 1028.228 4.582 2128.159
  }
  {
   coords 1047.66 6.193 2134.819
@@ -37175,9 +35434,6 @@ $grp SCR_TreePartV2 : "{E2DFFDAE30E2B19D}Prefabs/Vegetation/Tree/Dst/t_picea_abi
   coords 1019.326 3.969 1995.773
  }
  {
-  coords 1014.16 3.969 2028.899
- }
- {
   coords 1019.576 3.969 2038.725
  }
  {
@@ -37191,210 +35447,6 @@ $grp SCR_TreePartV2 : "{E2DFFDAE30E2B19D}Prefabs/Vegetation/Tree/Dst/t_picea_abi
  }
  {
   coords 1054.293 6.009 2108.32
- }
- {
-  coords 1000.431 4.326 2148.991
- }
- {
-  coords 1018.423 4.554 2171.421
- }
- {
-  coords 1025.402 4.428 2189.438
- }
- {
-  coords 961.865 4.121 2200.252
- }
- {
-  coords 966.378 4.15 2200.396
- }
- {
-  coords 968.937 4.104 2227.359
- }
- {
-  coords 928.069 3.969 2216.664
- }
- {
-  coords 979.579 4.181 2215.292
- }
- {
-  coords 976.935 4.187 2173.165
- }
- {
-  coords 991.008 4.25 2169.964
- }
- {
-  coords 968.005 4.156 2159.667
- }
- {
-  coords 955.449 4.094 2167.497
- }
- {
-  coords 946.555 4.062 2160.923
- }
- {
-  coords 980.859 4.201 2165.077
- }
- {
-  coords 978.198 4.159 2142.419
- }
- {
-  coords 1008.28 4.344 2175.937
- }
- {
-  coords 1015.217 4.375 2181.483
- }
- {
-  coords 1015.595 4.337 2210.333
- }
- {
-  coords 1003.294 4.281 2211.923
- }
- {
-  coords 1012.857 4.281 2231.767
- }
- {
-  coords 991.391 4.219 2212.906
- }
- {
-  coords 963.583 4.062 2238.058
- }
- {
-  coords 957.761 4.049 2238.895
- }
- {
-  coords 939.279 3.969 2266.388
- }
- {
-  coords 959.659 3.969 2287.236
- }
- {
-  coords 964.554 3.969 2279.453
- }
- {
-  coords 949.735 3.969 2261.385
- }
- {
-  coords 951.841 3.969 2253.991
- }
- {
-  coords 985.982 4.125 2248.122
- }
- {
-  coords 996.828 4.169 2246.427
- }
- {
-  coords 981.074 4.062 2264.009
- }
- {
-  coords 978.53 4.094 2251.003
- }
- {
-  coords 947.845 3.969 2287.46
- }
- {
-  coords 927.634 3.969 2300.547
- }
- {
-  coords 936.948 3.969 2288.363
- }
- {
-  coords 904.48 3.969 2284.7
- }
- {
-  coords 942.033 3.969 2284.777
- }
- {
-  coords 920.821 3.969 2248.574
- }
- {
-  coords 900.186 3.969 2236.466
- }
- {
-  coords 943.482 3.969 2242.248
- }
- {
-  coords 923.678 3.969 2217.699
- }
- {
-  coords 917.513 3.969 2214.828
- }
- {
-  coords 903.243 3.969 2217.303
- }
- {
-  coords 899.891 3.969 2267.557
- }
- {
-  coords 890.568 3.969 2264.328
- }
- {
-  coords 883.285 3.969 2263.023
- }
- {
-  coords 896.704 3.969 2268.677
- }
- {
-  coords 897.566 3.969 2247.296
- }
- {
-  coords 899.523 3.969 2255.374
- }
- {
-  coords 879.284 3.969 2246.868
- }
- {
-  coords 896.109 3.969 2260.129
- }
- {
-  coords 869.772 3.969 2226.915
- }
- {
-  coords 863.444 3.969 2205.449
- }
- {
-  coords 887.654 3.969 2212.425
- }
- {
-  coords 898.806 3.969 2168.351
- }
- {
-  coords 901.527 3.969 2159.156
- }
- {
-  coords 918.283 3.969 2146.629
- }
- {
-  coords 907.621 3.969 2140.885
- }
- {
-  coords 882.999 3.969 2158.66
- }
- {
-  coords 889.425 3.969 2186.913
- }
- {
-  coords 882.248 3.969 2180.334
- }
- {
-  coords 868.85 3.969 2194.632
- }
- {
-  coords 869.097 3.969 2219.917
- }
- {
-  coords 894.642 3.969 2210.361
- }
- {
-  coords 979.326 4.062 2098.277
- }
- {
-  coords 942.779 4.012 2151.412
- }
- {
-  coords 928.998 3.969 2154.706
- }
- {
-  coords 937.93 4 2157.625
  }
  {
   coords 1137.962 18.7 2241.084
@@ -37424,9 +35476,6 @@ $grp SCR_TreePartV2 : "{E2DFFDAE30E2B19D}Prefabs/Vegetation/Tree/Dst/t_picea_abi
   coords 1197.119 25.94 2262.269
  }
  {
-  coords 856.509 3.969 2126.871
- }
- {
   coords 840.345 3.969 2085.466
  }
  {
@@ -37434,12 +35483,6 @@ $grp SCR_TreePartV2 : "{E2DFFDAE30E2B19D}Prefabs/Vegetation/Tree/Dst/t_picea_abi
  }
  {
   coords 869.971 3.969 2108.122
- }
- {
-  coords 903.823 3.969 2121.183
- }
- {
-  coords 896.538 3.969 2119.172
  }
  {
   coords 893.554 3.969 2119.302
@@ -37487,34 +35530,13 @@ $grp SCR_TreePartV2 : "{E2DFFDAE30E2B19D}Prefabs/Vegetation/Tree/Dst/t_picea_abi
   coords 959.131 3.969 1996.045
  }
  {
-  coords 935.738 3.969 2058.115
- }
- {
-  coords 966.24 3.969 2042.167
- }
- {
-  coords 959.077 3.969 2043.004
- }
- {
-  coords 963.035 3.969 2039.992
- }
- {
   coords 932.803 3.969 2019.848
- }
- {
-  coords 957.012 3.969 2052.835
  }
  {
   coords 900.865 3.969 2035.351
  }
  {
   coords 914.578 3.969 2047.128
- }
- {
-  coords 958.826 3.969 2049.853
- }
- {
-  coords 976.726 3.969 2025.107
  }
  {
   coords 982.686 3.969 2018.086
@@ -37571,19 +35593,7 @@ $grp SCR_TreePartV2 : "{E2DFFDAE30E2B19D}Prefabs/Vegetation/Tree/Dst/t_picea_abi
   coords 911.795 3.969 2078.278
  }
  {
-  coords 927.914 3.969 2084.388
- }
- {
   coords 909.263 3.969 2095.063
- }
- {
-  coords 916.37 3.969 2100.77
- }
- {
-  coords 999.499 3.969 2028.017
- }
- {
-  coords 1003.977 3.969 2037.482
  }
  {
   coords 1029.861 3.984 2045.144
@@ -37601,16 +35611,7 @@ $grp SCR_TreePartV2 : "{E2DFFDAE30E2B19D}Prefabs/Vegetation/Tree/Dst/t_picea_abi
   coords 1019.264 3.969 1937.31
  }
  {
-  coords 1082.47 4.972 1906.307
- }
- {
-  coords 1080.898 4.667 1892.4
- }
- {
   coords 1059.215 4.031 1866.204
- }
- {
-  coords 1078.53 4.482 1889.229
  }
  {
   coords 1069.212 4.081 1890.731
@@ -37697,12 +35698,6 @@ $grp SCR_TreePartV2 : "{E2DFFDAE30E2B19D}Prefabs/Vegetation/Tree/Dst/t_picea_abi
   coords 1094.769 9.101 1983.831
  }
  {
-  coords 1025.464 3.969 2003.54
- }
- {
-  coords 1009.282 3.969 2035.348
- }
- {
   coords 994.858 3.969 1995.53
  }
  {
@@ -37710,9 +35705,6 @@ $grp SCR_TreePartV2 : "{E2DFFDAE30E2B19D}Prefabs/Vegetation/Tree/Dst/t_picea_abi
  }
  {
   coords 970.737 3.969 2018.71
- }
- {
-  coords 1002.661 3.969 2029.755
  }
  {
   coords 964.186 3.969 1988.98
@@ -37779,9 +35771,6 @@ $grp SCR_TreePartV2 : "{E2DFFDAE30E2B19D}Prefabs/Vegetation/Tree/Dst/t_picea_abi
  }
  {
   coords 1075.329 4.583 1915.193
- }
- {
-  coords 1083.718 4.156 1853.824
  }
  {
   coords 1126.24 7.024 1845.866
@@ -47353,7 +45342,7 @@ $grp SCR_DestructibleTreeV2 : "{FD55970779EC6018}Prefabs/Vegetation/Tree/Dst/t_c
   coords 1184.666 0 2293.018
  }
  {
-  coords 1086.231 0.521 2324.325
+  coords 1092.254 0.484 2328.007
  }
  {
   coords 1052.661 0 2368.731
@@ -47554,43 +45543,7 @@ $grp SCR_DestructibleTreeV2 : "{FD55970779EC6018}Prefabs/Vegetation/Tree/Dst/t_c
   coords 1190.177 0 2431.615
  }
  {
-  coords 992.369 0 2159.489
- }
- {
-  coords 979.566 0 2145.717
- }
- {
-  coords 969.958 0 2126.103
- }
- {
-  coords 964.656 0 2119.276
- }
- {
-  coords 1015.567 0 2164.518
- }
- {
-  coords 1003.475 0 2127.356
- }
- {
-  coords 998.246 0 2150.091
- }
- {
-  coords 993.109 0 2165.646
- }
- {
-  coords 1007.855 0 2159.957
- }
- {
   coords 1020.06 0 2143.433
- }
- {
-  coords 1011.428 0 2120.13
- }
- {
-  coords 1015.789 0 2121.59
- }
- {
-  coords 1019.246 0 2132.057
  }
  {
   coords 1057.177 0 2115.179
@@ -47621,204 +45574,6 @@ $grp SCR_DestructibleTreeV2 : "{FD55970779EC6018}Prefabs/Vegetation/Tree/Dst/t_c
  }
  {
   coords 1036.02 0 2115.747
- }
- {
-  coords 1002.918 0 2154.935
- }
- {
-  coords 1011.956 0 2150.594
- }
- {
-  coords 1006.292 0 2152.48
- }
- {
-  coords 983.207 0 2190.49
- }
- {
-  coords 982.466 0 2193.141
- }
- {
-  coords 968.853 0 2198.293
- }
- {
-  coords 975.054 0 2202.397
- }
- {
-  coords 958.729 0 2217.105
- }
- {
-  coords 1004.49 0 2227.813
- }
- {
-  coords 994.537 0 2219.073
- }
- {
-  coords 959.385 0 2199.949
- }
- {
-  coords 951.198 0 2186.608
- }
- {
-  coords 933.398 0 2187.602
- }
- {
-  coords 960.843 0 2180.674
- }
- {
-  coords 974.756 0 2187.828
- }
- {
-  coords 925.502 0 2166.824
- }
- {
-  coords 944.681 0 2168.416
- }
- {
-  coords 1041.302 0 2206.285
- }
- {
-  coords 1022.19 0 2213.763
- }
- {
-  coords 1005.969 0 2218.621
- }
- {
-  coords 992.123 0 2224.015
- }
- {
-  coords 971.584 0 2232.056
- }
- {
-  coords 961.269 0 2229.202
- }
- {
-  coords 932.746 0 2288.152
- }
- {
-  coords 955.973 0 2275.181
- }
- {
-  coords 947.449 0 2263.425
- }
- {
-  coords 938.337 0 2261.407
- }
- {
-  coords 1001.41 0 2241.601
- }
- {
-  coords 992.995 0 2234.924
- }
- {
-  coords 967.035 0 2264.602
- }
- {
-  coords 960.479 0 2261.744
- }
- {
-  coords 965.452 0 2271.262
- }
- {
-  coords 975.697 0 2251.865
- }
- {
-  coords 950.138 0 2268.455
- }
- {
-  coords 923.548 0 2288.21
- }
- {
-  coords 931.466 0 2284.868
- }
- {
-  coords 898.335 0 2305.386
- }
- {
-  coords 891.023 0 2305.061
- }
- {
-  coords 926.848 0 2293.846
- }
- {
-  coords 945.444 0 2259.465
- }
- {
-  coords 906.361 0 2225.961
- }
- {
-  coords 924.489 0 2242.755
- }
- {
-  coords 949.455 0 2246.5
- }
- {
-  coords 941.218 0 2239.012
- }
- {
-  coords 942.041 0 2218.568
- }
- {
-  coords 887.503 0 2241.601
- }
- {
-  coords 922.347 0 2243.298
- }
- {
-  coords 918.373 0 2267.456
- }
- {
-  coords 892.493 0 2235.063
- }
- {
-  coords 854.524 0 2215.752
- }
- {
-  coords 863.405 0 2209.152
- }
- {
-  coords 890.142 0 2208.038
- }
- {
-  coords 916.199 0 2188.727
- }
- {
-  coords 937.921 0 2186.429
- }
- {
-  coords 923.36 0 2187.423
- }
- {
-  coords 917.119 0 2177.377
- }
- {
-  coords 908.993 0 2174.356
- }
- {
-  coords 879.048 0 2155.746
- }
- {
-  coords 880.121 0 2168.154
- }
- {
-  coords 858.166 0 2210.484
- }
- {
-  coords 885.579 0 2216.642
- }
- {
-  coords 908.467 0 2196.873
- }
- {
-  coords 957.302 0 2160.637
- }
- {
-  coords 977.624 0 2147.83
- }
- {
-  coords 987.22 0 2133.165
- }
- {
-  coords 968.271 0 2124.152
  }
  {
   coords 1139.87 0 2246.323
@@ -48232,9 +45987,6 @@ $grp SCR_DestructibleTreeV2 : "{FD55970779EC6018}Prefabs/Vegetation/Tree/Dst/t_c
   coords 866.705 0 2115.412
  }
  {
-  coords 851.244 0 2133.592
- }
- {
   coords 866.389 0 2087.003
  }
  {
@@ -48250,22 +46002,10 @@ $grp SCR_DestructibleTreeV2 : "{FD55970779EC6018}Prefabs/Vegetation/Tree/Dst/t_c
   coords 874.996 0 2090.181
  }
  {
-  coords 914.628 0 2095.814
- }
- {
-  coords 901.649 0 2120.82
- }
- {
-  coords 916.914 0 2120.306
- }
- {
   coords 870.382 0 2095.73
  }
  {
   coords 863.239 0 2101.953
- }
- {
-  coords 898.569 0 2157.394
  }
  {
   coords 874.983 0 2093.353
@@ -48280,22 +46020,7 @@ $grp SCR_DestructibleTreeV2 : "{FD55970779EC6018}Prefabs/Vegetation/Tree/Dst/t_c
   coords 932.453 0 2015.964
  }
  {
-  coords 950.842 0 2043.807
- }
- {
-  coords 958.668 0 2057.296
- }
- {
-  coords 957.878 0 2059.659
- }
- {
-  coords 959.365 0 2053.91
- }
- {
   coords 921.393 0 2078.418
- }
- {
-  coords 948.01 0 2052.417
  }
  {
   coords 913.813 0 1985.231
@@ -48304,16 +46029,7 @@ $grp SCR_DestructibleTreeV2 : "{FD55970779EC6018}Prefabs/Vegetation/Tree/Dst/t_c
   coords 949.299 0 1979.323
  }
  {
-  coords 964.768 0 2036.365
- }
- {
   coords 928.406 0 2028.216
- }
- {
-  coords 955.094 0 2031.493
- }
- {
-  coords 950.796 0 2082.652
  }
  {
   coords 971.128 0 2047.477
@@ -48370,19 +46086,7 @@ $grp SCR_DestructibleTreeV2 : "{FD55970779EC6018}Prefabs/Vegetation/Tree/Dst/t_c
   coords 970.331 0 2091.448
  }
  {
-  coords 1021.51 0 2014.749
- }
- {
-  coords 973.697 0 2025.706
- }
- {
   coords 978.824 0 1993.625
- }
- {
-  coords 1034.511 0 1996.44
- }
- {
-  coords 1047.712 0 1984.625
  }
  {
   coords 1004.804 0 1987.717
@@ -48394,19 +46098,7 @@ $grp SCR_DestructibleTreeV2 : "{FD55970779EC6018}Prefabs/Vegetation/Tree/Dst/t_c
   coords 1022.384 0 1933.561
  }
  {
-  coords 1087.636 0 1903.023
- }
- {
-  coords 1097.128 0 1892.785
- }
- {
-  coords 1101.044 0 1900.25
- }
- {
   coords 1066.124 0 1891.004
- }
- {
-  coords 1099.209 0 1869.79
  }
  {
   coords 1111.725 0 1843.136
@@ -48415,16 +46107,7 @@ $grp SCR_DestructibleTreeV2 : "{FD55970779EC6018}Prefabs/Vegetation/Tree/Dst/t_c
   coords 1036.271 0 1858.497
  }
  {
-  coords 1092.238 0 1893.17
- }
- {
-  coords 1089.222 0 1847.94
- }
- {
   coords 1112.638 0 1887.051
- }
- {
-  coords 1088.377 0 1899.417
  }
  {
   coords 1079.803 0 1867.909
@@ -48511,9 +46194,6 @@ $grp SCR_DestructibleTreeV2 : "{FD55970779EC6018}Prefabs/Vegetation/Tree/Dst/t_c
   coords 1089.043 0 2034.307
  }
  {
-  coords 1040.019 0 2023.387
- }
- {
   coords 1017.542 0 2002.071
  }
  {
@@ -48521,12 +46201,6 @@ $grp SCR_DestructibleTreeV2 : "{FD55970779EC6018}Prefabs/Vegetation/Tree/Dst/t_c
  }
  {
   coords 1014.8 0 1987.967
- }
- {
-  coords 1023.724 0 2024.041
- }
- {
-  coords 1016.609 0 2026.011
  }
  {
   coords 999.693 0 1999.204
