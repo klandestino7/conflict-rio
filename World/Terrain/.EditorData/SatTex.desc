@@ -1,7 +1,7 @@
 SatGenDescClass {
- FileName "C:/Users/cleid/Desktop/Manten.png"
+ FileName "C:/Users/cleid/Desktop/Screenshot 2024-07-20 100158.png"
  sRGBOutput 0
- RenderRoads 1
+ RenderRoads 0
  Interpolation bilinear
  RoadsAA "8x"
 }
