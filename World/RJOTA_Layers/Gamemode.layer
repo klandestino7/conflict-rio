@@ -42,6 +42,41 @@ ScriptedChatEntity : "{536D80EB494DDC43}Prefabs/MP/Campaign/CampaignMPChatEntity
 }
 SCR_CampaignFactionManager CampaignFactionManager1 : "{F1AC26310BAE3788}Prefabs/MP/Campaign/CampaignFactionManager.et" {
  coords 20.291 0 5.837
+ Factions {
+  SCR_CampaignFaction "{50B30C3AF4BFD934}" {
+   UIInfo SCR_FactionUIInfo "{528C96127F8B6B08}" {
+    Name "CV"
+    Icon "{F370894884326C43}Assets/Factions/cv-icon.edds"
+    m_sNameUpper "CV"
+   }
+   m_bIsMilitary 0
+   m_sFactionFlag "{9483D1EDF710FA9D}Assets/Factions/flag-cv.edds"
+   m_aStartingVehicles {
+    "{EEAC3A94929A2B55}Prefabs/Vehicles/Wheeled/Ural4320/Ural4320_transport_CIV_randomized.et" "{870EB660433857D3}Prefabs/Vehicles/Wheeled/UAZ469/UAZ469_covered_CIV_teal.et"
+   }
+  }
+  SCR_CampaignFaction "{50B30C3ADB052C80}" {
+   FactionColor 0.122 0.122 0.122 1
+   UIInfo SCR_FactionUIInfo "{528C961236B7DCD3}" {
+    Name "BOPE"
+    Description "Batalhão de Operações Policiais Especiais é uma força de operações especiais da Polícia Militar do Estado do Rio de Janeiro (PMERJ), subordinada diretamente ao Comando de Operações Especiais do estado do Rio de Janeiro."
+    Icon "{F6668225C3ACBEBD}Assets/Factions/bope-icon.edds"
+    m_sNameUpper "BOPE"
+   }
+   m_OutlineFactionColor 0.004 0.037 0.098 1
+   m_NotificationFactionColor 0.002 0.071 0.118 1
+   m_NotificationTextFactionColor 0.002 0.069 0.114 1
+   m_sFactionFlag "{732454B40B9501E8}Assets/Factions/flag-bope.edds"
+   m_FactionFlagMaterial "{6E9DA07CBCE6BE7F}Assets/Props/Fabric/Flags/Data/Flag_1_2_White.emat"
+  }
+  SCR_CampaignFaction "{56F0C3A6336375DC}" {
+   UIInfo SCR_FactionUIInfo "{5570936866E0AD08}" {
+    Name "MILICIA"
+    m_sNameUpper "MILICIA"
+   }
+   m_bIsMilitary 0
+  }
+ }
 }
 GenericEntity {
  components {
@@ -476,6 +511,10 @@ SCR_MapLocator {
   }
  }
 }
+GenericEntity : "{111673E62CB11177}Prefabs/Structures/BuildingParts/Eletrical/BreakerBox_04/BreakerBox_04.et" {
+ coords 1603.98 78.412 2390.883
+ angleY -147.355
+}
 $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMilitaryBase.et" {
  FavelaPredinhos {
   components {
@@ -514,7 +553,7 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_sBaseNameUpper "#AR-Campaign_Arland_MapLocation_Arleville-UC"
    }
   }
-  coords 2727.073 12.934 1680.716
+  coords 2829.668 20.245 1702.721
   angleY -42.398
   {
    GenericEntity {
@@ -544,7 +583,7 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_sBaseNameUpper "#AR-Campaign_Arland_MapLocation_Beauregard-UC"
    }
   }
-  coords 3297.467 2 2860.182
+  coords 1693.459 61.896 1965.629
   angleY -30.211
   {
    GenericEntity {
@@ -606,7 +645,7 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_bIsSource 1
    }
   }
-  coords 1965.52 18.386 1962.967
+  coords 889.563 3.969 2070.572
   {
    GenericEntity {
     ID "5EEEC471C30578EB"
@@ -645,8 +684,11 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    SCR_CoverageRadioComponent "{5C669673C2A82A2B}" {
     m_bIsSource 1
    }
+   SCR_FactionAffiliationComponent "{5AFC974A2595F05D}" {
+    "faction affiliation" "US"
+   }
   }
-  coords 1928.801 6.359 2672.516
+  coords 3385.478 10.79 2889.507
  }
  MilitarySouth {
   components {
@@ -657,7 +699,7 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_sBaseNameUpper "#AR-Campaign_Arland_MapLocation_Military-UC"
    }
   }
-  coords 1413.433 10.959 1857.548
+  coords 2093.02 7.179 1996.172
   {
    GenericEntity {
     ID "5CCED514A5908822"
@@ -680,7 +722,7 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_sBaseNameUpper "#AR-Campaign_Arland_MapLocation_MossHill-UC"
    }
   }
-  coords 2897.637 3.337 2090.939
+  coords 2867.793 5.058 2107.755
   angleX 2.712
   angleY -66.471
   angleZ -1.745
@@ -1570,7 +1612,7 @@ $grp GenericEntity : "{16148BF23770F1D3}Prefabs/Compositions/Slotted/SlotFlatSma
  }
 }
 GenericEntity : "{164B0489980ECF0F}Prefabs/Compositions/Locations/Arland/Base_MilitaryBase_USSR_01.et" {
- coords 1388.649 46.117 2376.842
+ coords 2089.125 7.965 2453.251
  {
   GenericEntity {
    ID "5D92D7C37E08F3B5"
@@ -2733,6 +2775,26 @@ $grp GenericEntity : "{27F6A0815E6FF6EF}Prefabs/Compositions/Slotted/SlotRoadMed
 }
 BasePreloadManager PreloadManager_Campaign1 : "{32BFDCDE99092FCE}Prefabs/World/Game/PreloadManager_Campaign.et" {
  coords 44.236 0 47.781
+ PrefabsToPreload {
+  PreloadEntry "{615E7910295F8C4A}" {
+   Prefab "{5ED4A64D2B7A6A83}Prefabs/Characters/Campaign/Final/Campaign_BOPE_Player.et"
+  }
+  PreloadEntry "{615E7910231F929D}" {
+   Prefab "{D05116ED46B82637}Prefabs/Characters/Campaign/Final/Campaign_CV_Player.et"
+  }
+  PreloadEntry "{615E7911DD2434EE}" {
+   Prefab "{954A51B8DAB7731C}Prefabs/Characters/Campaign/Final/Campaign_BOPE_Base.et"
+  }
+  PreloadEntry "{615E7911D33FD6CE}" {
+   Prefab "{D1FEAB018F75E5AC}Prefabs/Characters/Campaign/Final/Campaign_CV_Base.et"
+  }
+  PreloadEntry "{615E7911C9DF6095}" {
+   Prefab "{5ED4A64D2B7A6A83}Prefabs/Characters/Campaign/Final/Campaign_BOPE_Player.et"
+  }
+  PreloadEntry "{615E7911CFEEE297}" {
+   Prefab "{D05116ED46B82637}Prefabs/Characters/Campaign/Final/Campaign_CV_Player.et"
+  }
+ }
 }
 MusicManager : "{359452CCDBDD03F5}Prefabs/Sounds/Music/MusicManager_Base.et" {
  coords 0 0 0
@@ -3616,8 +3678,8 @@ GenericEntity Tower : "{522DCD528AE27052}Prefabs/Systems/MilitaryBase/ConflictRe
    m_sBaseNameUpper "#AR-Campaign_Arland_MapLocation_SignalHill-UC"
   }
  }
- coords 2507.953 4.753 2268.615
- angleY -58.408
+ coords 1603.497 79.235 2390.566
+ angleY -155.455
  {
   GenericEntity {
    ID "5C727AD606EB0C1C"
@@ -3628,6 +3690,20 @@ GenericEntity Tower : "{522DCD528AE27052}Prefabs/Systems/MilitaryBase/ConflictRe
 }
 SCR_LoadoutManager : "{58FBD035E53D95C1}Prefabs/MP/Campaign/CampaignLoadoutManager.et" {
  coords 0 0 0
+ m_aPlayerLoadouts {
+  SCR_FactionPlayerLoadout "{5690D9DB9BA76597}" {
+   m_sLoadoutResource "{5ED4A64D2B7A6A83}Prefabs/Characters/Campaign/Final/Campaign_BOPE_Player.et"
+  }
+  SCR_FactionPlayerLoadout "{5690D9DB9400735C}" {
+   m_sLoadoutResource "{D05116ED46B82637}Prefabs/Characters/Campaign/Final/Campaign_CV_Player.et"
+  }
+  SCR_PlayerArsenalLoadout "{5B108B49559B24A2}" {
+   m_sLoadoutResource "{954A51B8DAB7731C}Prefabs/Characters/Campaign/Final/Campaign_BOPE_Base.et"
+  }
+  SCR_PlayerArsenalLoadout "{5B108B4948B445F8}" {
+   m_sLoadoutResource "{D1FEAB018F75E5AC}Prefabs/Characters/Campaign/Final/Campaign_CV_Base.et"
+  }
+ }
 }
 GenericEntity : "{60AA21344D68BACE}Prefabs/Structures/Military/CamoNets/Soviet/CamoNet_Medium_Top_Soviet.et" {
  coords 2510.294 5.06 2267.051
@@ -5970,6 +6046,11 @@ $grp GenericEntity : "{7A40BF128BB47EFD}Prefabs/Compositions/Slotted/SlotFlatSma
 }
 $grp GenericEntity : "{7C85836D444E3797}Prefabs/Compositions/Slotted/SlotRoadMedium/Checkpoint_M_USSR_01.et" {
  {
+  components {
+   FactionAffiliationComponent "{5CC6A59B085DB898}" {
+    "faction affiliation" "CV"
+   }
+  }
   coords 2670.021 21.788 1866.905
   angleX -1.022
   angleY 5.443
@@ -6053,6 +6134,11 @@ $grp GenericEntity : "{7C85836D444E3797}Prefabs/Compositions/Slotted/SlotRoadMed
   }
  }
  {
+  components {
+   FactionAffiliationComponent "{5CC6A59B085DB898}" {
+    "faction affiliation" "CV"
+   }
+  }
   coords 3108.089 5.011 2916.231
   angleX 5.927
   angleY -34.484
@@ -6837,6 +6923,11 @@ GenericEntity : "{92BE346D5E0BD792}Prefabs/Props/Military/Fuel/MobileWaterTank_U
 }
 $grp GenericEntity : "{9483333BFD9E2D0F}Prefabs/Compositions/Slotted/SlotRoadSmall/Checkpoint_S_USSR_01.et" {
  {
+  components {
+   FactionAffiliationComponent "{5CC6A59B2FCA15CF}" {
+    "faction affiliation" "CV"
+   }
+  }
   coords 2795.95 27.388 1683.221
   angleX -3.885
   angleY -106.745
@@ -6894,6 +6985,11 @@ $grp GenericEntity : "{9483333BFD9E2D0F}Prefabs/Compositions/Slotted/SlotRoadSma
   }
  }
  {
+  components {
+   FactionAffiliationComponent "{5CC6A59B2FCA15CF}" {
+    "faction affiliation" "CV"
+   }
+  }
   coords 3241.943 12.891 2817.228
   angleX 5.081
   angleY 171.066
@@ -6925,6 +7021,11 @@ $grp GenericEntity : "{9483333BFD9E2D0F}Prefabs/Compositions/Slotted/SlotRoadSma
   }
  }
  {
+  components {
+   FactionAffiliationComponent "{5CC6A59B2FCA15CF}" {
+    "faction affiliation" "CV"
+   }
+  }
   coords 2581.44 2.335 2359.625
   angleX 4.206
   angleY 171.665
@@ -6987,6 +7088,11 @@ $grp GenericEntity : "{9483333BFD9E2D0F}Prefabs/Compositions/Slotted/SlotRoadSma
   }
  }
  {
+  components {
+   FactionAffiliationComponent "{5CC6A59B2FCA15CF}" {
+    "faction affiliation" "CV"
+   }
+  }
   coords 2598.029 2.284 2469.274
   angleY 176.691
   {
@@ -7048,6 +7154,11 @@ $grp GenericEntity : "{9483333BFD9E2D0F}Prefabs/Compositions/Slotted/SlotRoadSma
   }
  }
  {
+  components {
+   FactionAffiliationComponent "{5CC6A59B2FCA15CF}" {
+    "faction affiliation" "CV"
+   }
+  }
   coords 2480.523 11.495 1914.666
   angleX 6.812
   angleY 100.319
@@ -7112,6 +7223,9 @@ $grp GenericEntity : "{9483333BFD9E2D0F}Prefabs/Compositions/Slotted/SlotRoadSma
  }
  {
   components {
+   FactionAffiliationComponent "{5CC6A59B2FCA15CF}" {
+    "faction affiliation" "CV"
+   }
    RoadNetworkBridgeComponent "{615B048AD76FB3E0}" {
     Points {
      0 0 -15 -2 0 -6 -2 0 -3 2 0 3 0 0 8
@@ -7179,6 +7293,11 @@ $grp GenericEntity : "{9483333BFD9E2D0F}Prefabs/Compositions/Slotted/SlotRoadSma
   }
  }
  {
+  components {
+   FactionAffiliationComponent "{5CC6A59B2FCA15CF}" {
+    "faction affiliation" "CV"
+   }
+  }
   coords 3300.565 10.545 2671.563
   angleY -121.195
   {
@@ -7230,6 +7349,11 @@ $grp GenericEntity : "{9483333BFD9E2D0F}Prefabs/Compositions/Slotted/SlotRoadSma
   }
  }
  {
+  components {
+   FactionAffiliationComponent "{5CC6A59B2FCA15CF}" {
+    "faction affiliation" "CV"
+   }
+  }
   coords 2910.694 31.133 3068.45
   angleX 2.521
   angleY 9.509
@@ -8418,12 +8542,22 @@ GenericEntity : "{9E5A20C8FDD4C461}Prefabs/Compositions/Locations/Arland/SupplyP
 }
 $grp GenericEntity : "{9F9924B626C5FA2C}Prefabs/Compositions/Slotted/SlotRoadLarge/Checkpoint_L_USSR_01.et" {
  {
+  components {
+   FactionAffiliationComponent "{5CC6A59B7924D8C0}" {
+    "faction affiliation" "CV"
+   }
+  }
   coords 1756.087 6.425 2614.488
   angleX -2.505
   angleY -107.557
   angleZ 1.222
  }
  {
+  components {
+   FactionAffiliationComponent "{5CC6A59B7924D8C0}" {
+    "faction affiliation" "CV"
+   }
+  }
   coords 3184.773 11.611 2817.007
   angleX 1.436
   angleY -135.768
@@ -9294,6 +9428,10 @@ $grp GenericEntity : "{B04F2A9C5356C02D}Prefabs/Compositions/Slotted/SlotFlatSma
   }
  }
 }
+SCR_DestructibleBuildingEntity : "{C4EAB3F9F0AB37B2}Prefabs/Structures/Infrastructure/Power/Utility/ElectricCabinet_01/ElectricCabinet_01_double.et" {
+ coords 1601.291 0 2392.168
+ angleY 178.084
+}
 GenericEntity : "{C63BFEEA9DE1CF26}Prefabs/MP/Campaign/SupplyDepots/SupplyCache_S_FIA_05_Campaign.et" {
  coords 1372.314 44.429 2374.395
  angleY 50.406
@@ -9624,6 +9762,11 @@ GameEntity : "{E3F157551B0501FE}Prefabs/Props/Military/Generators/GeneratorMilit
 }
 $grp GenericEntity : "{E660DE914A7211EB}Prefabs/Compositions/Slotted/SlotRoadSmall/Checkpoint_S_US_01.et" {
  {
+  components {
+   FactionAffiliationComponent "{5CC6A59B280BD191}" {
+    "faction affiliation" "BOPE"
+   }
+  }
   coords 2126.824 53.117 2888.671
   angleY -56.92
   {
@@ -9640,10 +9783,20 @@ $grp GenericEntity : "{E660DE914A7211EB}Prefabs/Compositions/Slotted/SlotRoadSma
   }
  }
  {
+  components {
+   FactionAffiliationComponent "{5CC6A59B280BD191}" {
+    "faction affiliation" "BOPE"
+   }
+  }
   coords 2202.312 53.824 2813.514
   angleY 107.527
  }
  {
+  components {
+   FactionAffiliationComponent "{5CC6A59B280BD191}" {
+    "faction affiliation" "BOPE"
+   }
+  }
   coords 1333.772 12.189 1893.699
   angleY -124.175
   {
@@ -9664,6 +9817,11 @@ $grp GenericEntity : "{E660DE914A7211EB}Prefabs/Compositions/Slotted/SlotRoadSma
   }
  }
  {
+  components {
+   FactionAffiliationComponent "{5CC6A59B280BD191}" {
+    "faction affiliation" "BOPE"
+   }
+  }
   coords 3095.323 19.268 2658.427
   angleX 4.542
   angleY -143.393
@@ -9729,6 +9887,11 @@ $grp GenericEntity : "{E660DE914A7211EB}Prefabs/Compositions/Slotted/SlotRoadSma
   }
  }
  {
+  components {
+   FactionAffiliationComponent "{5CC6A59B280BD191}" {
+    "faction affiliation" "BOPE"
+   }
+  }
   coords 2062.987 15.205 2127.3
   angleY 116.042
   {
