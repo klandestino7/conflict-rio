@@ -1,7 +1,7 @@
 GenericWorldEntity world {
- BSP 607 1 125 1 256 0 0 2 129 2 0 3 66 0 17000 4 35 2 17000 5 20 0 25500 6 13 2 25500 7 10 0 29750 8 9 2 29750 -1 -1 2 29750 -1 -1 0 29750 11 12 2 21250 -1 -1 2 21250 -1 -1 2 25500 14 17 0 21250 15 16 2 29750 -1 -1 2 29750 -1 -1 0 21250 18 19 2 21250 -1 -1 2 21250 -1 -1 0 25500 21 28 2 8500 22 25 0 29750 23 24 2 12750 -1 -1 2 12750 -1 -1 0 29750 26 27 2 4250 -1 -1 2 4250 -1 -1 2 8500 29 32 0 21250 30 31 2 12750 -1 -1 2 12750 -1 -1 0 21250 33 34 2 4250 -1 -1 2 4250 -1 -1 2 17000 36 51 0 8500 37 44 2 25500 38 41 0 12750 39 40 2 29750 -1 -1 2 29750 -1 -1 0 12750 42 43 2 21250 -1 -1 2 21250 -1 -1 2 25500 45 48 0 4250 46 47 2 29750 -1 -1 2 29750 -1 -1 0 4250 49 50 2 21250 -1 -1 2 21250 -1 -1 0 8500 52 59 2 8500 53 56 0 12750 54 55 2 12750 -1 -1 2 12750 -1 -1 0 12750 57 58 2 4250 -1 -1 2 4250 -1 -1 2 8500 60 63 0 4250 61 62 2 12750 -1 -1 2 12750 -1 -1 0 4250 64 65 2 4250 -1 -1 2 4250 -1 -1 0 17000 67 98 2 -17000 68 83 0 25500 69 76 2 -8500 70 73 0 29750 71 72 2 -4250 -1 -1 2 -4250 -1 -1 0 29750 74 75 2 -12750 -1 -1 2 -12750 -1 -1 2 -8500 77 80 0 21250 78 79 2 -4250 -1 -1 2 -4250 -1 -1 0 21250 81 82 2 -12750 -1 -1 2 -12750 -1 -1 0 25500 84 91 2 -25500 85 88 0 29750 86 87 2 -21250 -1 -1 2 -21250 -1 -1 0 29750 89 90 2 -29750 -1 -1 2 -29750 -1 -1 2 -25500 92 95 0 21250 93 94 2 -21250 -1 -1 2 -21250 -1 -1 0 21250 96 97 2 -29750 -1 -1 2 -29750 -1 -1 2 -17000 99 114 0 8500 100 107 2 -8500 101 104 0 12750 102 103 2 -4250 -1 -1 2 -4250 -1 -1 0 12750 105 106 2 -12750 -1 -1 2 -12750 -1 -1 2 -8500 108 111 0 4250 109 110 2 -4250 -1 -1 2 -4250 -1 -1 0 4250 112 113 2 -12750 -1 -1 2 -12750 -1 -1 0 8500 115 122 2 -25500 116 119 0 12750 117 118 2 -21250 -1 -1 2 -21250 -1 -1 0 12750 120 121 2 -29750 -1 -1 2 -29750 -1 -1 2 -25500 123 126 0 4250 124 125 2 -21250 -1 -1 2 -21250 -1 -1 0 4250 127 128 2 -29750 -1 -1 2 -29750 -1 -1 2 0 130 193 0 -17000 131 162 2 17000 132 147 0 -8500 133 140 2 25500 134 137 0 -4250 135 136 2 29750 -1 -1 2 29750 -1 -1 0 -4250 138 139 2 21250 -1 -1 2 21250 -1 -1 2 25500 141 144 0 -12750 142 143 2 29750 -1 -1 2 29750 -1 -1 0 -12750 145 146 2 21250 -1 -1 2 21250 -1 -1 0 -8500 148 155 2 8500 149 152 0 -4250 150 151 2 12750 -1 -1 2 12750 -1 -1 0 -4250 153 154 2 4250 -1 -1 2 4250 -1 -1 2 8500 156 159 0 -12750 157 158 2 12750 -1 -1 2 12750 -1 -1 0 -12750 160 161 2 4250 -1 -1 2 4250 -1 -1 2 17000 163 178 0 -25500 164 171 2 25500 165 168 0 -21250 166 167 2 29750 -1 -1 2 29750 -1 -1 0 -21250 169 170 2 21250 -1 -1 2 21250 -1 -1 2 25500 172 175 0 -29750 173 174 2 29750 -1 -1 2 29750 -1 -1 0 -29750 176 177 2 21250 -1 -1 2 21250 -1 -1 0 -25500 179 186 2 8500 180 183 0 -21250 181 182 2 12750 -1 -1 2 12750 -1 -1 0 -21250 184 185 2 4250 -1 -1 2 4250 -1 -1 2 8500 187 190 0 -29750 188 189 2 12750 -1 -1 2 12750 -1 -1 0 -29750 191 192 2 4250 -1 -1 2 4250 -1 -1 0 -17000 194 225 2 -17000 195 210 0 -8500 196 203 2 -8500 197 200 0 -4250 198 199 2 -4250 -1 -1 2 -4250 -1 -1 0 -4250 201 202 2 -12750 -1 -1 2 -12750 -1 -1 2 -8500 204 207 0 -12750 205 206 2 -4250 -1 -1 2 -4250 -1 -1 0 -12750 208 209 2 -12750 -1 -1 2 -12750 -1 -1 0 -8500 211 218 2 -25500 212 215 0 -4250 213 214 2 -21250 -1 -1 2 -21250 -1 -1 0 -4250 216 217 2 -29750 -1 -1 2 -29750 -1 -1 2 -25500 219 222 0 -12750 220 221 2 -21250 -1 -1 2 -21250 -1 -1 0 -12750 223 224 2 -29750 -1 -1 2 -29750 -1 -1 2 -17000 226 241 0 -25500 227 234 2 -8500 228 231 0 -21250 229 230 2 -4250 -1 -1 2 -4250 -1 -1 0 -21250 232 233 2 -12750 -1 -1 2 -12750 -1 -1 2 -8500 235 238 0 -29750 236 237 2 -4250 -1 -1 2 -4250 -1 -1 0 -29750 239 240 2 -12750 -1 -1 2 -12750 -1 -1 0 -25500 242 249 2 -25500 243 246 0 -21250 244 245 2 -21250 -1 -1 2 -21250 -1 -1 0 -21250 247 248 2 -29750 -1 -1 2 -29750 -1 -1 2 -25500 250 253 0 -29750 251 252 2 -21250 -1 -1 2 -21250 -1 -1 0 -29750 254 255 2 -29750 -1 -1 2 -29750 -1 -1 2 3621 257 320 0 0 258 289 0 17000 259 274 2 18810 260 267 0 25500 261 264 2 26405 262 263 0 29750 -1 -1 0 29750 -1 -1 2 26405 265 266 0 21250 -1 -1 0 21250 -1 -1 0 25500 268 271 2 11216 269 270 0 29750 -1 -1 0 29750 -1 -1 2 11216 272 273 0 21250 -1 -1 0 21250 -1 -1 2 18810 275 282 0 8500 276 279 2 26405 277 278 0 12750 -1 -1 0 12750 -1 -1 2 26405 280 281 0 4250 -1 -1 0 4250 -1 -1 0 8500 283 286 2 11216 284 285 0 12750 -1 -1 0 12750 -1 -1 2 11216 287 288 0 4250 -1 -1 0 4250 -1 -1 0 -17000 290 305 2 18810 291 298 0 -8500 292 295 2 26405 293 294 0 -4250 -1 -1 0 -4250 -1 -1 2 26405 296 297 0 -12750 -1 -1 0 -12750 -1 -1 0 -8500 299 302 2 11216 300 301 0 -4250 -1 -1 0 -4250 -1 -1 2 11216 303 304 0 -12750 -1 -1 0 -12750 -1 -1 2 18810 306 313 0 -25500 307 310 2 26405 308 309 0 -21250 -1 -1 0 -21250 -1 -1 2 26405 311 312 0 -29750 -1 -1 0 -29750 -1 -1 0 -25500 314 317 2 11216 315 316 0 -21250 -1 -1 0 -21250 -1 -1 2 11216 318 319 0 -29750 -1 -1 0 -29750 -1 -1 0 3634 321 352 2 -15189 322 337 0 18817 323 330 2 -5783 324 327 0 26408 325 326 2 -1080 -1 -1 2 -1080 -1 -1 0 26408 328 329 2 -10486 -1 -1 2 -10486 -1 -1 2 -5783 331 334 0 11225 332 333 2 -1080 -1 -1 2 -1080 -1 -1 0 11225 335 336 2 -10486 -1 -1 2 -10486 -1 -1 0 18817 338 345 2 -24594 339 342 0 26408 340 341 2 -19891 -1 -1 2 -19891 -1 -1 0 26408 343 344 2 -29297 -1 -1 2 -29297 -1 -1 2 -24594 346 349 0 11225 347 348 2 -19891 -1 -1 2 -19891 -1 -1 0 11225 350 351 2 -29297 -1 -1 2 -29297 -1 -1 2 100 353 538 0 100 354 -1 2 2137 355 451 0 2098 356 397 2 2514 357 382 0 3022 358 369 0 3221 359 365 2 2812 360 363 2 2883 361 362 0 3342 -1 -1 0 3367 -1 -1 0 3362 -1 364 2 2693 -1 -1 2 2732 366 368 2 2848 367 -1 2 2899 -1 -1 2 2615 -1 -1 2 2643 370 379 0 2869 371 374 2 2751 372 -1 2 2803 373 -1 2 3212 -1 -1 2 2721 375 378 0 2744 376 377 2 3171 -1 -1 2 3171 -1 -1 0 2810 -1 -1 0 2819 380 381 0 2898 -1 -1 0 2681 -1 -1 2 2335 383 390 0 2686 384 387 0 2883 385 -1 0 2983 386 -1 0 3051 -1 -1 0 2350 388 389 0 2506 -1 -1 0 2168 -1 -1 0 2560 391 395 0 2767 392 394 0 2872 393 -1 0 2901 -1 -1 0 2675 -1 -1 0 2280 396 -1 0 2379 -1 -1 0 1530 398 423 2 2351 399 416 0 1768 400 408 0 1935 401 404 2 2451 402 -1 2 2528 403 -1 2 3075 -1 -1 2 2487 405 -1 2 2531 406 -1 2 2583 407 -1 2 3102 -1 -1 0 1640 409 412 2 2451 410 -1 2 2500 411 -1 2 3061 -1 -1 2 2455 413 -1 2 2480 414 -1 2 2510 415 -1 2 3066 -1 -1 2 2250 417 420 0 1804 418 419 0 1962 -1 -1 0 1672 -1 -1 0 1805 421 422 0 1914 -1 -1 0 1670 -1 -1 0 1276 424 435 0 1415 425 430 2 2359 426 429 2 2464 427 -1 2 2513 428 -1 2 3067 -1 -1 2 2239 -1 -1 2 2357 431 434 2 2440 432 -1 2 2501 433 -1 2 3061 -1 -1 2 2214 -1 -1 2 2330 436 447 0 1172 437 440 2 2422 438 -1 2 2479 439 -1 2 3050 -1 -1 0 1083 441 443 2 2415 442 -1 2 3018 -1 -1 0 1015 444 445 2 2976 -1 -1 2 2976 -1 446 0 557 -1 -1 0 1130 -1 448 0 1045 -1 449 0 992 -1 450 0 546 -1 -1 0 2173 452 493 2 1833 453 469 2 1970 454 462 0 2612 455 459 0 2859 456 458 0 2930 457 -1 0 2981 -1 -1 0 2779 -1 -1 0 2392 460 461 0 2481 -1 -1 0 2322 -1 -1 0 2564 463 467 0 2797 464 466 0 2920 465 -1 0 2976 -1 -1 0 2680 -1 -1 0 2358 468 -1 0 2441 -1 -1 0 3010 470 483 0 3184 471 479 0 3255 472 476 2 1735 473 474 0 3305 -1 -1 2 917 475 -1 2 1326 -1 -1 2 1691 -1 477 2 1626 -1 478 2 863 -1 -1 2 1694 -1 480 2 1596 -1 481 2 1545 -1 482 2 822 -1 -1 2 1670 484 486 0 2829 -1 485 0 2747 -1 -1 0 2858 487 490 2 1600 -1 488 2 1555 -1 489 2 827 -1 -1 2 1582 491 492 0 2796 -1 -1 2 841 -1 -1 0 1498 494 509 2 1942 495 499 0 1779 496 498 0 1947 497 -1 0 2019 -1 -1 0 1631 -1 -1 2 1838 500 504 0 1775 501 503 0 1937 502 -1 0 2016 -1 -1 0 1635 -1 -1 2 1728 505 506 0 1619 -1 -1 2 1658 507 508 0 1558 -1 -1 2 879 -1 -1 2 1829 510 521 2 2005 511 516 0 1166 512 513 0 1361 -1 -1 0 998 -1 514 0 919 -1 515 0 509 -1 -1 0 1197 517 518 0 1350 -1 -1 0 1049 -1 519 0 960 -1 520 0 530 -1 -1 0 1352 522 526 2 1678 -1 523 2 1607 -1 524 2 1554 -1 525 2 827 -1 -1 2 1698 527 530 0 1243 -1 528 0 1167 -1 529 0 633 -1 -1 0 1246 531 533 2 1609 -1 532 2 854 -1 -1 0 1177 534 535 2 899 -1 -1 2 899 536 537 0 638 -1 -1 0 638 -1 -1 0 -15182 539 576 2 -16950 540 561 0 -5774 541 554 2 -8425 542 551 0 -1069 543 550 2 -4162 544 -1 0 1282 -1 545 2 -2031 546 -1 0 106 -1 547 2 -965 548 -1 0 -481 549 -1 2 -432 -1 -1 2 -4162 -1 -1 0 -1069 552 553 2 -12687 -1 -1 2 -12687 -1 -1 2 -8425 555 558 0 -10478 556 557 2 -4162 -1 -1 2 -4162 -1 -1 0 -10478 559 560 2 -12687 -1 -1 2 -12687 -1 -1 0 -5774 562 569 2 -25475 563 566 0 -1069 564 565 2 -21212 -1 -1 2 -21212 -1 -1 0 -1069 567 568 2 -29737 -1 -1 2 -29737 -1 -1 2 -25475 570 573 0 -10478 571 572 2 -21212 -1 -1 2 -21212 -1 -1 0 -10478 574 575 2 -29737 -1 -1 2 -29737 -1 -1 2 -16950 577 592 0 -24591 578 585 2 -8425 579 582 0 -19887 580 581 2 -4162 -1 -1 2 -4162 -1 -1 0 -19887 583 584 2 -12687 -1 -1 2 -12687 -1 -1 2 -8425 586 589 0 -29295 587 588 2 -4162 -1 -1 2 -4162 -1 -1 0 -29295 590 591 2 -12687 -1 -1 2 -12687 -1 -1 0 -24591 593 600 2 -25475 594 597 0 -19887 595 596 2 -21212 -1 -1 2 -21212 -1 -1 0 -19887 598 599 2 -29737 -1 -1 2 -29737 -1 -1 2 -25475 601 604 0 -29295 602 603 2 -21212 -1 -1 2 -21212 -1 -1 0 -29295 605 606 2 -29737 -1 -1 2 -29737 -1 -1
- boundMins -100 -8.136 -100
- boundMaxs 3634.4 125.877 3621.86
+ BSP 717 1 125 1 256 0 0 2 129 2 0 3 66 0 17000 4 35 2 17000 5 20 0 25500 6 13 2 25500 7 10 0 29750 8 9 2 29750 -1 -1 2 29750 -1 -1 0 29750 11 12 2 21250 -1 -1 2 21250 -1 -1 2 25500 14 17 0 21250 15 16 2 29750 -1 -1 2 29750 -1 -1 0 21250 18 19 2 21250 -1 -1 2 21250 -1 -1 0 25500 21 28 2 8500 22 25 0 29750 23 24 2 12750 -1 -1 2 12750 -1 -1 0 29750 26 27 2 4250 -1 -1 2 4250 -1 -1 2 8500 29 32 0 21250 30 31 2 12750 -1 -1 2 12750 -1 -1 0 21250 33 34 2 4250 -1 -1 2 4250 -1 -1 2 17000 36 51 0 8500 37 44 2 25500 38 41 0 12750 39 40 2 29750 -1 -1 2 29750 -1 -1 0 12750 42 43 2 21250 -1 -1 2 21250 -1 -1 2 25500 45 48 0 4250 46 47 2 29750 -1 -1 2 29750 -1 -1 0 4250 49 50 2 21250 -1 -1 2 21250 -1 -1 0 8500 52 59 2 8500 53 56 0 12750 54 55 2 12750 -1 -1 2 12750 -1 -1 0 12750 57 58 2 4250 -1 -1 2 4250 -1 -1 2 8500 60 63 0 4250 61 62 2 12750 -1 -1 2 12750 -1 -1 0 4250 64 65 2 4250 -1 -1 2 4250 -1 -1 0 17000 67 98 2 -17000 68 83 0 25500 69 76 2 -8500 70 73 0 29750 71 72 2 -4250 -1 -1 2 -4250 -1 -1 0 29750 74 75 2 -12750 -1 -1 2 -12750 -1 -1 2 -8500 77 80 0 21250 78 79 2 -4250 -1 -1 2 -4250 -1 -1 0 21250 81 82 2 -12750 -1 -1 2 -12750 -1 -1 0 25500 84 91 2 -25500 85 88 0 29750 86 87 2 -21250 -1 -1 2 -21250 -1 -1 0 29750 89 90 2 -29750 -1 -1 2 -29750 -1 -1 2 -25500 92 95 0 21250 93 94 2 -21250 -1 -1 2 -21250 -1 -1 0 21250 96 97 2 -29750 -1 -1 2 -29750 -1 -1 2 -17000 99 114 0 8500 100 107 2 -8500 101 104 0 12750 102 103 2 -4250 -1 -1 2 -4250 -1 -1 0 12750 105 106 2 -12750 -1 -1 2 -12750 -1 -1 2 -8500 108 111 0 4250 109 110 2 -4250 -1 -1 2 -4250 -1 -1 0 4250 112 113 2 -12750 -1 -1 2 -12750 -1 -1 0 8500 115 122 2 -25500 116 119 0 12750 117 118 2 -21250 -1 -1 2 -21250 -1 -1 0 12750 120 121 2 -29750 -1 -1 2 -29750 -1 -1 2 -25500 123 126 0 4250 124 125 2 -21250 -1 -1 2 -21250 -1 -1 0 4250 127 128 2 -29750 -1 -1 2 -29750 -1 -1 2 0 130 193 0 -17000 131 162 2 17000 132 147 0 -8500 133 140 2 25500 134 137 0 -4250 135 136 2 29750 -1 -1 2 29750 -1 -1 0 -4250 138 139 2 21250 -1 -1 2 21250 -1 -1 2 25500 141 144 0 -12750 142 143 2 29750 -1 -1 2 29750 -1 -1 0 -12750 145 146 2 21250 -1 -1 2 21250 -1 -1 0 -8500 148 155 2 8500 149 152 0 -4250 150 151 2 12750 -1 -1 2 12750 -1 -1 0 -4250 153 154 2 4250 -1 -1 2 4250 -1 -1 2 8500 156 159 0 -12750 157 158 2 12750 -1 -1 2 12750 -1 -1 0 -12750 160 161 2 4250 -1 -1 2 4250 -1 -1 2 17000 163 178 0 -25500 164 171 2 25500 165 168 0 -21250 166 167 2 29750 -1 -1 2 29750 -1 -1 0 -21250 169 170 2 21250 -1 -1 2 21250 -1 -1 2 25500 172 175 0 -29750 173 174 2 29750 -1 -1 2 29750 -1 -1 0 -29750 176 177 2 21250 -1 -1 2 21250 -1 -1 0 -25500 179 186 2 8500 180 183 0 -21250 181 182 2 12750 -1 -1 2 12750 -1 -1 0 -21250 184 185 2 4250 -1 -1 2 4250 -1 -1 2 8500 187 190 0 -29750 188 189 2 12750 -1 -1 2 12750 -1 -1 0 -29750 191 192 2 4250 -1 -1 2 4250 -1 -1 0 -17000 194 225 2 -17000 195 210 0 -8500 196 203 2 -8500 197 200 0 -4250 198 199 2 -4250 -1 -1 2 -4250 -1 -1 0 -4250 201 202 2 -12750 -1 -1 2 -12750 -1 -1 2 -8500 204 207 0 -12750 205 206 2 -4250 -1 -1 2 -4250 -1 -1 0 -12750 208 209 2 -12750 -1 -1 2 -12750 -1 -1 0 -8500 211 218 2 -25500 212 215 0 -4250 213 214 2 -21250 -1 -1 2 -21250 -1 -1 0 -4250 216 217 2 -29750 -1 -1 2 -29750 -1 -1 2 -25500 219 222 0 -12750 220 221 2 -21250 -1 -1 2 -21250 -1 -1 0 -12750 223 224 2 -29750 -1 -1 2 -29750 -1 -1 2 -17000 226 241 0 -25500 227 234 2 -8500 228 231 0 -21250 229 230 2 -4250 -1 -1 2 -4250 -1 -1 0 -21250 232 233 2 -12750 -1 -1 2 -12750 -1 -1 2 -8500 235 238 0 -29750 236 237 2 -4250 -1 -1 2 -4250 -1 -1 0 -29750 239 240 2 -12750 -1 -1 2 -12750 -1 -1 0 -25500 242 249 2 -25500 243 246 0 -21250 244 245 2 -21250 -1 -1 2 -21250 -1 -1 0 -21250 247 248 2 -29750 -1 -1 2 -29750 -1 -1 2 -25500 250 253 0 -29750 251 252 2 -21250 -1 -1 2 -21250 -1 -1 0 -29750 254 255 2 -29750 -1 -1 2 -29750 -1 -1 2 10758 257 320 0 0 258 289 0 17000 259 274 2 22379 260 267 0 25500 261 264 2 28189 262 263 0 29750 -1 -1 0 29750 -1 -1 2 28189 265 266 0 21250 -1 -1 0 21250 -1 -1 0 25500 268 271 2 16569 269 270 0 29750 -1 -1 0 29750 -1 -1 2 16569 272 273 0 21250 -1 -1 0 21250 -1 -1 2 22379 275 282 0 8500 276 279 2 28189 277 278 0 12750 -1 -1 0 12750 -1 -1 2 28189 280 281 0 4250 -1 -1 0 4250 -1 -1 0 8500 283 286 2 16569 284 285 0 12750 -1 -1 0 12750 -1 -1 2 16569 287 288 0 4250 -1 -1 0 4250 -1 -1 0 -17000 290 305 2 22379 291 298 0 -8500 292 295 2 28189 293 294 0 -4250 -1 -1 0 -4250 -1 -1 2 28189 296 297 0 -12750 -1 -1 0 -12750 -1 -1 0 -8500 299 302 2 16569 300 301 0 -4250 -1 -1 0 -4250 -1 -1 2 16569 303 304 0 -12750 -1 -1 0 -12750 -1 -1 2 22379 306 313 0 -25500 307 310 2 28189 308 309 0 -21250 -1 -1 0 -21250 -1 -1 2 28189 311 312 0 -29750 -1 -1 0 -29750 -1 -1 0 -25500 314 317 2 16569 315 316 0 -21250 -1 -1 0 -21250 -1 -1 2 16569 318 319 0 -29750 -1 -1 0 -29750 -1 -1 0 10534 321 352 2 -11620 322 337 0 22267 323 330 2 -430 324 327 0 28133 325 326 2 5163 -1 -1 2 5163 -1 -1 0 28133 328 329 2 -6025 -1 -1 2 -6025 -1 -1 2 -430 331 334 0 16401 332 333 2 5163 -1 -1 2 5163 -1 -1 0 16401 335 336 2 -6025 -1 -1 2 -6025 -1 -1 0 22267 338 345 2 -22810 339 342 0 28133 340 341 2 -17215 -1 -1 2 -17215 -1 -1 0 28133 343 344 2 -28405 -1 -1 2 -28405 -1 -1 2 -22810 346 349 0 16401 347 348 2 -17215 -1 -1 2 -17215 -1 -1 0 16401 350 351 2 -28405 -1 -1 2 -28405 -1 -1 2 100 353 649 0 100 354 -1 2 2168 355 526 0 2103 356 450 2 2552 357 417 2 2775 358 397 2 2876 359 387 0 3118 360 378 0 3303 361 373 0 3372 362 369 2 6817 363 366 0 6953 -1 364 2 8788 365 -1 0 5162 -1 -1 0 6953 -1 367 2 4846 -1 368 0 5162 -1 -1 2 6817 -1 370 2 4846 -1 371 2 3861 -1 372 2 3369 -1 -1 2 2932 374 -1 2 6845 -1 375 2 4889 -1 376 2 3910 -1 377 2 3421 -1 -1 2 2924 379 385 2 6841 -1 380 2 4883 -1 381 2 3903 -1 382 0 2610 383 384 2 3414 -1 -1 2 3414 -1 -1 0 2823 386 -1 0 3080 -1 -1 0 3143 388 394 0 3280 389 -1 0 3395 390 -1 0 6965 -1 391 0 5180 -1 392 0 4288 -1 393 0 3842 -1 -1 0 2912 395 396 0 3053 -1 -1 0 2507 -1 -1 2 2673 398 408 0 3054 399 406 0 3278 400 405 0 3368 401 -1 0 6951 -1 402 0 5160 -1 403 0 4264 -1 404 0 3816 -1 -1 0 3154 -1 -1 0 2862 -1 407 0 2771 -1 -1 0 2961 409 415 0 3131 410 -1 0 3217 411 -1 0 6876 -1 412 0 5046 -1 413 0 4131 -1 414 0 3674 -1 -1 0 2839 -1 416 0 2762 -1 -1 2 2374 418 430 0 2769 419 427 0 2983 420 426 0 3052 421 -1 0 3102 422 -1 0 6818 -1 423 0 4960 -1 424 0 4031 -1 425 0 3566 -1 -1 0 2883 -1 -1 0 2436 428 429 0 2604 -1 -1 0 2243 -1 -1 0 2548 431 444 0 2743 432 443 2 2280 433 438 0 2850 434 -1 0 6692 -1 435 0 4771 -1 436 0 3811 -1 437 0 3331 -1 -1 0 2838 439 -1 0 2895 440 -1 0 6714 -1 441 0 4805 -1 442 0 3850 -1 -1 2 2282 -1 -1 0 2310 445 447 2 2267 446 -1 0 2456 -1 -1 0 2208 448 449 2 2282 -1 -1 2 2311 -1 -1 0 1489 451 486 2 2374 452 479 0 1747 453 466 0 1905 454 460 2 2465 455 -1 2 2524 456 -1 2 6641 -1 457 2 4583 -1 458 2 3554 -1 459 2 3039 -1 -1 2 2500 461 -1 2 2587 462 -1 2 2624 463 -1 2 6691 -1 464 2 4658 -1 465 2 3641 -1 -1 0 1630 467 473 2 2451 468 -1 2 2509 469 -1 2 6634 -1 470 2 4572 -1 471 2 3541 -1 472 2 3025 -1 -1 2 2467 474 -1 2 2510 475 -1 2 6634 -1 476 2 4572 -1 477 2 3541 -1 478 2 3026 -1 -1 0 1804 480 483 0 1962 481 482 2 2306 -1 -1 2 2254 -1 -1 2 2258 484 485 0 1644 -1 -1 0 1649 -1 -1 0 1180 487 503 0 1310 488 496 2 2382 489 495 2 2463 490 -1 2 2512 491 -1 2 6635 -1 492 2 4574 -1 493 2 3543 -1 494 2 3028 -1 -1 2 2277 -1 -1 2 2343 497 -1 2 2422 498 -1 2 2486 499 -1 2 6622 -1 500 2 4554 -1 501 2 3520 -1 502 2 3003 -1 -1 0 1029 504 510 2 2351 505 -1 2 2480 506 -1 2 6619 -1 507 2 4549 -1 508 2 3514 -1 509 2 2997 -1 -1 2 2440 511 521 0 944 512 516 2 6599 -1 513 2 4519 -1 514 2 3479 -1 515 2 2959 -1 -1 2 6599 -1 517 2 4519 -1 518 2 3479 -1 519 2 2959 -1 520 0 522 -1 -1 2 2289 522 524 0 976 -1 523 0 538 -1 -1 0 933 -1 525 0 516 -1 -1 0 2162 527 590 2 1833 528 551 2 1970 529 540 0 2584 530 538 0 2859 531 537 0 2927 532 -1 0 2981 533 -1 0 6758 -1 534 0 4869 -1 535 0 3925 -1 536 0 3453 -1 -1 0 2766 -1 -1 0 2357 539 -1 0 2446 -1 -1 0 2553 541 549 0 2797 542 548 0 2920 543 -1 0 2976 544 -1 0 6755 -1 545 0 4865 -1 546 0 3920 -1 547 0 3448 -1 -1 0 2680 -1 -1 0 2369 -1 550 0 2313 -1 -1 0 2993 552 576 0 3186 553 572 0 3255 554 569 2 1735 555 560 0 3305 556 -1 0 6919 -1 557 0 5112 -1 558 0 4208 -1 559 0 3756 -1 -1 0 6895 561 565 0 8715 562 -1 0 9624 563 -1 2 917 564 -1 0 10079 -1 -1 0 5075 -1 566 0 4165 -1 567 2 917 568 -1 0 3710 -1 -1 2 1691 -1 570 2 1626 -1 571 2 863 -1 -1 2 1695 -1 573 2 1598 -1 574 2 1545 -1 575 2 822 -1 -1 2 1670 577 580 0 2829 -1 578 0 2762 -1 579 0 2713 -1 -1 0 2851 581 584 2 1600 -1 582 2 1555 -1 583 2 827 -1 -1 0 2790 585 587 2 1611 -1 586 2 855 -1 -1 2 1589 588 589 0 2761 -1 -1 2 844 -1 -1 0 1500 591 617 2 1983 592 595 0 1779 593 594 0 1966 -1 -1 0 1631 -1 -1 0 1722 596 608 0 1917 597 604 0 1981 598 601 2 1931 -1 599 2 1015 600 -1 2 1473 -1 -1 2 1928 -1 602 2 1014 603 -1 2 1471 -1 -1 2 1897 -1 605 2 1837 -1 606 2 968 607 -1 2 1403 -1 -1 2 1838 609 610 0 1632 -1 -1 2 1728 611 612 0 1592 -1 -1 0 1558 613 615 2 914 614 -1 2 1321 -1 -1 2 1652 -1 616 2 876 -1 -1 2 1856 618 629 2 2005 619 624 0 1182 620 621 0 1361 -1 -1 0 1008 -1 622 0 919 -1 623 0 509 -1 -1 0 1198 625 626 0 1342 -1 -1 0 1047 -1 627 0 972 -1 628 0 536 -1 -1 2 1717 630 634 0 1352 -1 631 0 1243 -1 632 0 1167 -1 633 0 633 -1 -1 0 1352 635 638 2 1617 -1 636 2 1560 -1 637 2 830 -1 -1 0 1246 639 641 2 1612 -1 640 2 856 -1 -1 0 1168 642 644 2 908 643 -1 2 1313 -1 -1 2 908 645 647 0 634 646 -1 2 1313 -1 -1 0 634 -1 648 2 504 -1 -1 0 -11732 650 686 2 -16950 651 671 0 -598 652 664 2 -8425 653 661 0 4967 -1 654 2 -4162 655 -1 0 2184 -1 656 2 -2031 657 -1 0 792 -1 658 2 -965 659 -1 0 96 -1 660 2 -432 -1 -1 0 4967 662 663 2 -12687 -1 -1 2 -12687 -1 -1 2 -8425 665 668 0 -6165 666 667 2 -4162 -1 -1 2 -4162 -1 -1 0 -6165 669 670 2 -12687 -1 -1 2 -12687 -1 -1 0 -598 672 679 2 -25475 673 676 0 4967 674 675 2 -21212 -1 -1 2 -21212 -1 -1 0 4967 677 678 2 -29737 -1 -1 2 -29737 -1 -1 2 -25475 680 683 0 -6165 681 682 2 -21212 -1 -1 2 -21212 -1 -1 0 -6165 684 685 2 -29737 -1 -1 2 -29737 -1 -1 2 -16950 687 702 0 -22866 688 695 2 -8425 689 692 0 -17299 690 691 2 -4162 -1 -1 2 -4162 -1 -1 0 -17299 693 694 2 -12687 -1 -1 2 -12687 -1 -1 2 -8425 696 699 0 -28433 697 698 2 -4162 -1 -1 2 -4162 -1 -1 0 -28433 700 701 2 -12687 -1 -1 2 -12687 -1 -1 0 -22866 703 710 2 -25475 704 707 0 -17299 705 706 2 -21212 -1 -1 2 -21212 -1 -1 0 -17299 708 709 2 -29737 -1 -1 2 -29737 -1 -1 2 -25475 711 714 0 -28433 712 713 2 -21212 -1 -1 2 -21212 -1 -1 0 -28433 715 716 2 -29737 -1 -1 2 -29737 -1 -1
+ boundMins -100 -84.15 -100
+ boundMaxs 10534.78 125.877 10758.781
  blockSize 200 1500 200
  SkyPreset "{621C7F2EC2763297}Terrains/Common/Sky/Atmosphere/Atmosphere.emat"
  PlanetPreset {
@@ -59,6 +59,280 @@ CameraManager CameraManager1 {
 ProjectileSoundsManager : "{B4DA8B0024536625}Prefabs/World/Game/ProjectileSoundsManager.et" {
  coords 1549.32 18.049 1881.637
 }
+$grp GenericEntity {
+ {
+  components {
+   MeshObject "{61EADC3A9965D88E}" {
+    Object "{D9909CD8D990CC9B}Assets/upp.xob"
+   }
+   RigidBody "{61EADC3A6387A0A4}" {
+    ModelGeometry 1
+    Static 1
+   }
+  }
+  coords 935.286 3.989 2207.9
+ }
+ {
+  components {
+   MeshObject "{61EADC3A03D8A1CE}" {
+    Object "{EF27ABB140066D91}Assets/hei_prop_heist_pic_02.xob"
+   }
+   RigidBody "{61EADC3A0634235C}" {
+    ModelGeometry 1
+    Static 1
+   }
+  }
+  coords 920.422 3.969 2209.389
+ }
+ {
+  components {
+   MeshObject "{61EADC382EF2DF78}" {
+    Object "{06F480F1CFC509B2}Assets/hei_prop_heist_pic_07.xob"
+   }
+  }
+  coords 919.725 3.969 2230.07
+ }
+}
+$grp SCR_DestructibleBuildingEntity {
+ {
+  components {
+   MeshObject "{61EAE8C5B2B24538}" {
+    Object "{A5B05676AD755B95}Assets/NovosProps/campinho.xob"
+   }
+   RigidBody "{61EAE8C52917F3DC}" {
+    ModelGeometry 1
+    Static 1
+   }
+   RplComponent "{61EAE8C526A952DE}" {
+   }
+  }
+  coords 923.15 1.099 2222.496
+  angleY -131.478
+ }
+ {
+  components {
+   MeshObject "{61EAE8C5B215B9AD}" {
+    Object "{1F6B481531B9E365}Assets/NovosProps/hei_prop_heist_pic_01.xob"
+   }
+   RigidBody "{61EAE8C54E84E54E}" {
+    ModelGeometry 1
+    Static 1
+   }
+   RplComponent "{61EAE8C551FEB1BA}" {
+   }
+  }
+  coords 906.276 3.969 2225.413
+  angleY 37.279
+ }
+ {
+  components {
+   MeshObject "{61EAE8C5B7FD7A92}" {
+    Object "{8675F18C2C5ED2F5}Assets/NovosProps/hei_prop_heist_pic_02.xob"
+   }
+   RigidBody "{61EAE8C58C14F842}" {
+    ModelGeometry 1
+    Static 1
+   }
+   RplComponent "{61EAE8C591824EAA}" {
+   }
+  }
+  coords 914.175 3.969 2203.36
+  angleY -40.422
+ }
+ {
+  components {
+   MeshObject "{61EAE8C5B6B23559}" {
+    Object "{F17F9904D8FC3D85}Assets/NovosProps/hei_prop_heist_pic_03.xob"
+   }
+   RigidBody "{61EAE8C57A7385F2}" {
+    ModelGeometry 1
+    Static 1
+   }
+   RplComponent "{61EAE8C544904120}" {
+   }
+  }
+  coords 893.845 7.022 2207.247
+  angleY -130.393
+ }
+ {
+  components {
+   MeshObject "{61EAE8C5B66DBE8F}" {
+    Object "{F6B86355BE7A8746}Assets/NovosProps/hei_prop_heist_pic_04.xob"
+   }
+   RigidBody "{61EAE8C566EA2CEE}" {
+    ModelGeometry 1
+    Static 1
+   }
+   RplComponent "{61EAE8C575E55B4F}" {
+   }
+  }
+  coords 929.324 3.969 2212.372
+  angleY -31.961
+ }
+ {
+  components {
+   MeshObject "{61EAE8C5B8992D37}" {
+    Object "{81B20BDD4AD86836}Assets/NovosProps/hei_prop_heist_pic_05.xob"
+   }
+   RigidBody "{61EAE8C55B72E4F1}" {
+    ModelGeometry 1
+    Static 1
+   }
+   RplComponent "{61EAE8C55C104BC8}" {
+   }
+  }
+  coords 855.827 3.969 2248.368
+  angleY -139.794
+ }
+ {
+  components {
+   MeshObject "{61EAE8C5BB4BEA8B}" {
+    Object "{18ACB244573F59A6}Assets/NovosProps/hei_prop_heist_pic_06.xob"
+   }
+   RigidBody "{61EAE8C4E850270A}" {
+    ModelGeometry 1
+    Static 1
+   }
+   RplComponent "{61EAE8C4F3D77612}" {
+   }
+  }
+  coords 903.285 3.969 2214.456
+  angleY -46.338
+ }
+ {
+  components {
+   MeshObject "{61EAE8C5BA10645C}" {
+    Object "{6FA6DACCA39DB6D6}Assets/NovosProps/hei_prop_heist_pic_07.xob"
+   }
+   RigidBody "{61EAE8C4E05A1555}" {
+    ModelGeometry 1
+    Static 1
+   }
+   RplComponent "{61EAE8C4E204ADBF}" {
+   }
+  }
+  coords 916.922 3.969 2234.988
+  angleY -43.91
+ }
+ {
+  components {
+   MeshObject "{61EAE8C5BCA8DB4C}" {
+    Object "{172346E69A322C20}Assets/NovosProps/hei_prop_heist_pic_08.xob"
+   }
+   RigidBody "{61EAE8C51453B791}" {
+    ModelGeometry 1
+    Static 1
+   }
+   RplComponent "{61EAE8C515893F83}" {
+   }
+  }
+  coords 883.307 3.969 2238.511
+  angleY 133.846
+ }
+ {
+  components {
+   MeshObject "{61EAE8C5BC5762A7}" {
+    Object "{60292E6E6E90C350}Assets/NovosProps/hei_prop_heist_pic_09.xob"
+   }
+   RigidBody "{61EAE8C4F612DF12}" {
+    ModelGeometry 1
+    Static 1
+   }
+   RplComponent "{61EAE8C4C3FB251D}" {
+   }
+  }
+  coords 883.962 3.969 2198.71
+  angleY -45.002
+ }
+ {
+  components {
+   MeshObject "{61EAE8C5BF60F89A}" {
+    Object "{727DB6142183BA81}Assets/NovosProps/hei_prop_heist_pic_12.xob"
+   }
+   RigidBody "{61EAE8C4CCF0DAD4}" {
+    ModelGeometry 1
+    Static 1
+   }
+   RplComponent "{61EAE8C4CE9CAF60}" {
+   }
+  }
+  coords 868.749 3.429 2229.307
+  angleY -135.938
+ }
+ {
+  components {
+   MeshObject "{61EAE8C5BE68080D}" {
+    Object "{EF8E4A7FE7069DB8}Assets/NovosProps/hei_prop_heist_plinth.xob"
+   }
+   RigidBody "{61EAE8C53C8DC78E}" {
+    ModelGeometry 1
+    Static 1
+   }
+   RplComponent "{61EAE8C53FDC3D56}" {
+   }
+  }
+  coords 891.251 4.663 2244.889
+  angleY 34.661
+ }
+ {
+  components {
+   MeshObject "{61EAE8C5BA10645C}" {
+    Object "{6FA6DACCA39DB6D6}Assets/NovosProps/hei_prop_heist_pic_07.xob"
+   }
+   RigidBody "{61EAE8C4E05A1555}" {
+    ModelGeometry 1
+    Static 1
+   }
+   RplComponent "{61EAE8C4E204ADBF}" {
+   }
+  }
+  coords 867.591 3.969 2253.781
+  angleY 44.183
+ }
+ {
+  components {
+   MeshObject "{61EAE8C5812A71A5}" {
+    Object "{46CD20B573B64CFE}Assets/NovosProps/upp.xob"
+   }
+   RigidBody "{61EAE8C506CA758D}" {
+   }
+   RplComponent "{61EAE8C50D6C79DD}" {
+   }
+  }
+  coords 885.796 3.969 2270.762
+  angleY 43
+ }
+ {
+  components {
+   MeshObject "{61EAE8C5B7FD7A92}" {
+    Object "{8675F18C2C5ED2F5}Assets/NovosProps/hei_prop_heist_pic_02.xob"
+   }
+   RigidBody "{61EAE8C58C14F842}" {
+    ModelGeometry 1
+    Static 1
+   }
+   RplComponent "{61EAE8C591824EAA}" {
+   }
+  }
+  coords 910.099 3.969 2265.159
+  angleY -137.914
+ }
+ {
+  components {
+   MeshObject "{61EAE8C5BC5762A7}" {
+    Object "{60292E6E6E90C350}Assets/NovosProps/hei_prop_heist_pic_09.xob"
+   }
+   RigidBody "{61EAE8C4F612DF12}" {
+    ModelGeometry 1
+    Static 1
+   }
+   RplComponent "{61EAE8C4C3FB251D}" {
+   }
+  }
+  coords 890.011 2.642 2281.231
+  angleY -141.462
+ }
+}
 SplineShapeEntity {
  coords 1956.231 16.66 1971.195
  angleY -136.79
@@ -101,6 +375,14 @@ $grp SCR_DestructibleBuildingEntity : "{10856C7D14E67716}Prefab/Casas/barraco_20
  {
   coords 960.642 5.588 2254.88
   angleY 131.394
+ }
+ {
+  coords 930.233 5.667 2287.947
+  angleY -38.484
+ }
+ {
+  coords 918.089 5.486 2315.654
+  angleY 148.101
  }
 }
 $grp SCR_DestructibleTreeV2 : "{11F76EE5E08CB431}Prefabs/Vegetation/Tree/Dst/t_betula_pendula_2sw_dst.et" {
@@ -150,6 +432,14 @@ $grp SCR_DestructibleBuildingEntity : "{13BEF7097B2D6E00}Prefab/Casas/barraco_15
   coords 951.669 4.167 2235.167
   angleY -140.001
  }
+ {
+  coords 897.03 4.167 2260.243
+  angleY 132.39
+ }
+ {
+  coords 939.5 3.969 2303.011
+  angleY 142.556
+ }
 }
 GenericEntity : "{166A81A5EE114419}Prefab/utilitarios/escada_03.et" {
  coords 1584.247 17.828 2266.26
@@ -198,6 +488,256 @@ $grp SCR_PowerPole : "{17F4D13D8E2E43C1}PrefabLibrary/Infrastructure/Powerline/P
  {
   coords 1618.447 0.874 2306.027
   angleY -18.366
+  {
+   GenericEntity : "{47F8D83F71EB2B74}Prefabs/Structures/Infrastructure/Lamps/LampStreet_E_02/LampStreet_E_02_addon.et" {
+    coords 0 7.081 -0.112
+    angleY -180
+   }
+  }
+ }
+ {
+  coords 909.934 -0.001 2187.392
+  angleY -28.055
+  {
+   GenericEntity : "{47F8D83F71EB2B74}Prefabs/Structures/Infrastructure/Lamps/LampStreet_E_02/LampStreet_E_02_addon.et" {
+    coords 0 7.081 -0.112
+    angleY -180
+   }
+  }
+ }
+ {
+  coords 940.611 -0.032 2213.41
+  angleY -28.055
+  {
+   GenericEntity : "{47F8D83F71EB2B74}Prefabs/Structures/Infrastructure/Lamps/LampStreet_E_02/LampStreet_E_02_addon.et" {
+    coords 0 7.081 -0.112
+    angleY -180
+   }
+  }
+ }
+ {
+  coords 963.292 -0.095 2239.611
+  angleY -28.055
+  {
+   GenericEntity : "{47F8D83F71EB2B74}Prefabs/Structures/Infrastructure/Lamps/LampStreet_E_02/LampStreet_E_02_addon.et" {
+    coords 0 7.081 -0.112
+    angleY -180
+   }
+  }
+ }
+ {
+  coords 950.569 -0.001 2274.961
+  angleY 129.69
+  {
+   GenericEntity : "{47F8D83F71EB2B74}Prefabs/Structures/Infrastructure/Lamps/LampStreet_E_02/LampStreet_E_02_addon.et" {
+    coords 0 7.081 -0.112
+    angleY -180
+   }
+  }
+ }
+ {
+  coords 927.386 -0.001 2248.37
+  angleY 129.69
+  {
+   GenericEntity : "{47F8D83F71EB2B74}Prefabs/Structures/Infrastructure/Lamps/LampStreet_E_02/LampStreet_E_02_addon.et" {
+    coords 0 7.081 -0.112
+    angleY -180
+   }
+  }
+ }
+ {
+  coords 898.687 -0.001 2221.45
+  angleY 134.824
+  {
+   GenericEntity : "{47F8D83F71EB2B74}Prefabs/Structures/Infrastructure/Lamps/LampStreet_E_02/LampStreet_E_02_addon.et" {
+    coords 0 7.081 -0.112
+    angleY -180
+   }
+  }
+ }
+ {
+  coords 876.94 -0.001 2198.652
+  angleY 134.824
+  {
+   GenericEntity : "{47F8D83F71EB2B74}Prefabs/Structures/Infrastructure/Lamps/LampStreet_E_02/LampStreet_E_02_addon.et" {
+    coords 0 7.081 -0.112
+    angleY -180
+   }
+  }
+ }
+ {
+  coords 849.824 -0.001 2244.009
+  angleY 134.824
+  {
+   GenericEntity : "{47F8D83F71EB2B74}Prefabs/Structures/Infrastructure/Lamps/LampStreet_E_02/LampStreet_E_02_addon.et" {
+    coords 0 7.081 -0.112
+    angleY -180
+   }
+  }
+ }
+ {
+  coords 874.5 -0.001 2272.898
+  angleY 134.824
+  {
+   GenericEntity : "{47F8D83F71EB2B74}Prefabs/Structures/Infrastructure/Lamps/LampStreet_E_02/LampStreet_E_02_addon.et" {
+    coords 0 7.081 -0.112
+    angleY -180
+   }
+  }
+ }
+ {
+  coords 900.674 -0.001 2304.267
+  angleY 134.824
+  {
+   GenericEntity : "{47F8D83F71EB2B74}Prefabs/Structures/Infrastructure/Lamps/LampStreet_E_02/LampStreet_E_02_addon.et" {
+    coords 0 7.081 -0.112
+    angleY -180
+   }
+  }
+ }
+ {
+  coords 936.594 -0.001 2332.994
+  angleY 134.824
+  {
+   GenericEntity : "{47F8D83F71EB2B74}Prefabs/Structures/Infrastructure/Lamps/LampStreet_E_02/LampStreet_E_02_addon.et" {
+    coords 0 7.081 -0.112
+    angleY -180
+   }
+  }
+ }
+ {
+  coords 950.918 -0.001 2300.413
+  angleY -44.517
+  {
+   GenericEntity : "{47F8D83F71EB2B74}Prefabs/Structures/Infrastructure/Lamps/LampStreet_E_02/LampStreet_E_02_addon.et" {
+    coords 0 7.081 -0.112
+    angleY -180
+   }
+  }
+ }
+ {
+  coords 929.498 -0.001 2278.341
+  angleY -44.517
+  {
+   GenericEntity : "{47F8D83F71EB2B74}Prefabs/Structures/Infrastructure/Lamps/LampStreet_E_02/LampStreet_E_02_addon.et" {
+    coords 0 7.081 -0.112
+    angleY -180
+   }
+  }
+ }
+ {
+  coords 908.25 -0.001 2254.774
+  angleY -44.517
+  {
+   GenericEntity : "{47F8D83F71EB2B74}Prefabs/Structures/Infrastructure/Lamps/LampStreet_E_02/LampStreet_E_02_addon.et" {
+    coords 0 7.081 -0.112
+    angleY -180
+   }
+  }
+ }
+ {
+  coords 885.521 -0.001 2229.525
+  angleY -44.517
+  {
+   GenericEntity : "{47F8D83F71EB2B74}Prefabs/Structures/Infrastructure/Lamps/LampStreet_E_02/LampStreet_E_02_addon.et" {
+    coords 0 7.081 -0.112
+    angleY -180
+   }
+  }
+ }
+ {
+  coords 878.048 -0.001 2265.972
+  angleY -72.464
+  {
+   GenericEntity : "{47F8D83F71EB2B74}Prefabs/Structures/Infrastructure/Lamps/LampStreet_E_02/LampStreet_E_02_addon.et" {
+    coords 0 7.081 -0.112
+    angleY -180
+   }
+  }
+ }
+ {
+  coords 868.75 -0.001 2247.346
+  angleY -112.794
+  {
+   GenericEntity : "{47F8D83F71EB2B74}Prefabs/Structures/Infrastructure/Lamps/LampStreet_E_02/LampStreet_E_02_addon.et" {
+    coords 0 7.081 -0.112
+    angleY -180
+   }
+  }
+ }
+ {
+  coords 918.122 -0.001 2309.162
+  angleY -17.463
+  {
+   GenericEntity : "{47F8D83F71EB2B74}Prefabs/Structures/Infrastructure/Lamps/LampStreet_E_02/LampStreet_E_02_addon.et" {
+    coords 0 7.081 -0.112
+    angleY -180
+   }
+  }
+ }
+ {
+  coords 916.228 -0.001 2283.901
+  angleY -99.122
+  {
+   GenericEntity : "{47F8D83F71EB2B74}Prefabs/Structures/Infrastructure/Lamps/LampStreet_E_02/LampStreet_E_02_addon.et" {
+    coords 0 7.081 -0.112
+    angleY -180
+   }
+  }
+ }
+ {
+  coords 931.57 -0.001 2319.854
+  angleY -16.11
+  {
+   GenericEntity : "{47F8D83F71EB2B74}Prefabs/Structures/Infrastructure/Lamps/LampStreet_E_02/LampStreet_E_02_addon.et" {
+    coords 0 7.081 -0.112
+    angleY -180
+   }
+  }
+ }
+ {
+  coords 901.137 0.053 2283.441
+  angleY 45.532
+  {
+   GenericEntity : "{47F8D83F71EB2B74}Prefabs/Structures/Infrastructure/Lamps/LampStreet_E_02/LampStreet_E_02_addon.et" {
+    coords 0 7.081 -0.112
+    angleY -180
+   }
+  }
+ }
+ {
+  coords 941.25 -0.001 2248.509
+  angleY -28.055
+  {
+   GenericEntity : "{47F8D83F71EB2B74}Prefabs/Structures/Infrastructure/Lamps/LampStreet_E_02/LampStreet_E_02_addon.et" {
+    coords 0 7.081 -0.112
+    angleY -180
+   }
+  }
+ }
+ {
+  coords 908.47 -0.001 2219.235
+  angleY -63.963
+  {
+   GenericEntity : "{47F8D83F71EB2B74}Prefabs/Structures/Infrastructure/Lamps/LampStreet_E_02/LampStreet_E_02_addon.et" {
+    coords 0 7.081 -0.112
+    angleY -180
+   }
+  }
+ }
+ {
+  coords 938.032 -0.001 2226.054
+  angleY 77.508
+  {
+   GenericEntity : "{47F8D83F71EB2B74}Prefabs/Structures/Infrastructure/Lamps/LampStreet_E_02/LampStreet_E_02_addon.et" {
+    coords 0 7.081 -0.112
+    angleY -180
+   }
+  }
+ }
+ {
+  coords 954.823 -0.014 2255.824
+  angleY 6.989
   {
    GenericEntity : "{47F8D83F71EB2B74}Prefabs/Structures/Infrastructure/Lamps/LampStreet_E_02/LampStreet_E_02_addon.et" {
     coords 0 7.081 -0.112
@@ -270,6 +810,16 @@ $grp Tree : "{1C6F9AD2669C17F9}Prefabs/Vegetation/Tree/t_malus_domestica_2s.et" 
   coords 1547.288 0 2380.028
  }
 }
+$grp SCR_DestructibleBuildingEntity : "{1EE0844725948049}Prefab/Casas/hei_prop_heist_pic_09.et" {
+ {
+  coords 903.059 2.748 2296.012
+  angleY 43.454
+ }
+ {
+  coords 953.658 3.969 2309.67
+  angleY 47.68
+ }
+}
 SCR_DestructibleEntity : "{262BF377567092C5}Prefabs/Structures/Walls/Brick/BrickWallOld_01/BrickWallOld_01_8m_A.et" {
  coords 996.588 0.016 2215.106
  angleY 129.905
@@ -278,6 +828,10 @@ SCR_DestructibleEntity : "{262BF377567092C5}Prefabs/Structures/Walls/Brick/Brick
 SCR_DestructibleEntity : "{28469B75F4732367}Prefabs/Structures/Walls/Brick/BrickWall_01/BrickWall_01_8m_white.et" {
  coords 1010.729 0.005 2231.705
  angleY 129.905
+}
+GenericEntity : "{2887E99075B9C928}Prefabs/Props/Garbage/Generic/Litter_01_long.et" {
+ coords 930.258 3.969 2237.558
+ angleY 139.445
 }
 $grp GenericEntity : "{2B5EA49D9B7DCD2E}Prefab/utilitarios/escada_04.et" {
  {
@@ -345,6 +899,10 @@ $grp GenericEntity : "{2D2442ABF4776F2B}Prefab/Casas/barraco_03.et" {
   coords 1125.391 7.638 2323.298
   angleY 167.962
  }
+ {
+  coords 942.688 3.969 2323.188
+  angleY 68.388
+ }
 }
 $grp SCR_DestructibleBuildingEntity : "{3554BBD160D7C4F3}Prefab/Casas/barraco_17_gnd.et" {
  {
@@ -354,6 +912,10 @@ $grp SCR_DestructibleBuildingEntity : "{3554BBD160D7C4F3}Prefab/Casas/barraco_17
  {
   coords 1053.788 3.423 2262.358
   angleY -177.739
+ }
+ {
+  coords 927.041 2.815 2301.2
+  angleY -126.678
  }
 }
 $grp SCR_DestructibleBuildingEntity : "{3C8F21920C384806}Prefab/Casas/barraco_10_peq.et" {
@@ -440,7 +1002,7 @@ $grp SCR_DestructibleBuildingEntity : "{52C21FCB3959A68E}Prefab/Casas/barraco_11
   coords 1120.504 8.944 2295.946
  }
  {
-  coords 910.57 3.969 2196.589
+  coords 936.536 3.969 2211.709
   angleY -123.363
  }
  {
@@ -477,6 +1039,10 @@ $grp SCR_DestructibleBuildingEntity : "{5737DC0CD20B5C38}Prefab/Casas/barraco_01
   coords 1094.971 5.461 2303.74
   angleY 82.815
  }
+ {
+  coords 913.395 3.969 2310.638
+  angleY 138.36
+ }
 }
 $grp Tree : "{5C594649DBDD5EAE}Prefabs/Vegetation/Tree/t_betula_pendula_2s.et" {
  {
@@ -507,9 +1073,19 @@ $grp Tree : "{5C594649DBDD5EAE}Prefabs/Vegetation/Tree/t_betula_pendula_2s.et" {
   coords 1572.777 0 2394.364
  }
 }
-SCR_DestructibleBuildingEntity : "{5EEC464FBEE4D0CD}Prefab/Casas/barraco_06_gnd.et" {
- coords 1629.543 58.649 2324.989
- angleY -27.16
+$grp SCR_DestructibleBuildingEntity : "{5EEC464FBEE4D0CD}Prefab/Casas/barraco_06_gnd.et" {
+ {
+  coords 1629.543 58.649 2324.989
+  angleY -27.16
+ }
+ {
+  coords 941.086 6.308 2334.213
+  angleY -78.862
+ }
+ {
+  coords 926.444 6.626 2320.531
+  angleY 144.626
+ }
 }
 $grp GenericEntity : "{614C7CCF23A6FB40}Prefabs/Structures/Infrastructure/Lamps/LampStreet_E_03/LampStreet_E_03_single.et" {
  {
@@ -539,6 +1115,10 @@ $grp SCR_DestructibleEntity : "{639BF3B79B9983C6}Prefabs/Structures/Walls/Brick/
   angleY 40.415
   placement slopelandcontact
  }
+}
+SCR_DestructibleBuildingEntity : "{6488CE37CF4D9227}Prefab/Casas/hei_prop_heist_pic_07.et" {
+ coords 896.398 3.811 2288.899
+ angleY 38.298
 }
 $grp SCR_DestructibleBuildingEntity : "{70D6166C1C709644}Prefab/Casas/barraco_11_med.et" {
  {
@@ -580,6 +1160,16 @@ $grp SCR_DestructibleBuildingEntity : "{7EC852242187999E}Prefab/Casas/barraco_21
  {
   coords 940.387 5.096 2222.306
   angleY -46.769
+ }
+}
+$grp SCR_DestructibleBuildingEntity : "{811482CEC3A8054C}Prefab/Casas/hei_prop_heist_pic_06.et" {
+ {
+  coords 948.089 3.969 2318.612
+  angleY -121.719
+ }
+ {
+  coords 932.857 3.969 2328.975
+  angleY -120.012
  }
 }
 $grp SCR_DestructibleEntity : "{8200D604BFD128A0}Prefabs/Structures/Walls/Brick/BrickWall_02/BrickWall_02_weathered_8m.et" {
@@ -685,6 +1275,10 @@ $grp SCR_DestructibleBuildingEntity : "{8783F93A3F75F76B}Prefab/Casas/barraco_14
   coords 895.266 5.888 2186.144
   angleY -136.181
  }
+ {
+  coords 907.771 5.888 2281.625
+  angleY -147.189
+ }
 }
 SCR_DestructibleEntity : "{879865F07EA907B0}Prefabs/Structures/Walls/Concrete/ConcreteWall_02/ConcreteWall_02_4m.et" {
  coords 956.885 0.171 2170.494
@@ -703,6 +1297,10 @@ $grp SCR_DestructibleBuildingEntity : "{8BADA0BEB8C88128}Prefab/Casas/barraco_03
  {
   coords 1597.344 32.198 2291.18
   angleY -174.601
+ }
+ {
+  coords 901.013 3.124 2272.581
+  angleY 38.982
  }
 }
 $grp SCR_DestructibleBuildingEntity : "{8E586379539A7B9E}Prefab/Casas/barraco_13_peq.et" {
@@ -779,6 +1377,9 @@ SCR_DestructibleBuildingEntity : "{9BB8D0BF8D55FC33}Prefab/Casas/barraco_18_esqu
 EnvironmentProbeEntity : "{9D78F2F73FA143D5}Prefab/MainProbe.et" {
  coords 896.476 35.336 1931.948
 }
+GenericEntity : "{9D9312AA9984A5CE}Prefabs/Props/Garbage/Cardboard/Cardboard_Pile_08.et" {
+ coords 914.263 4.156 2222.078
+}
 SCR_PowerPole : "{9FF9DF431F4402CD}Prefabs/Structures/Infrastructure/Power/Powerlines/PowerLine_HV_01/PowerLine_HV_01_pole_end.et" {
  coords 1031.255 0 2301.482
 }
@@ -839,6 +1440,10 @@ $grp SCR_DestructibleBuildingEntity : "{A4EC3AB24456776E}Prefab/Casas/barraco_01
 GameEntity : "{BE3D3EA72E000EFB}Prefabs/Structures/BuildingParts/Ladders/Ladder_DieselPowerPlant_01/Ladder_DieselPowerPlant_01_386_B.et" {
  coords 1105.447 5.211 2258.898
  angleY -161.461
+}
+GenericEntity : "{C58BDB4D22E0A5A7}Prefabs/Props/Garbage/Generic/Litter_01_large.et" {
+ coords 967.269 4.063 2255.029
+ angleY -129.045
 }
 SCR_DestructibleEntity : "{CBB323D90F2FF29F}Prefabs/Structures/Walls/Net/NetFence_02/NetFence_02_8m.et" {
  coords 1078.674 -0.87 2271.972
@@ -975,6 +1580,10 @@ $grp SCR_DestructibleBuildingEntity : "{CC1F10CF7E25AA06}Prefab/Casas/barraco_22
   coords 934.576 5.486 2248.441
   angleY 45
  }
+ {
+  coords 881.351 5.486 2254.039
+  angleY 131.625
+ }
 }
 $grp StaticModelEntity : "{CF757F481B81CA5B}Prefabs/Structures/Infrastructure/Pavements/AsphaltPavement_01/AsphaltPavement_01_Narrow_4m_E.et" {
  {
@@ -995,6 +1604,14 @@ SCR_PowerPole : "{CFD504421CF79F49}PrefabLibrary/Infrastructure/Powerline/PowerL
    coords -0.016 6.985 0.117
   }
  }
+}
+SCR_DestructibleBuildingEntity : "{D07493160A000355}Prefab/Casas/hei_prop_heist_pic_02.et" {
+ coords 917.009 3.969 2294.231
+ angleY -38.158
+}
+GenericEntity : "{D4C108283931FEE6}PrefabsEditable/Auto/Props/Construction/GarbageStack_01/E_GarbageStack_01_Short.et" {
+ coords 942.962 3.968 2242.654
+ angleY -134.708
 }
 StaticModelEntity : "{D7421F4E08CDDDC1}Prefabs/Structures/Walls/Brick/BrickWall_02/BrickWall_02_Gate_weathered.et" {
  coords 992.14 -0.01 2270.327
@@ -1022,6 +1639,9 @@ $grp SCR_DestructibleEntity : "{D7E7F00DA6B70596}Prefabs/Structures/Walls/Brick/
   angleY -121.667
   placement slopelandcontact
  }
+}
+GenericEntity : "{DACF7DE206313E97}Prefabs/Props/Garbage/Cardboard/Cardboard_Pile_01.et" {
+ coords 966.414 4.031 2255.792
 }
 $grp SCR_DestructibleBuildingEntity : "{E0155D2066FB9516}Prefab/Casas/barraco_12_peq.et" {
  {
@@ -1088,13 +1708,64 @@ $grp SCR_TreePartV2 : "{E2DFFDAE30E2B19D}Prefabs/Vegetation/Tree/Dst/t_picea_abi
   coords 1543.827 63.811 2393.71
  }
 }
-SCR_PowerPole : "{E6A0FC615965A73B}PrefabLibrary/Infrastructure/Powerline/PowerLine_03_pole.et" {
- coords 1639.705 0.275 2367.207
+$grp SCR_PowerPole : "{E6A0FC615965A73B}PrefabLibrary/Infrastructure/Powerline/PowerLine_03_pole.et" {
  {
-  GenericEntity : "{47F8D83F71EB2B74}Prefabs/Structures/Infrastructure/Lamps/LampStreet_E_02/LampStreet_E_02_addon.et" {
-   coords 0 7.183 0.118
+  coords 1639.705 0.275 2367.207
+  {
+   GenericEntity : "{47F8D83F71EB2B74}Prefabs/Structures/Infrastructure/Lamps/LampStreet_E_02/LampStreet_E_02_addon.et" {
+    coords 0 7.183 0.118
+   }
   }
  }
+ {
+  coords 1035.999 -0.406 2247.013
+  angleY 42.12
+  {
+   GenericEntity : "{47F8D83F71EB2B74}Prefabs/Structures/Infrastructure/Lamps/LampStreet_E_02/LampStreet_E_02_addon.et" {
+    coords 0 7.183 0.118
+   }
+  }
+ }
+ {
+  coords 971.918 0.032 2301.048
+  angleY 40.438
+  {
+   GenericEntity : "{47F8D83F71EB2B74}Prefabs/Structures/Infrastructure/Lamps/LampStreet_E_02/LampStreet_E_02_addon.et" {
+    coords 0 7.183 0.118
+   }
+  }
+ }
+ {
+  coords 952.381 0.032 2323.753
+  angleY 67.281
+  {
+   GenericEntity : "{47F8D83F71EB2B74}Prefabs/Structures/Infrastructure/Lamps/LampStreet_E_02/LampStreet_E_02_addon.et" {
+    coords 0 7.183 0.118
+   }
+  }
+ }
+ {
+  coords 949.417 0.032 2349.781
+  angleY 67.281
+  {
+   GenericEntity : "{47F8D83F71EB2B74}Prefabs/Structures/Infrastructure/Lamps/LampStreet_E_02/LampStreet_E_02_addon.et" {
+    coords 0 7.183 0.118
+   }
+  }
+ }
+ {
+  coords 999.987 -0.089 2276.287
+  angleY 40.438
+  {
+   GenericEntity : "{47F8D83F71EB2B74}Prefabs/Structures/Infrastructure/Lamps/LampStreet_E_02/LampStreet_E_02_addon.et" {
+    coords 0 7.183 0.118
+   }
+  }
+ }
+}
+GenericEntity : "{E7117284012B39A4}Prefabs/Props/Garbage/Bins/TrashBin_02_patched.et" {
+ coords 957.401 4 2252.647
+ angleY -124.203
 }
 $grp SCR_DestructibleBuildingEntity : "{E7BACF3E6868897B}Prefab/Casas/barraco_19_peq.et" {
  {
@@ -1105,6 +1776,14 @@ $grp SCR_DestructibleBuildingEntity : "{E7BACF3E6868897B}Prefab/Casas/barraco_19
   coords 964.919 5.535 2247.355
   angleY -49.052
  }
+ {
+  coords 872.252 5.535 2265.113
+  angleY -47.821
+ }
+}
+SCR_DestructibleBuildingEntity : "{ED40B62E7F6C8A62}Prefab/Casas/hei_prop_heist_pic_05.et" {
+ coords 921.055 3.969 2275.773
+ angleY 46.267
 }
 StaticModelEntity : "{F2415A706EED436C}Prefabs/Structures/Infrastructure/Pavements/AsphaltPavement_01/AsphaltPavement_01_Narrow_4m_B.et" {
  coords 988.029 0 2286.521
@@ -1363,6 +2042,10 @@ $grp StaticModelEntity : "{F80AA4A51B6CDD31}Prefabs/Structures/Infrastructure/Pa
 }
 GenericEntity : "{FA6727A124372434}Prefabs/Rocks/Granite/GraniteRock_02.et" {
  coords 1576.814 72.163 2391.196
+}
+SCR_DestructibleBuildingEntity : "{FB7CC8BE29711722}Prefab/Casas/hei_prop_heist_pic_08.et" {
+ coords 907.981 3.871 2303.417
+ angleY -43.126
 }
 SCR_JunctionPowerPole : "{FD2453C53541BDF1}PrefabLibrary/Infrastructure/Powerline/PowerLine_01_pole_small_hook_junction.et" {
  coords 1636.322 0 2366.061

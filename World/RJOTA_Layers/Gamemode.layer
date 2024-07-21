@@ -645,23 +645,23 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_bIsSource 1
    }
   }
-  coords 889.563 3.969 2070.572
+  coords 874.731 3.968 2247.151
   {
    GenericEntity {
     ID "5EEEC471C30578EB"
-    coords -2 0 -3
+    coords -0.109 0 0.069
    }
    GenericEntity {
     ID "5CCED514A5908822"
-    coords 0 0 12
+    coords 0 0.001 12
    }
    GenericEntity {
     ID "606078EE23DE48AC"
-    coords 0 0 14
+    coords 8.373 0.001 -1.337
    }
    SCR_CampaignSpawnPointGroup {
     ID "5C6696731466AF36"
-    coords 0 0 0
+    coords -5.885 0 0.099
    }
   }
  }
