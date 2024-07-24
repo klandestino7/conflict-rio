@@ -516,36 +516,6 @@ GenericEntity : "{111673E62CB11177}Prefabs/Structures/BuildingParts/Eletrical/Br
  angleY -147.355
 }
 $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMilitaryBase.et" {
- FavelaPredinhos {
-  components {
-   SCR_CampaignMilitaryBaseComponent "{5AFC974A70234D1C}" {
-    m_sBaseName "Favela dos Predinhos"
-    m_sBaseNameUpper "FAVELA DOS PREDINHOS"
-   }
-  }
-  coords 1085.591 4.004 2326.212
-  angleX 0.724
-  angleY -126.038
-  angleZ -0.527
-  {
-   GenericEntity {
-    ID "5EEEC471C30578EB"
-    coords -9.494 0.367 6.631
-   }
-   GenericEntity {
-    ID "5CCED514A5908822"
-    coords -13.227 0.13 19.734
-   }
-   GenericEntity {
-    ID "606078EE23DE48AC"
-    coords -21.842 0.905 11.696
-   }
-   SCR_CampaignSpawnPointGroup {
-    ID "5C6696731466AF36"
-    coords -4.364 0.317 -9.212
-   }
-  }
- }
  ArlevilleBase {
   components {
    SCR_CampaignMilitaryBaseComponent "{5AFC974A70234D1C}" {
@@ -617,6 +587,36 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    GenericEntity {
     ID "5CCED514A5908822"
     coords 0 -0.299 12
+   }
+  }
+ }
+ FavelaPredinhos {
+  components {
+   SCR_CampaignMilitaryBaseComponent "{5AFC974A70234D1C}" {
+    m_sBaseName "Favela dos Predinhos"
+    m_sBaseNameUpper "FAVELA DOS PREDINHOS"
+   }
+  }
+  coords 1085.591 4.004 2326.212
+  angleX 0.724
+  angleY -126.038
+  angleZ -0.527
+  {
+   GenericEntity {
+    ID "5EEEC471C30578EB"
+    coords -9.494 0.367 6.631
+   }
+   GenericEntity {
+    ID "5CCED514A5908822"
+    coords -13.227 0.13 19.734
+   }
+   GenericEntity {
+    ID "606078EE23DE48AC"
+    coords -21.842 0.905 11.696
+   }
+   SCR_CampaignSpawnPointGroup {
+    ID "5C6696731466AF36"
+    coords -4.364 0.317 -9.212
    }
   }
  }
