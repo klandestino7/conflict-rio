@@ -553,24 +553,26 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_sBaseNameUpper "#AR-Campaign_Arland_MapLocation_Beauregard-UC"
    }
   }
-  coords 1693.459 61.896 1965.629
+  coords 1740.365 4.656 1897.955
   angleY -30.211
   {
    GenericEntity {
     ID "5EEEC471C30578EB"
-    coords -2 9.299 -3
+    coords 3.508 0.573 25.485
+    angleY -84.345
    }
    GenericEntity {
     ID "5CCED514A5908822"
-    coords 0 8.745 12
+    coords -6.887 0.822 17.223
    }
    GenericEntity {
     ID "606078EE23DE48AC"
-    coords 0 8.683 14
+    coords -6.314 0 -11.263
    }
    SCR_CampaignSpawnPointGroup {
     ID "5C6696731466AF36"
-    coords 0 9.222 0
+    coords 17.656 0 6.4
+    angleY -151.667
    }
   }
  }
@@ -688,7 +690,26 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     "faction affiliation" "US"
    }
   }
-  coords 3385.478 10.79 2889.507
+  coords 3457.677 8.754 2914.693
+  angleY -171.632
+  {
+   GenericEntity {
+    ID "5EEEC471C30578EB"
+    coords -1.31 0.75 1.038
+   }
+   GenericEntity {
+    ID "5CCED514A5908822"
+    coords 5.573 0 27.188
+   }
+   GenericEntity {
+    ID "606078EE23DE48AC"
+    coords 16.737 0 23.166
+   }
+   SCR_CampaignSpawnPointGroup {
+    ID "5C6696731466AF36"
+    coords -3.319 0 23.786
+   }
+  }
  }
  MilitarySouth {
   components {
@@ -699,19 +720,23 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_sBaseNameUpper "#AR-Campaign_Arland_MapLocation_Military-UC"
    }
   }
-  coords 2093.02 7.179 1996.172
+  coords 2351.879 11.252 1964.169
   {
    GenericEntity {
     ID "5CCED514A5908822"
-    coords -18.164 -1.334 18.05
+    coords -18.164 6.112 18.05
    }
    GenericEntity {
     ID "5EEEC471C30578EB"
-    coords -2 -6.394 -3
+    coords -2 -0.562 -3
+   }
+   GenericEntity {
+    ID "606078EE23DE48AC"
+    coords 0 3.201 14
    }
    SCR_CampaignSpawnPointGroup {
     ID "5C6696731466AF36"
-    coords 0 -6.223 0
+    coords 0 0 0
    }
   }
  }
@@ -722,26 +747,26 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_sBaseNameUpper "#AR-Campaign_Arland_MapLocation_MossHill-UC"
    }
   }
-  coords 2867.793 5.058 2107.755
+  coords 2867.793 2.25 2107.755
   angleX 2.712
   angleY -66.471
   angleZ -1.745
   {
    GenericEntity {
     ID "5EEEC471C30578EB"
-    coords -4.73 -88.862 -7.247
+    coords -2.016 0.205 -3.026
    }
    GenericEntity {
     ID "5CCED514A5908822"
-    coords -2.731 -89.634 7.752
+    coords -0.017 -0.566 11.973
    }
    GenericEntity {
     ID "606078EE23DE48AC"
-    coords -2.734 -89.728 9.747
+    coords -0.02 -0.661 13.968
    }
    SCR_CampaignSpawnPointGroup {
     ID "5C6696731466AF36"
-    coords -2.714 -89.067 -4.221
+    coords 0 0 0
    }
   }
  }
