@@ -138,9 +138,6 @@ $grp GenericEntity : "{1F0AA3EA77753B5D}Prefabs/Rocks/Granite/Granite_Boulder_02
   coords 2338.228 0 2174.045
  }
  {
-  coords 2494.967 0 2074.874
- }
- {
   coords 2363.857 0 1909.524
  }
  {
@@ -148,9 +145,6 @@ $grp GenericEntity : "{1F0AA3EA77753B5D}Prefabs/Rocks/Granite/Granite_Boulder_02
  }
  {
   coords 2332.993 0 1906.01
- }
- {
-  coords 2408.448 0 2019.815
  }
  {
   coords 2360.46 0 2104.365
@@ -174,7 +168,7 @@ $grp GenericEntity : "{1F0AA3EA77753B5D}Prefabs/Rocks/Granite/Granite_Boulder_02
   coords 2948.539 0 1904.865
  }
  {
-  coords 2987.711 0 1915.589
+  coords 2991.633 -0.037 1916.298
  }
  {
   coords 2823.634 0 2035.297
@@ -229,21 +223,6 @@ $grp GenericEntity : "{1F0AA3EA77753B5D}Prefabs/Rocks/Granite/Granite_Boulder_02
  }
  {
   coords 2817.971 0 2454.618
- }
- {
-  coords 2906.104 0 2589.519
- }
- {
-  coords 2901.342 0 2608.432
- }
- {
-  coords 2917.579 0 2610.858
- }
- {
-  coords 2908.617 0 2604.641
- }
- {
-  coords 2865.318 0 2637.852
  }
  {
   coords 2744.6 0 2674.098
@@ -585,12 +564,6 @@ $grp GenericEntity : "{1F0AA3EA77753B5D}Prefabs/Rocks/Granite/Granite_Boulder_02
   coords 2969.082 0 1860.965
  }
  {
-  coords 2972.274 0 1891.459
- }
- {
-  coords 2975.577 0 1892.958
- }
- {
   coords 2951.468 0 1892.342
  }
  {
@@ -676,21 +649,6 @@ $grp GenericEntity : "{1F0AA3EA77753B5D}Prefabs/Rocks/Granite/Granite_Boulder_02
  }
  {
   coords 2860.397 0 2547.385
- }
- {
-  coords 2861.369 0 2557.351
- }
- {
-  coords 2800.394 0 2617.23
- }
- {
-  coords 2816.868 0 2650.858
- }
- {
-  coords 2934.711 0 2693.162
- }
- {
-  coords 2931.651 0 2715.474
  }
  {
   coords 2975.889 0 2723.643
@@ -929,9 +887,6 @@ $grp GenericEntity : "{735E970ACBB1B473}Prefabs/Rocks/Granite/Granite_Boulder_01
   coords 2416.681 0 2040.243
  }
  {
-  coords 2415.257 0 2014.549
- }
- {
   coords 2372.247 0 2118.307
  }
  {
@@ -998,9 +953,6 @@ $grp GenericEntity : "{735E970ACBB1B473}Prefabs/Rocks/Granite/Granite_Boulder_01
   coords 2850.897 0 2274.291
  }
  {
-  coords 2827.727 0 2240.299
- }
- {
   coords 2820.225 0 2263.299
  }
  {
@@ -1017,24 +969,6 @@ $grp GenericEntity : "{735E970ACBB1B473}Prefabs/Rocks/Granite/Granite_Boulder_01
  }
  {
   coords 2837.145 0 2456.195
- }
- {
-  coords 2903.484 0 2601.836
- }
- {
-  coords 2900.159 0 2613.815
- }
- {
-  coords 2868.099 0 2610.378
- }
- {
-  coords 2869.914 0 2622.36
- }
- {
-  coords 2887.177 0 2627.436
- }
- {
-  coords 2876.817 0 2639.832
  }
  {
   coords 2749.491 0 2670.206
@@ -1301,7 +1235,7 @@ $grp GenericEntity : "{735E970ACBB1B473}Prefabs/Rocks/Granite/Granite_Boulder_01
   coords 2959.902 0 1873.169
  }
  {
-  coords 2983.267 0 1906.486
+  coords 2989.744 -0.167 1911.574
  }
  {
   coords 2969.073 0 1879.803
@@ -1376,16 +1310,10 @@ $grp GenericEntity : "{735E970ACBB1B473}Prefabs/Rocks/Granite/Granite_Boulder_01
   coords 2922.41 0 2428.892
  }
  {
-  coords 2894.677 0 2442.69
+  coords 2895.932 -0.005 2439.269
  }
  {
-  coords 2897.4 0 2457.688
- }
- {
-  coords 2848.423 0 2572.398
- }
- {
-  coords 2842.091 0 2569.452
+  coords 2906.864 -0.647 2446.498
  }
  {
   coords 2810.265 0 2648.971
@@ -1425,9 +1353,6 @@ $grp GenericEntity : "{735E970ACBB1B473}Prefabs/Rocks/Granite/Granite_Boulder_01
  }
  {
   coords 2117.541 0 2434.926
- }
- {
-  coords 2110.289 0 2412.852
  }
  {
   coords 2132.352 0 2415.543
@@ -1643,10 +1568,6 @@ $grp GenericEntity : "{76AF1688C649DC10}Prefabs/Rocks/Granite/Granite_ForestSton
   angleY 0
  }
  {
-  coords 2096.498 0 2117.797
-  angleY 0
- }
- {
   coords 1868.524 0 1914.582
   angleY 0
  }
@@ -1720,10 +1641,6 @@ $grp GenericEntity : "{76AF1688C649DC10}Prefabs/Rocks/Granite/Granite_ForestSton
  }
  {
   coords 2739.96 0 2198.084
-  angleY 0
- }
- {
-  coords 2705.664 0 2202.707
   angleY 0
  }
  {
@@ -1824,14 +1741,6 @@ $grp GenericEntity : "{76AF1688C649DC10}Prefabs/Rocks/Granite/Granite_ForestSton
  }
  {
   coords 2809.006 0 2489.53
-  angleY 0
- }
- {
-  coords 2883.837 0 2582.409
-  angleY 0
- }
- {
-  coords 2872.942 0 2613.262
   angleY 0
  }
  {
@@ -2047,10 +1956,6 @@ $grp GenericEntity : "{76AF1688C649DC10}Prefabs/Rocks/Granite/Granite_ForestSton
   angleY 0
  }
  {
-  coords 2687.327 0 1911.066
-  angleY 0
- }
- {
   coords 2690.512 0 1925.551
   angleY 0
  }
@@ -2207,14 +2112,6 @@ $grp GenericEntity : "{76AF1688C649DC10}Prefabs/Rocks/Granite/Granite_ForestSton
   angleY 0
  }
  {
-  coords 2955.664 0 1884.023
-  angleY 0
- }
- {
-  coords 2956.036 0 1880.248
-  angleY 0
- }
- {
   coords 2968.129 0 1864.997
   angleY 0
  }
@@ -2223,7 +2120,7 @@ $grp GenericEntity : "{76AF1688C649DC10}Prefabs/Rocks/Granite/Granite_ForestSton
   angleY 0
  }
  {
-  coords 2968.541 0 1890.031
+  coords 2977.482 -0.601 1889.62
   angleY 0
  }
  {
@@ -2284,10 +2181,6 @@ $grp GenericEntity : "{76AF1688C649DC10}Prefabs/Rocks/Granite/Granite_ForestSton
  }
  {
   coords 2790.271 0 2628.787
-  angleY 0
- }
- {
-  coords 2816.619 0 2618.991
   angleY 0
  }
  {
@@ -2384,10 +2277,6 @@ $grp GenericEntity : "{76AF1688C649DC10}Prefabs/Rocks/Granite/Granite_ForestSton
  }
  {
   coords 2097.541 0 2457.383
-  angleY 0
- }
- {
-  coords 2098.406 0 2406.017
   angleY 0
  }
  {
@@ -2627,9 +2516,6 @@ $grp GenericEntity : "{FF676E917668C455}Prefabs/Rocks/Granite/Granite_ForestSton
   coords 2297.969 0 1885.371
  }
  {
-  coords 2415.104 0 2009.441
- }
- {
   coords 2418.098 0 2042.309
  }
  {
@@ -2655,12 +2541,6 @@ $grp GenericEntity : "{FF676E917668C455}Prefabs/Rocks/Granite/Granite_ForestSton
  }
  {
   coords 2711.851 0 2184.35
- }
- {
-  coords 2711.223 0 2206.379
- }
- {
-  coords 2715.499 0 2211
  }
  {
   coords 2694.007 0 2184.518
@@ -2706,21 +2586,6 @@ $grp GenericEntity : "{FF676E917668C455}Prefabs/Rocks/Granite/Granite_ForestSton
  }
  {
   coords 2820.485 0 2449.264
- }
- {
-  coords 2888.688 0 2574.118
- }
- {
-  coords 2896.041 0 2588.222
- }
- {
-  coords 2899.163 0 2624.62
- }
- {
-  coords 2877.017 0 2611.616
- }
- {
-  coords 2924.584 0 2734.747
  }
  {
   coords 3176.358 0 2815.871
@@ -2855,9 +2720,6 @@ $grp GenericEntity : "{FF676E917668C455}Prefabs/Rocks/Granite/Granite_ForestSton
   coords 2597.522 0 1986.289
  }
  {
-  coords 2482.504 0 1974.932
- }
- {
   coords 2537.533 0 1897.704
  }
  {
@@ -2865,9 +2727,6 @@ $grp GenericEntity : "{FF676E917668C455}Prefabs/Rocks/Granite/Granite_ForestSton
  }
  {
   coords 2639.608 0 1893.063
- }
- {
-  coords 2645.221 0 1930.181
  }
  {
   coords 2655.288 0 1938.535
@@ -2883,9 +2742,6 @@ $grp GenericEntity : "{FF676E917668C455}Prefabs/Rocks/Granite/Granite_ForestSton
  }
  {
   coords 2718.59 0 1963.679
- }
- {
-  coords 2683.521 0 1958.319
  }
  {
   coords 2780.042 0 1892.537
@@ -2913,9 +2769,6 @@ $grp GenericEntity : "{FF676E917668C455}Prefabs/Rocks/Granite/Granite_ForestSton
  }
  {
   coords 2293.355 0 1884.885
- }
- {
-  coords 2447.908 0 1959.895
  }
  {
   coords 2464.995 0 1948.412
@@ -3065,25 +2918,10 @@ $grp GenericEntity : "{FF676E917668C455}Prefabs/Rocks/Granite/Granite_ForestSton
   coords 2884.357 0 2425.385
  }
  {
-  coords 2886.463 0 2447.873
- }
- {
   coords 2840.278 0 2547.844
  }
  {
-  coords 2847.588 0 2581.892
- }
- {
-  coords 2797.441 0 2632.944
- }
- {
-  coords 2918.709 0 2699.008
- }
- {
   coords 2955.019 0 2715.829
- }
- {
-  coords 2920.294 0 2706.439
  }
  {
   coords 2978.786 0 2745.588

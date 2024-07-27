@@ -41,10 +41,12 @@ $grp GenericWorldPPEffect {
 }
 TimeAndWeatherManagerEntity : "{A3BAF78F6F03315B}Prefabs/World/Game/TimeAndWeatherManager.et" {
  coords 438.435 8.408 582.07
- "Initial Day Time" 13.165
+ Enabled 1
+ "UTC TimeZone" -3.5
+ "Initial Day Time" 12
+ "Initial State" 0
  Year 2016
  "Month of the Year" 6
- Latitude -22.806
  Longitude -43.202
  "DST Offset" 0
  "Internal variant transition" 0
@@ -53,6 +55,8 @@ TimeAndWeatherManagerEntity : "{A3BAF78F6F03315B}Prefabs/World/Game/TimeAndWeath
  "Initial Wetness" 0
  "Initial Water Accumulation Cracks" 0
  "Initial Water Accumulation Puddles" 0
+ "Sunrise signal Offset" 0
+ "Sunset signal Offset" 0
 }
 EnvironmentProbeEntity {
  coords 401.188 17.922 573.619
