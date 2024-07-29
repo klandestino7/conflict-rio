@@ -27,10 +27,9 @@ SCR_GameModeCampaign GameMode_Campaign1 : "{3B230AAC5252108F}Prefabs/MP/Modes/Co
  m_fVictoryTimer 450
  m_sBLUFORFactionKey "BOPE"
  m_sOPFORFactionKey "CV"
- m_sINDFORFactionKey "MILICIA"
 }
-SCR_CampaignFactionManager CampaignFactionManager1 : "{4176AD61D2EDE6BF}Prefabs/CampaignFactionManager.et" {
- coords 1761.779 4.656 1880.14
+SCR_CampaignFactionManager CampaignFactionManager2 : "{F1AC26310BAE3788}Prefabs/MP/Campaign/CampaignFactionManager.et" {
+ coords 2532.245 5.173 2466.209
  Factions {
   SCR_CampaignFaction "{50B30C3AF4BFD934}" : "{A777B5723BB27A84}Configs/Factions/SampleFactionREDFOR_Campaign.conf" {
    m_FactionLabel FACTION_USSR
@@ -38,10 +37,15 @@ SCR_CampaignFactionManager CampaignFactionManager1 : "{4176AD61D2EDE6BF}Prefabs/
   SCR_CampaignFaction "{50B30C3ADB052C80}" : "{7B47FE85B7F966F7}Configs/Factions/SampleFactionBLUFOR_Campaign.conf" {
    m_FactionLabel FACTION_US
   }
-  SCR_CampaignFaction "{56F0C3A6336375DC}" : "{AA93D16408BF7809}Configs/Factions/SampleFactionGREENFOR_Campaign.conf" {
-   FactionKey "MILICIA"
-   m_FactionLabel FACTION_FIA
-   m_BaseBuildingHQ "{CD02EBFB0E2E274E}Prefabs/Compositions/Slotted/SlotFlatSmall/Headquarters_S_FIA_01.et"
+  SCR_Faction "{5EA0C73BA6381894}" : "{C93D9F19E9F3CD97}Configs/Factions/SampleFactionREDFOR.conf" {
+   FactionKey "USSR"
+   m_bIsPlayable 0
+   m_bShowInWelcomeScreenIfNonPlayable 0
+  }
+  SCR_Faction "{5EA0C73BA5013DA1}" : "{2F1CD67B16BC0567}Configs/Factions/SampleFactionBLUFOR.conf" {
+   FactionKey "US"
+   m_bIsPlayable 0
+   m_bShowInWelcomeScreenIfNonPlayable 0
   }
  }
 }

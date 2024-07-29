@@ -5457,7 +5457,7 @@ $grp SCR_DestructibleTreeV2 : "{11F76EE5E08CB431}Prefabs/Vegetation/Tree/Dst/t_b
   coords 2074.333 -0.001 2040.133
  }
  {
-  coords 2061.443 0.457 2109.252
+  coords 2061.443 0 2109.252
  }
  {
   coords 2079.555 0 2105.281
@@ -5466,10 +5466,10 @@ $grp SCR_DestructibleTreeV2 : "{11F76EE5E08CB431}Prefabs/Vegetation/Tree/Dst/t_b
   coords 2076.192 0 2102.4
  }
  {
-  coords 2075.106 0.001 2145.378
+  coords 2075.106 0 2145.378
  }
  {
-  coords 2068.59 0 2144.155
+  coords 2068.59 -0 2144.155
  }
  {
   coords 2065.435 0 2088.944
@@ -5478,22 +5478,22 @@ $grp SCR_DestructibleTreeV2 : "{11F76EE5E08CB431}Prefabs/Vegetation/Tree/Dst/t_b
   coords 2078.193 0 2093.978
  }
  {
-  coords 2060.065 0 2118.07
+  coords 2060.065 0.001 2118.07
  }
  {
-  coords 2031.703 0 2103.945
+  coords 2031.703 0.001 2103.945
  }
  {
   coords 2085.834 0.257 2117.113
  }
  {
-  coords 2034.245 0 2109.751
+  coords 2034.245 -0.001 2109.751
  }
  {
   coords 2070.423 0 2102.427
  }
  {
-  coords 2104.088 0 2155.134
+  coords 2104.088 0.001 2155.134
  }
  {
   coords 2103.729 0 2177.462
@@ -5505,7 +5505,7 @@ $grp SCR_DestructibleTreeV2 : "{11F76EE5E08CB431}Prefabs/Vegetation/Tree/Dst/t_b
   coords 2136.213 0 2197.449
  }
  {
-  coords 2071.341 0 2163.006
+  coords 2071.341 -0 2163.006
  }
  {
   coords 2288.805 0 2073.923
@@ -16212,25 +16212,25 @@ $grp Tree : "{1C6F9AD2669C17F9}Prefabs/Vegetation/Tree/t_malus_domestica_2s.et" 
   coords 2077.255 -0.001 2111.056
  }
  {
-  coords 2030.462 -0.001 2137.22
+  coords 2030.462 0.001 2137.22
  }
  {
-  coords 2070.434 0 2113.56
+  coords 2070.434 -0 2113.56
  }
  {
   coords 2072.571 0 2090.745
  }
  {
-  coords 2075.719 0 2141.583
+  coords 2075.719 -0 2141.583
  }
  {
-  coords 2052.295 0 2114.297
+  coords 2052.295 -0 2114.297
  }
  {
-  coords 2077.435 -1.436 2135.094
+  coords 2077.435 0 2135.094
  }
  {
-  coords 2054.078 0 2134.125
+  coords 2054.078 -0.001 2134.125
  }
  {
   coords 2082.5 0 2098.615
@@ -16248,13 +16248,13 @@ $grp Tree : "{1C6F9AD2669C17F9}Prefabs/Vegetation/Tree/t_malus_domestica_2s.et" 
   coords 2092.828 0 2195.144
  }
  {
-  coords 2074.889 0 2162.894
+  coords 2074.889 -0 2162.894
  }
  {
-  coords 2089.382 -0.632 2132.784
+  coords 2089.382 0 2132.784
  }
  {
-  coords 2107.537 0 2158.088
+  coords 2107.537 -0.001 2158.088
  }
  {
   coords 2305.023 0 2056.544
@@ -28453,22 +28453,22 @@ $grp Tree : "{5C594649DBDD5EAE}Prefabs/Vegetation/Tree/t_betula_pendula_2s.et" {
   coords 2056.745 0 2137.741
  }
  {
-  coords 2080.986 -0.447 2131.895
+  coords 2080.986 0 2131.895
  }
  {
-  coords 2034.731 0 2131.274
+  coords 2034.731 -0.001 2131.274
  }
  {
   coords 2055.968 0 2093.531
  }
  {
-  coords 2096.308 -0.001 2147.222
+  coords 2096.308 0 2147.222
  }
  {
   coords 2096.115 0 2094.05
  }
  {
-  coords 2078.711 -0.001 2151.054
+  coords 2078.711 -0 2151.054
  }
  {
   coords 2088.437 0.001 2110.974
@@ -28477,7 +28477,7 @@ $grp Tree : "{5C594649DBDD5EAE}Prefabs/Vegetation/Tree/t_betula_pendula_2s.et" {
   coords 2097.522 0 2165.086
  }
  {
-  coords 2093.745 -0.001 2174.851
+  coords 2093.745 0 2174.851
  }
  {
   coords 2094.18 -0.001 2114.5
@@ -48929,7 +48929,7 @@ $grp SCR_TreePartV2 : "{E2DFFDAE30E2B19D}Prefabs/Vegetation/Tree/Dst/t_picea_abi
   coords 2021.328 12.042 2082.211
  }
  {
-  coords 2044.709 13.412 2099.166
+  coords 2044.709 13.964 2099.166
  }
  {
   coords 2035.865 15.146 2067.729
@@ -48938,52 +48938,52 @@ $grp SCR_TreePartV2 : "{E2DFFDAE30E2B19D}Prefabs/Vegetation/Tree/Dst/t_picea_abi
   coords 2065.105 14.919 2094.571
  }
  {
-  coords 2095.675 21.336 2137.818
+  coords 2095.675 19.678 2137.818
  }
  {
-  coords 2086.113 19.853 2158.202
+  coords 2086.113 19.009 2158.202
  }
  {
-  coords 2088.666 19.86 2165.198
+  coords 2088.666 19.158 2165.198
  }
  {
-  coords 2068.898 17.46 2158.448
+  coords 2068.898 17.647 2158.448
  }
  {
-  coords 2066.302 14.918 2116.988
+  coords 2066.302 15.898 2116.988
  }
  {
-  coords 2068.462 16.68 2138.303
+  coords 2068.462 16.928 2138.303
  }
  {
-  coords 2052.438 13.758 2105.636
+  coords 2052.438 14.528 2105.636
  }
  {
-  coords 2051.804 14.049 2130.546
+  coords 2051.804 15.166 2130.546
  }
  {
   coords 2089.205 17.86 2115.221
  }
  {
-  coords 2046.664 13.312 2118.025
+  coords 2046.664 14.333 2118.025
  }
  {
-  coords 2054.482 14.341 2096.709
+  coords 2054.482 14.625 2096.709
  }
  {
-  coords 2024.395 12.205 2132.327
+  coords 2024.395 13.887 2132.327
  }
  {
-  coords 2031.65 11.653 2111.763
+  coords 2031.65 13.131 2111.763
  }
  {
-  coords 2046.664 13.875 2145.137
+  coords 2046.664 15.63 2145.137
  }
  {
-  coords 2040.818 12.915 2101.09
+  coords 2040.818 13.689 2101.09
  }
  {
-  coords 2035.348 12.99 2092.015
+  coords 2035.348 13.396 2092.015
  }
  {
   coords 2094.392 18.118 2110.153
@@ -48992,13 +48992,13 @@ $grp SCR_TreePartV2 : "{E2DFFDAE30E2B19D}Prefabs/Vegetation/Tree/Dst/t_picea_abi
   coords 2075.192 15.139 2096.734
  }
  {
-  coords 2100.004 20.811 2168.013
+  coords 2100.004 19.875 2168.013
  }
  {
   coords 2114.856 20.077 2182.445
  }
  {
-  coords 2102.375 21.31 2165.517
+  coords 2102.375 20.138 2165.517
  }
  {
   coords 2273.837 28.344 2081.67
@@ -60772,7 +60772,7 @@ $grp SCR_DestructibleTreeV2 : "{FD55970779EC6018}Prefabs/Vegetation/Tree/Dst/t_c
   coords 2054.285 0 2160.324
  }
  {
-  coords 2097.358 0 2159.054
+  coords 2097.358 -0 2159.054
  }
  {
   coords 2069.997 -0.411 2132.288
@@ -60796,7 +60796,7 @@ $grp SCR_DestructibleTreeV2 : "{FD55970779EC6018}Prefabs/Vegetation/Tree/Dst/t_c
   coords 2088.749 0 2133.08
  }
  {
-  coords 2071.797 0 2155.881
+  coords 2071.797 -0.001 2155.881
  }
  {
   coords 2083.312 0 2142.979
