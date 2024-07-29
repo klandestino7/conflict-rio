@@ -18,31 +18,6 @@ SCR_AIWorld : "{01DC74137CFDDB6A}Prefabs/AI/SCR_AIWorld_Arland.et" {
  "Road Network File" "{E18B90A3F95D49CA}"
  m_iActiveAILimit 180
 }
-SCR_GameModeCampaign GameMode_Campaign1 : "{3B230AAC5252108F}Prefabs/MP/Modes/Conflict/GameMode_Campaign.et" {
- components {
-  SCR_DebriefingScreenComponent "{5D349E302A88E42C}" {
-   m_sHeaderTitle "#AR-MainMenu_ConflictArland_Name"
-  }
-  SCR_MapMarkerManagerComponent "{5D32E876D3886A72}" {
-   m_sMarkerCfgPath "{720E8E61D7692173}Configs/Map/MapMarkerConfig.conf"
-  }
-  SCR_NametagConfigComponent "{571AA9E54FC9210D}" {
-   m_sConfigPath "{2C54289741D01AB5}Configs/NameTags/NametagFriendlies.conf"
-  }
-  SCR_RespawnBriefingComponent "{5B2A94A3CF791D6F}" {
-   m_sJournalConfigPath "{FFB1A12A7BFC4958}Configs/Journal/JournalConflict.conf"
-  }
-  SCR_WelcomeScreenComponent "{5D349E3E9CC39991}" {
-   m_sHeaderTitle "#AR-MainMenu_ConflictArland_Name"
-  }
- }
- coords 26.726 0 10.962
- m_iControlPointsThreshold 2
- m_fVictoryTimer 450
- m_sBLUFORFactionKey "BOPE"
- m_sOPFORFactionKey "CV"
- m_sINDFORFactionKey "MILICIA"
-}
 ScriptedChatEntity : "{536D80EB494DDC43}Prefabs/MP/Campaign/CampaignMPChatEntity.et" {
  coords 20.291 0 5.837
 }

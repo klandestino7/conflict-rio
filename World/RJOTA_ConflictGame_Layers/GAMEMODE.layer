@@ -4,6 +4,31 @@ RadioManagerEntity {
 PerceptionManager PerceptionManager1 : "{028DAEAD63E056BE}Prefabs/World/Game/PerceptionManager.et" {
  coords 4926.701 34.279 10717.344
 }
+SCR_GameModeCampaign GameMode_Campaign1 : "{3B230AAC5252108F}Prefabs/MP/Modes/Conflict/GameMode_Campaign.et" {
+ components {
+  SCR_DebriefingScreenComponent "{5D349E302A88E42C}" {
+   m_sHeaderTitle "#AR-MainMenu_ConflictArland_Name"
+  }
+  SCR_MapMarkerManagerComponent "{5D32E876D3886A72}" {
+   m_sMarkerCfgPath "{720E8E61D7692173}Configs/Map/MapMarkerConfig.conf"
+  }
+  SCR_NametagConfigComponent "{571AA9E54FC9210D}" {
+   m_sConfigPath "{2C54289741D01AB5}Configs/NameTags/NametagFriendlies.conf"
+  }
+  SCR_RespawnBriefingComponent "{5B2A94A3CF791D6F}" {
+   m_sJournalConfigPath "{FFB1A12A7BFC4958}Configs/Journal/JournalConflict.conf"
+  }
+  SCR_WelcomeScreenComponent "{5D349E3E9CC39991}" {
+   m_sHeaderTitle "#AR-MainMenu_ConflictArland_Name"
+  }
+ }
+ coords 20.296 0 4.049
+ m_iControlPointsThreshold 2
+ m_fVictoryTimer 450
+ m_sBLUFORFactionKey "BOPE"
+ m_sOPFORFactionKey "CV"
+ m_sINDFORFactionKey "MILICIA"
+}
 SCR_CampaignFactionManager CampaignFactionManager1 : "{4176AD61D2EDE6BF}Prefabs/CampaignFactionManager.et" {
  coords 1761.779 4.656 1880.14
  Factions {
@@ -11,22 +36,28 @@ SCR_CampaignFactionManager CampaignFactionManager1 : "{4176AD61D2EDE6BF}Prefabs/
    FactionKey "USSR"
    m_bIsPlayable 0
    m_bShowInWelcomeScreenIfNonPlayable 0
+   m_FactionLabel FACTION_NONE
   }
   SCR_CampaignFaction "{50B30C3ADB052C80}" {
    FactionKey "US"
    m_bIsPlayable 0
    m_bShowInWelcomeScreenIfNonPlayable 0
+   m_FactionLabel FACTION_BLUFOR
   }
   SCR_CampaignFaction "{56F0C3A6336375DC}" {
    FactionKey "REFOR"
    m_bShowInWelcomeScreenIfNonPlayable 0
+   m_FactionLabel FACTION_GREENFOR
   }
   SCR_CampaignFaction "{61FAF011F1EAA3C9}" : "{7B47FE85B7F966F7}Configs/Factions/SampleFactionBLUFOR_Campaign.conf" {
+   m_FactionLabel FACTION_US
   }
   SCR_CampaignFaction "{61FAF011F27A5F1E}" : "{A777B5723BB27A84}Configs/Factions/SampleFactionREDFOR_Campaign.conf" {
+   m_FactionLabel FACTION_USSR
   }
   SCR_CampaignFaction "{61FAF011F69AD208}" : "{AA93D16408BF7809}Configs/Factions/SampleFactionGREENFOR_Campaign.conf" {
    FactionKey "FIA"
+   m_FactionLabel FACTION_FIA
   }
  }
 }
