@@ -24,6 +24,7 @@ SCR_CampaignFactionManager CampaignFactionManager1 : "{F1AC26310BAE3788}Prefabs/
    m_FactionLabel FACTION_USSR
   }
   SCR_CampaignFaction "{50B30C3ADB052C80}" : "{7B47FE85B7F966F7}Configs/Factions/SampleFactionBLUFOR_Campaign.conf" {
+   FactionKey "US"
    m_FactionLabel FACTION_US
   }
   SCR_Faction "{5EA0C73BA6381894}" : "{C93D9F19E9F3CD97}Configs/Factions/SampleFactionREDFOR.conf" {
@@ -57,14 +58,12 @@ SCR_LoadoutManager : "{58FBD035E53D95C1}Prefabs/MP/Campaign/CampaignLoadoutManag
  m_aPlayerLoadouts {
   SCR_FactionPlayerLoadout "{5690D9DB9BA76597}" {
    m_sLoadoutResource "{D61B79C1CA6073F6}Prefabs/Characters/Campaign/Campaign_SampleFactionBLUFOR_Player.et"
-   m_sAffiliatedFaction "BOPE"
   }
   SCR_FactionPlayerLoadout "{5690D9DB9400735C}" {
    m_sLoadoutResource "{3662E10C98B526E8}Prefabs/Characters/Campaign/Campaign_SampleFactionREDFOR_Player.et"
   }
   SCR_PlayerArsenalLoadout "{5B108B49559B24A2}" {
    m_sLoadoutResource "{D61B79C1CA6073F6}Prefabs/Characters/Campaign/Campaign_SampleFactionBLUFOR_Player.et"
-   m_sAffiliatedFaction "BOPE"
   }
   SCR_PlayerArsenalLoadout "{5B108B4948B445F8}" {
    m_sLoadoutResource "{3662E10C98B526E8}Prefabs/Characters/Campaign/Campaign_SampleFactionREDFOR_Player.et"

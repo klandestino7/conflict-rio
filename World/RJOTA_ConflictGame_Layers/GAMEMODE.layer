@@ -32,32 +32,16 @@ SCR_GameModeCampaign GameMode_Campaign1 : "{3B230AAC5252108F}Prefabs/MP/Modes/Co
 SCR_CampaignFactionManager CampaignFactionManager1 : "{4176AD61D2EDE6BF}Prefabs/CampaignFactionManager.et" {
  coords 1761.779 4.656 1880.14
  Factions {
-  SCR_CampaignFaction "{50B30C3AF4BFD934}" {
-   FactionKey "USSR"
-   m_bIsPlayable 0
-   m_bShowInWelcomeScreenIfNonPlayable 0
-   m_FactionLabel FACTION_NONE
-  }
-  SCR_CampaignFaction "{50B30C3ADB052C80}" {
-   FactionKey "US"
-   m_bIsPlayable 0
-   m_bShowInWelcomeScreenIfNonPlayable 0
-   m_FactionLabel FACTION_BLUFOR
-  }
-  SCR_CampaignFaction "{56F0C3A6336375DC}" {
-   FactionKey "REFOR"
-   m_bShowInWelcomeScreenIfNonPlayable 0
-   m_FactionLabel FACTION_GREENFOR
-  }
-  SCR_CampaignFaction "{61FAF011F1EAA3C9}" : "{7B47FE85B7F966F7}Configs/Factions/SampleFactionBLUFOR_Campaign.conf" {
-   m_FactionLabel FACTION_US
-  }
-  SCR_CampaignFaction "{61FAF011F27A5F1E}" : "{A777B5723BB27A84}Configs/Factions/SampleFactionREDFOR_Campaign.conf" {
+  SCR_CampaignFaction "{50B30C3AF4BFD934}" : "{A777B5723BB27A84}Configs/Factions/SampleFactionREDFOR_Campaign.conf" {
    m_FactionLabel FACTION_USSR
   }
-  SCR_CampaignFaction "{61FAF011F69AD208}" : "{AA93D16408BF7809}Configs/Factions/SampleFactionGREENFOR_Campaign.conf" {
-   FactionKey "FIA"
+  SCR_CampaignFaction "{50B30C3ADB052C80}" : "{7B47FE85B7F966F7}Configs/Factions/SampleFactionBLUFOR_Campaign.conf" {
+   m_FactionLabel FACTION_US
+  }
+  SCR_CampaignFaction "{56F0C3A6336375DC}" : "{AA93D16408BF7809}Configs/Factions/SampleFactionGREENFOR_Campaign.conf" {
+   FactionKey "MILICIA"
    m_FactionLabel FACTION_FIA
+   m_BaseBuildingHQ "{CD02EBFB0E2E274E}Prefabs/Compositions/Slotted/SlotFlatSmall/Headquarters_S_FIA_01.et"
   }
  }
 }
@@ -78,6 +62,14 @@ BasePreloadManager BasePreloadManager1 {
   }
   PreloadEntry "{61F707C2687EF059}" {
    Prefab "{D1FEAB018F75E5AC}Prefabs/Characters/Campaign/Final/Campaign_CV_Base.et"
+   FullyPreload 1
+  }
+  PreloadEntry "{61FB1668EC8B2E18}" {
+   Prefab "{85A431F5395FBB52}Prefabs/Characters/Campaign/Campaign_SampleFactionGREENFOR_AI.et"
+   FullyPreload 1
+  }
+  PreloadEntry "{61FB1668ECD499B7}" {
+   Prefab "{58519A188E8536EA}Prefabs/Characters/Campaign/Campaign_SampleFactionGREENFOR_Player.et"
    FullyPreload 1
   }
  }
@@ -112,6 +104,15 @@ SCR_LoadoutManager : "{58FBD035E53D95C1}Prefabs/MP/Campaign/CampaignLoadoutManag
   SCR_PlayerArsenalLoadout "{5B108B4948B445F8}" {
    m_sLoadoutResource "{48E4DDC4C2F7B152}Prefabs/Characters/Campaign/Final/CV_Base.et"
    m_sAffiliatedFaction "CV"
+  }
+  SCR_PlayerArsenalLoadout "{61FB166870474207}" {
+   m_sLoadoutResource "{85A431F5395FBB52}Prefabs/Characters/Campaign/Campaign_SampleFactionGREENFOR_AI.et"
+   m_sAffiliatedFaction "FIA"
+  }
+  SCR_PlayerArsenalLoadout "{61FB166852BC5C44}" {
+   m_sLoadoutName "Loadout 2"
+   m_sLoadoutResource "{58519A188E8536EA}Prefabs/Characters/Campaign/Campaign_SampleFactionGREENFOR_Player.et"
+   m_sAffiliatedFaction "FIA"
   }
  }
 }

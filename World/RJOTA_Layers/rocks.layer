@@ -717,6 +717,12 @@ $grp GenericEntity : "{1F0AA3EA77753B5D}Prefabs/Rocks/Granite/Granite_Boulder_02
   coords 2203.974 0 2366.294
  }
 }
+GenericEntity : "{3F68EE5DCB004B10}Prefabs/Rocks/Granite/GraniteCliff_01.et" {
+ coords 1653.716 67.173 2394.373
+ angleX 69.89
+ angleY 2.726
+ angleZ -11.333
+}
 $grp GenericEntity : "{735E970ACBB1B473}Prefabs/Rocks/Granite/Granite_Boulder_01.et" {
  {
   coords 1339.527 0 2293.574
@@ -2339,6 +2345,11 @@ $grp GenericEntity : "{76AF1688C649DC10}Prefabs/Rocks/Granite/Granite_ForestSton
   coords 2213.099 0 2392.644
   angleY 0
  }
+}
+GenericEntity : "{9633134198F3AB1A}Prefabs/Rocks/Granite/GraniteRock_01.et" {
+ coords 1635.676 73.334 2390.169
+ angleX -7.81
+ angleZ 7.652
 }
 $grp GenericEntity : "{FF676E917668C455}Prefabs/Rocks/Granite/Granite_ForestStone_01.et" {
  {
