@@ -608,6 +608,9 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     }
     m_bIsSource 1
    }
+   SCR_FactionAffiliationComponent "{5AFC974A2595F05D}" {
+    "faction affiliation" "USSR"
+   }
   }
   coords 923.138 3.969 2221.833
   {
@@ -645,7 +648,7 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     m_bIsSource 1
    }
    SCR_FactionAffiliationComponent "{5AFC974A2595F05D}" {
-    "faction affiliation" "BOPE"
+    "faction affiliation" "US"
    }
   }
   coords 3457.677 8.754 2914.693
