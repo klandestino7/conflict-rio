@@ -1,0 +1,86 @@
+RadioManagerEntity {
+ coords 2884.968 91.924 6293.253
+}
+PerceptionManager PerceptionManager1 : "{028DAEAD63E056BE}Prefabs/World/Game/PerceptionManager.et" {
+ coords 4926.701 34.279 10717.344
+}
+SCR_CampaignFactionManager CampaignFactionManager1 : "{4176AD61D2EDE6BF}Prefabs/CampaignFactionManager.et" {
+ coords 1761.779 4.656 1880.14
+ Factions {
+  SCR_CampaignFaction "{50B30C3AF4BFD934}" {
+   FactionKey "USSR"
+   m_bIsPlayable 0
+   m_bShowInWelcomeScreenIfNonPlayable 0
+  }
+  SCR_CampaignFaction "{50B30C3ADB052C80}" {
+   FactionKey "US"
+   m_bIsPlayable 0
+   m_bShowInWelcomeScreenIfNonPlayable 0
+  }
+  SCR_CampaignFaction "{56F0C3A6336375DC}" {
+   FactionKey "REFOR"
+   m_bShowInWelcomeScreenIfNonPlayable 0
+  }
+  SCR_CampaignFaction "{61FAF011F1EAA3C9}" : "{7B47FE85B7F966F7}Configs/Factions/SampleFactionBLUFOR_Campaign.conf" {
+  }
+  SCR_CampaignFaction "{61FAF011F27A5F1E}" : "{A777B5723BB27A84}Configs/Factions/SampleFactionREDFOR_Campaign.conf" {
+  }
+  SCR_CampaignFaction "{61FAF011F69AD208}" : "{AA93D16408BF7809}Configs/Factions/SampleFactionGREENFOR_Campaign.conf" {
+   FactionKey "FIA"
+  }
+ }
+}
+BasePreloadManager BasePreloadManager1 {
+ coords 1766.654 4.656 1891.896
+ PrefabsToPreload {
+  PreloadEntry "{61F707C26934EDD6}" {
+   Prefab "{954A51B8DAB7731C}Prefabs/Characters/Campaign/Final/Campaign_BOPE_Base.et"
+   FullyPreload 1
+  }
+  PreloadEntry "{61F707C268FF3A7D}" {
+   Prefab "{5ED4A64D2B7A6A83}Prefabs/Characters/Campaign/Final/Campaign_BOPE_Player.et"
+   FullyPreload 1
+  }
+  PreloadEntry "{61F707C268D7B238}" {
+   Prefab "{9B443DD4C1F6DCAE}Prefabs/Characters/Campaign/Final/Character_CIV_baseLoadout.et"
+   FullyPreload 1
+  }
+  PreloadEntry "{61F707C2687EF059}" {
+   Prefab "{D1FEAB018F75E5AC}Prefabs/Characters/Campaign/Final/Campaign_CV_Base.et"
+   FullyPreload 1
+  }
+ }
+}
+ItemPreviewManagerEntity ItemPreviewManagerEntity1 {
+ coords -0.018 0 0.077
+ PreviewWorld "{4391FE7994EE6FE2}Prefabs/World/Game/InventoryPreviewWorld.et"
+ DefaultRenderAttributes PreviewRenderAttributes "{52EF3E2AF2E07544}" {
+ }
+}
+SCR_BaseTaskManager : "{17E3EF2CF455460F}Prefabs/MP/Campaign/CampaignTaskManager.et" {
+ coords 20.724 0 7.936
+}
+MusicManager : "{359452CCDBDD03F5}Prefabs/Sounds/Music/MusicManager_Base.et" {
+ coords 0 0 0
+}
+SCR_LoadoutManager : "{58FBD035E53D95C1}Prefabs/MP/Campaign/CampaignLoadoutManager.et" {
+ coords 0 0 0
+ m_aPlayerLoadouts {
+  SCR_FactionPlayerLoadout "{5690D9DB9BA76597}" {
+   m_sLoadoutResource "{D61B79C1CA6073F6}Prefabs/Characters/Campaign/Campaign_SampleFactionBLUFOR_Player.et"
+   m_sAffiliatedFaction "BOPE"
+  }
+  SCR_FactionPlayerLoadout "{5690D9DB9400735C}" {
+   m_sLoadoutResource "{9B443DD4C1F6DCAE}Prefabs/Characters/Campaign/Final/Character_CIV_baseLoadout.et"
+   m_sAffiliatedFaction "CV"
+  }
+  SCR_PlayerArsenalLoadout "{5B108B49559B24A2}" {
+   m_sLoadoutResource "{D61B79C1CA6073F6}Prefabs/Characters/Campaign/Campaign_SampleFactionBLUFOR_Player.et"
+   m_sAffiliatedFaction "BOPE"
+  }
+  SCR_PlayerArsenalLoadout "{5B108B4948B445F8}" {
+   m_sLoadoutResource "{48E4DDC4C2F7B152}Prefabs/Characters/Campaign/Final/CV_Base.et"
+   m_sAffiliatedFaction "CV"
+  }
+ }
+}

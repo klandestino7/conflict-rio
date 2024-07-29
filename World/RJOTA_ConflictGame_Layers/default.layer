@@ -18,12 +18,6 @@ SCR_AIWorld : "{01DC74137CFDDB6A}Prefabs/AI/SCR_AIWorld_Arland.et" {
  "Road Network File" "{E18B90A3F95D49CA}"
  m_iActiveAILimit 180
 }
-RadioManagerEntity {
- coords 2884.968 91.924 6293.253
-}
-PerceptionManager PerceptionManager1 : "{028DAEAD63E056BE}Prefabs/World/Game/PerceptionManager.et" {
- coords 4926.701 34.279 10717.344
-}
 SCR_GameModeCampaign GameMode_Campaign1 : "{3B230AAC5252108F}Prefabs/MP/Modes/Conflict/GameMode_Campaign.et" {
  components {
   SCR_DebriefingScreenComponent "{5D349E302A88E42C}" {
@@ -51,47 +45,6 @@ SCR_GameModeCampaign GameMode_Campaign1 : "{3B230AAC5252108F}Prefabs/MP/Modes/Co
 }
 ScriptedChatEntity : "{536D80EB494DDC43}Prefabs/MP/Campaign/CampaignMPChatEntity.et" {
  coords 20.291 0 5.837
-}
-SCR_CampaignFactionManager CampaignFactionManager1 : "{F1AC26310BAE3788}Prefabs/MP/Campaign/CampaignFactionManager.et" {
- coords 20.291 0 5.837
- Factions {
-  SCR_CampaignFaction "{50B30C3AF4BFD934}" {
-   FactionKey "CV"
-   UIInfo SCR_FactionUIInfo "{528C96127F8B6B08}" {
-    Name "CV"
-    Icon "{F370894884326C43}Assets/Factions/cv-icon.edds"
-    m_sNameUpper "CV"
-   }
-   m_bIsMilitary 0
-   m_sFactionFlag "{9483D1EDF710FA9D}Assets/Factions/flag-cv.edds"
-   m_aStartingVehicles {
-    "{EEAC3A94929A2B55}Prefabs/Vehicles/Wheeled/Ural4320/Ural4320_transport_CIV_randomized.et" "{870EB660433857D3}Prefabs/Vehicles/Wheeled/UAZ469/UAZ469_covered_CIV_teal.et"
-   }
-  }
-  SCR_CampaignFaction "{50B30C3ADB052C80}" {
-   FactionKey "BOPE"
-   FactionColor 0.122 0.122 0.122 1
-   UIInfo SCR_FactionUIInfo "{528C961236B7DCD3}" {
-    Name "BOPE"
-    Description "Batalhão de Operações Policiais Especiais é uma força de operações especiais da Polícia Militar do Estado do Rio de Janeiro (PMERJ), subordinada diretamente ao Comando de Operações Especiais do estado do Rio de Janeiro."
-    Icon "{F6668225C3ACBEBD}Assets/Factions/bope-icon.edds"
-    m_sNameUpper "BOPE"
-   }
-   m_OutlineFactionColor 0.004 0.037 0.098 1
-   m_NotificationFactionColor 0.002 0.071 0.118 1
-   m_NotificationTextFactionColor 0.002 0.069 0.114 1
-   m_sFactionFlag "{732454B40B9501E8}Assets/Factions/flag-bope.edds"
-   m_FactionFlagMaterial "{6E9DA07CBCE6BE7F}Assets/Props/Fabric/Flags/Data/Flag_1_2_White.emat"
-  }
-  SCR_CampaignFaction "{56F0C3A6336375DC}" {
-   FactionKey "MILICIA"
-   UIInfo SCR_FactionUIInfo "{5570936866E0AD08}" {
-    Name "MILICIA"
-    m_sNameUpper "MILICIA"
-   }
-   m_bIsMilitary 0
-  }
- }
 }
 $grp GenericEntity {
  {
@@ -545,12 +498,6 @@ $grp GenericEntity {
   angleY -147.628
  }
 }
-ItemPreviewManagerEntity ItemPreviewManagerEntity1 {
- coords -0.018 0 0.077
- PreviewWorld "{4391FE7994EE6FE2}Prefabs/World/Game/InventoryPreviewWorld.et"
- DefaultRenderAttributes PreviewRenderAttributes "{52EF3E2AF2E07544}" {
- }
-}
 SCR_MapLocator {
  coords 10434.78 0 1142.689
  m_WorldDirections SCR_MapLocationQuadHint "{5AAA8B37D1168EEB}" : "{C1534F222D0F74D2}Configs/Map/MapLocatorHints/LocationHintsArland.conf" {
@@ -577,20 +524,10 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
   {
    GenericEntity {
     ID "5CCED514A5908822"
-    components {
-     SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-      "faction affiliation" "MILICIA"
-     }
-    }
     coords 7.731 -0.498 9.023
    }
    GenericEntity {
     ID "606078EE23DE48AC"
-    components {
-     SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-      "faction affiliation" "MILICIA"
-     }
-    }
     coords 9.73 -1.185 -6.49
    }
    SCR_CampaignSpawnPointGroup {
@@ -613,20 +550,10 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
   {
    GenericEntity {
     ID "5CCED514A5908822"
-    components {
-     SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-      "faction affiliation" "MILICIA"
-     }
-    }
     coords -6.887 0.822 17.223
    }
    GenericEntity {
     ID "606078EE23DE48AC"
-    components {
-     SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-      "faction affiliation" "MILICIA"
-     }
-    }
     coords -6.314 0 -11.263
    }
    SCR_CampaignSpawnPointGroup {
@@ -648,20 +575,10 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
   {
    GenericEntity {
     ID "5CCED514A5908822"
-    components {
-     SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-      "faction affiliation" "MILICIA"
-     }
-    }
     coords 1.583 -0.299 12.034
    }
    GenericEntity {
     ID "606078EE23DE48AC"
-    components {
-     SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-      "faction affiliation" "MILICIA"
-     }
-    }
     coords -9.839 0 -2.7
    }
   }
@@ -680,20 +597,10 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
   {
    GenericEntity {
     ID "5CCED514A5908822"
-    components {
-     SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-      "faction affiliation" "MILICIA"
-     }
-    }
     coords -13.227 0.13 19.734
    }
    GenericEntity {
     ID "606078EE23DE48AC"
-    components {
-     SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-      "faction affiliation" "MILICIA"
-     }
-    }
     coords -21.842 0.905 11.696
    }
    SCR_CampaignSpawnPointGroup {
@@ -731,20 +638,10 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
   {
    GenericEntity {
     ID "5CCED514A5908822"
-    components {
-     SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-      "faction affiliation" "MILICIA"
-     }
-    }
     coords 1.863 0.001 14.555
    }
    GenericEntity {
     ID "606078EE23DE48AC"
-    components {
-     SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-      "faction affiliation" "MILICIA"
-     }
-    }
     coords -2.178 0 -12.735
    }
    SCR_CampaignSpawnPointGroup {
@@ -781,20 +678,10 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
   {
    GenericEntity {
     ID "5CCED514A5908822"
-    components {
-     SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-      "faction affiliation" "MILICIA"
-     }
-    }
     coords 5.573 0 27.188
    }
    GenericEntity {
     ID "606078EE23DE48AC"
-    components {
-     SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-      "faction affiliation" "MILICIA"
-     }
-    }
     coords 16.737 0 23.166
    }
    SCR_CampaignSpawnPointGroup {
@@ -817,20 +704,10 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
   {
    GenericEntity {
     ID "5CCED514A5908822"
-    components {
-     SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-      "faction affiliation" "MILICIA"
-     }
-    }
     coords -18.164 6.112 18.05
    }
    GenericEntity {
     ID "606078EE23DE48AC"
-    components {
-     SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-      "faction affiliation" "MILICIA"
-     }
-    }
     coords 0 3.201 14
    }
    SCR_CampaignSpawnPointGroup {
@@ -853,20 +730,10 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
   {
    GenericEntity {
     ID "5CCED514A5908822"
-    components {
-     SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-      "faction affiliation" "MILICIA"
-     }
-    }
     coords -0.017 -0.566 11.973
    }
    GenericEntity {
     ID "606078EE23DE48AC"
-    components {
-     SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-      "faction affiliation" "MILICIA"
-     }
-    }
     coords 5.293 -0.661 -6.595
    }
    SCR_CampaignSpawnPointGroup {
@@ -2131,9 +1998,6 @@ GenericEntity : "{164B0489980ECF0F}Prefabs/Compositions/Locations/Arland/Base_Mi
   }
  }
 }
-SCR_BaseTaskManager : "{17E3EF2CF455460F}Prefabs/MP/Campaign/CampaignTaskManager.et" {
- coords 20.724 0 7.936
-}
 GenericEntity : "{1A8791C2BC2B8B75}Prefabs/Structures/Military/Flags/FlagPole_01/FlagPole_01_empty.et" {
  coords 2550.988 13.248 2236.008
 }
@@ -3327,32 +3191,6 @@ $grp GenericEntity : "{27F6A0815E6FF6EF}Prefabs/Compositions/Slotted/SlotRoadMed
   }
  }
 }
-BasePreloadManager PreloadManager_Campaign1 : "{32BFDCDE99092FCE}Prefabs/World/Game/PreloadManager_Campaign.et" {
- coords 44.236 0 47.781
- PrefabsToPreload {
-  PreloadEntry "{615E7910295F8C4A}" {
-   Prefab "{5ED4A64D2B7A6A83}Prefabs/Characters/Campaign/Final/Campaign_BOPE_Player.et"
-  }
-  PreloadEntry "{615E7910231F929D}" {
-   Prefab "{D05116ED46B82637}Prefabs/Characters/Campaign/Final/Campaign_CV_Player.et"
-  }
-  PreloadEntry "{615E7911DD2434EE}" {
-   Prefab "{954A51B8DAB7731C}Prefabs/Characters/Campaign/Final/Campaign_BOPE_Base.et"
-  }
-  PreloadEntry "{615E7911D33FD6CE}" {
-   Prefab "{D1FEAB018F75E5AC}Prefabs/Characters/Campaign/Final/Campaign_CV_Base.et"
-  }
-  PreloadEntry "{615E7911C9DF6095}" {
-   Prefab "{5ED4A64D2B7A6A83}Prefabs/Characters/Campaign/Final/Campaign_BOPE_Player.et"
-  }
-  PreloadEntry "{615E7911CFEEE297}" {
-   Prefab "{D05116ED46B82637}Prefabs/Characters/Campaign/Final/Campaign_CV_Player.et"
-  }
- }
-}
-MusicManager : "{359452CCDBDD03F5}Prefabs/Sounds/Music/MusicManager_Base.et" {
- coords 0 0 0
-}
 $grp GenericEntity : "{38464762C5D374D2}Prefabs/MP/Campaign/SupplyDepots/SupplyCache_S_FIA_01_Campaign.et" {
  {
   coords 2532.787 5.072 2471.743
@@ -4471,27 +4309,6 @@ GenericEntity Antena : "{522DCD528AE27052}Prefabs/Systems/MilitaryBase/ConflictR
    ID "5C727AD606EB0C1C"
    coords -0.248 0.278 -0.228
    angleY 8.918
-  }
- }
-}
-SCR_LoadoutManager : "{58FBD035E53D95C1}Prefabs/MP/Campaign/CampaignLoadoutManager.et" {
- coords 0 0 0
- m_aPlayerLoadouts {
-  SCR_FactionPlayerLoadout "{5690D9DB9BA76597}" {
-   m_sLoadoutResource "{5ED4A64D2B7A6A83}Prefabs/Characters/Campaign/Final/Campaign_BOPE_Player.et"
-   m_sAffiliatedFaction "BOPE"
-  }
-  SCR_FactionPlayerLoadout "{5690D9DB9400735C}" {
-   m_sLoadoutResource "{D05116ED46B82637}Prefabs/Characters/Campaign/Final/Campaign_CV_Player.et"
-   m_sAffiliatedFaction "CV"
-  }
-  SCR_PlayerArsenalLoadout "{5B108B49559B24A2}" {
-   m_sLoadoutResource "{954A51B8DAB7731C}Prefabs/Characters/Campaign/Final/Campaign_BOPE_Base.et"
-   m_sAffiliatedFaction "BOPE"
-  }
-  SCR_PlayerArsenalLoadout "{5B108B4948B445F8}" {
-   m_sLoadoutResource "{D1FEAB018F75E5AC}Prefabs/Characters/Campaign/Final/Campaign_CV_Base.et"
-   m_sAffiliatedFaction "CV"
   }
  }
 }

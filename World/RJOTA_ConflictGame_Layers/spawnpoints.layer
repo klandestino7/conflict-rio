@@ -251,9 +251,6 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType TEAM_AT
     m_fAILimitThreshold 0.66
    }
-   SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "MILICIA"
-   }
   }
   coords 2061.706 15.758 2124.763
   angleY 39.908
@@ -268,9 +265,6 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
   components {
    SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
     m_fAILimitThreshold 0.33
-   }
-   SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "MILICIA"
    }
   }
   coords 2091.113 10.282 2534.617
@@ -297,9 +291,6 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
   components {
    SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
     m_fAILimitThreshold 0.33
-   }
-   SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "MILICIA"
    }
   }
   coords 1753.67 5.79 2631.94
@@ -336,9 +327,6 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType TEAM_AT
     m_fAILimitThreshold 0.66
    }
-   SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "MILICIA"
-   }
   }
   coords 2509.372 5.118 2504.963
   angleX 2.164
@@ -359,9 +347,6 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType TEAM_AT
     m_fAILimitThreshold 0.66
    }
-   SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "MILICIA"
-   }
   }
   coords 2555.998 3.248 2447.575
   angleX 3.269
@@ -379,9 +364,6 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
    SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
     m_eGroupType TEAM_AT
     m_fAILimitThreshold 0.66
-   }
-   SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "MILICIA"
    }
   }
   coords 3113.146 4.985 2908.299
@@ -416,9 +398,6 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_iRespawnPeriod 600
     m_fAILimitThreshold 0.66
    }
-   SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "MILICIA"
-   }
   }
   coords 1193.323 39.995 2544.445
   {
@@ -452,9 +431,6 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_bPickRandomGroupType 1
     m_fAILimitThreshold 0.66
    }
-   SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "MILICIA"
-   }
   }
   coords 1755.313 4.877 2650.614
   {
@@ -474,9 +450,6 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
   components {
    SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
     m_fAILimitThreshold 0.33
-   }
-   SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "MILICIA"
    }
   }
   coords 1806.596 4.656 1855.467
@@ -510,9 +483,6 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
   components {
    SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
     m_fAILimitThreshold 0.33
-   }
-   SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "MILICIA"
    }
   }
   coords 1309.955 11.497 1871.393
@@ -555,9 +525,6 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType TEAM_AT
     m_fAILimitThreshold 0.66
    }
-   SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "MILICIA"
-   }
   }
   coords 2580.351 2.299 2364.857
   {
@@ -573,9 +540,6 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
     m_fAILimitThreshold 0.66
    }
-   SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "MILICIA"
-   }
   }
   coords 2308.419 99.447 2321.896
  }
@@ -583,9 +547,6 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
   components {
    SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
     m_fAILimitThreshold 0.33
-   }
-   SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "MILICIA"
    }
   }
   coords 2741.981 2.25 1916.297
@@ -628,9 +589,6 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType TEAM_AT
     m_fAILimitThreshold 0.66
    }
-   SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "MILICIA"
-   }
   }
   coords 2831.687 2.25 2105.09
   {
@@ -646,9 +604,6 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType TEAM_AT
     m_fAILimitThreshold 0.66
    }
-   SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "MILICIA"
-   }
   }
   coords 3048.831 20.998 2648.307
   {
@@ -662,9 +617,6 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
   components {
    SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
     m_fAILimitThreshold 0.33
-   }
-   SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "MILICIA"
    }
   }
   coords 3139.23 14.33 2645.459
@@ -707,9 +659,6 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType FIRETEAM
     m_fAILimitThreshold 0.66
    }
-   SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "MILICIA"
-   }
   }
   coords 2035.701 43.786 2690.006
  }
@@ -718,9 +667,6 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
    SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
     m_eGroupType SQUAD_RIFLE
     m_fAILimitThreshold 0.75
-   }
-   SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "MILICIA"
    }
   }
   coords 2071.187 19.875 2152.718
@@ -733,9 +679,6 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
    SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
     m_eGroupType TEAM_AT
     m_fAILimitThreshold 0.66
-   }
-   SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "MILICIA"
    }
   }
   coords 1592.955 13.767 2002.087
@@ -752,9 +695,6 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType TEAM_AT
     m_fAILimitThreshold 0.66
    }
-   SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "MILICIA"
-   }
   }
   coords 2670.959 21.582 1867.872
   {
@@ -770,9 +710,6 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType TEAM_MG
     m_fAILimitThreshold 0.66
    }
-   SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "MILICIA"
-   }
   }
   coords 3065.374 39.222 2016.744
  }
@@ -780,9 +717,6 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
   components {
    SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
     m_fAILimitThreshold 0.33
-   }
-   SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "MILICIA"
    }
   }
   coords 3184.781 21.176 2789.665
@@ -825,9 +759,6 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType TEAM_AT
     m_fAILimitThreshold 0.66
    }
-   SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "MILICIA"
-   }
   }
   coords 3297.177 10.738 2670.944
   {
@@ -842,9 +773,6 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
    SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
     m_fAILimitThreshold 0.33
    }
-   SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "MILICIA"
-   }
   }
   coords 1798.865 9.628 1977.226
  }
@@ -853,9 +781,6 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
    SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
     m_eGroupType SQUAD_RIFLE
     m_fAILimitThreshold 0.75
-   }
-   SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "MILICIA"
    }
   }
   coords 2528.17 4.585 2284.172
@@ -866,9 +791,6 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
     m_eGroupType TEAM_AT
     m_fAILimitThreshold 0.66
    }
-   SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "MILICIA"
-   }
   }
   coords 2613.057 0 1954.288
  }
@@ -876,9 +798,6 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
   components {
    SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
     m_fAILimitThreshold 0.33
-   }
-   SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "MILICIA"
    }
   }
   coords 2053.219 14.388 1983.45
@@ -906,9 +825,6 @@ $grp GenericEntity : "{9273AB931008C271}Prefabs/Systems/AmbientPatrol/AmbientPat
    SCR_AmbientPatrolSpawnPointComponent "{5CCEC6036BBF3EDD}" {
     m_eGroupType TEAM_AT
     m_fAILimitThreshold 0.66
-   }
-   SCR_FactionAffiliationComponent "{5CCEC6039525B984}" {
-    "faction affiliation" "MILICIA"
    }
   }
   coords 2474.254 12.764 1915.411
