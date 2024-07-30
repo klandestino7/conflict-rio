@@ -574,8 +574,16 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
     }
     m_bIsSource 1
    }
+   SCR_EditableSystemComponent "{5B0AB14FBD96A524}" {
+    m_UIInfo SCR_EditableDescriptorUIInfo "{5B0AB14FA66FFA19}" {
+     m_sFaction "CV"
+     m_aAuthoredLabels {
+      15
+     }
+    }
+   }
    SCR_FactionAffiliationComponent "{5AFC974A2595F05D}" {
-    "faction affiliation" "REDFOR"
+    "faction affiliation" "CV"
    }
   }
   coords 923.138 3.969 2221.833
@@ -605,8 +613,16 @@ $grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMil
    SCR_CoverageRadioComponent "{5C669673C2A82A2B}" {
     m_bIsSource 1
    }
+   SCR_EditableSystemComponent "{5B0AB14FBD96A524}" {
+    m_UIInfo SCR_EditableDescriptorUIInfo "{5B0AB14FA66FFA19}" {
+     m_sFaction "BOPE"
+     m_aAuthoredLabels {
+      16
+     }
+    }
+   }
    SCR_FactionAffiliationComponent "{5AFC974A2595F05D}" {
-    "faction affiliation" "BLUFOR"
+    "faction affiliation" "BOPE"
    }
   }
   coords 3457.677 8.754 2914.693
@@ -10996,7 +11012,7 @@ $grp GenericEntity : "{E660DE914A7211EB}Prefabs/Compositions/Slotted/SlotRoadSma
     {
      DecalEntity {
       ID "56E0B29FF966C8BF"
-      coords 0.001 0 -0
+      coords 0.001 0 0
       angleX -90
      }
     }
@@ -11008,7 +11024,7 @@ $grp GenericEntity : "{E660DE914A7211EB}Prefabs/Compositions/Slotted/SlotRoadSma
     {
      DecalEntity {
       ID "56E0B29F4975B6A9"
-      coords 0 -0 -0.001
+      coords 0 0 -0.001
       angleX -90
       angleY 0
       angleZ 0

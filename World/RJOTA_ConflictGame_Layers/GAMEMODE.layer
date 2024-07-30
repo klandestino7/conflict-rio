@@ -15,6 +15,10 @@ SCR_GameModeCampaign GameMode_Campaign1 : "{3B230AAC5252108F}Prefabs/MP/Modes/Co
   SCR_NametagConfigComponent "{571AA9E54FC9210D}" {
    m_sConfigPath "{2C54289741D01AB5}Configs/NameTags/NametagFriendlies.conf"
   }
+  SCR_PlayerSpawnPointManagerComponent "{5CDABA98894199D0}" {
+   m_bEnablePlayerSpawnPoints 1
+   m_bRadioVehicleSpawningEnabled 1
+  }
   SCR_RespawnBriefingComponent "{5B2A94A3CF791D6F}" {
    m_sJournalConfigPath "{FFB1A12A7BFC4958}Configs/Journal/JournalConflict.conf"
   }
@@ -32,20 +36,20 @@ SCR_CampaignFactionManager CampaignFactionManager2 : "{F1AC26310BAE3788}Prefabs/
  coords 2532.245 5.173 2466.209
  Factions {
   SCR_CampaignFaction "{50B30C3AF4BFD934}" : "{A777B5723BB27A84}Configs/Factions/SampleFactionREDFOR_Campaign.conf" {
-   m_FactionLabel FACTION_USSR
   }
   SCR_CampaignFaction "{50B30C3ADB052C80}" : "{7B47FE85B7F966F7}Configs/Factions/SampleFactionBLUFOR_Campaign.conf" {
-   m_FactionLabel FACTION_US
   }
   SCR_Faction "{5EA0C73BA6381894}" : "{C93D9F19E9F3CD97}Configs/Factions/SampleFactionREDFOR.conf" {
    FactionKey "USSR"
    m_bIsPlayable 0
    m_bShowInWelcomeScreenIfNonPlayable 0
+   m_FactionLabel FACTION_USSR
   }
   SCR_Faction "{5EA0C73BA5013DA1}" : "{2F1CD67B16BC0567}Configs/Factions/SampleFactionBLUFOR.conf" {
    FactionKey "US"
    m_bIsPlayable 0
    m_bShowInWelcomeScreenIfNonPlayable 0
+   m_FactionLabel FACTION_US
   }
  }
 }
