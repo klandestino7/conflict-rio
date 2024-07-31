@@ -1,23 +1,3 @@
-SCR_AIWorld : "{01DC74137CFDDB6A}Prefabs/AI/SCR_AIWorld_Arland.et" {
- components {
-  NavmeshWorldComponent "{5584F30E67F617AD}" {
-   NavmeshSettings NavmeshWorld "{50FC63BEBE3973C5}" {
-    NavmeshFilesConfig BaseNavmeshFilesConfig "{5AF8B9A182609915}" : "{3757F06924A51A50}Configs/Navmesh/Navmesh_CTI_Campaign_Arland_Soldier.conf" {
-    }
-   }
-  }
-  NavmeshWorldComponent "{5584F30EEFEE1223}" {
-   NavmeshSettings ChimeraNavmeshWorld "{50FC63BEBE3973C5}" {
-    NavmeshFilesConfig BaseNavmeshFilesConfig "{598EDE772036D79B}" : "{C20D2FB077A7523E}Configs/Navmesh/Navmesh_CTI_Campaign_Arland_Vehicle.conf" {
-    }
-   }
-  }
- }
- coords 4772.179 26.323 10658.781
- "Accepted Road Types" 255
- "Road Network File" "{E18B90A3F95D49CA}"
- m_iActiveAILimit 180
-}
 ScriptedChatEntity : "{536D80EB494DDC43}Prefabs/MP/Campaign/CampaignMPChatEntity.et" {
  coords 20.291 0 5.837
 }
@@ -475,10 +455,12 @@ $grp GenericEntity {
 }
 SCR_MapLocator {
  coords 10434.78 0 1142.689
+ m_sMapLocationHintWidgetName1 "Você está"
+ m_sMapLocationHintWidgetName2 "De "
  m_WorldDirections SCR_MapLocationQuadHint "{5AAA8B37D1168EEB}" : "{C1534F222D0F74D2}Configs/Map/MapLocatorHints/LocationHintsArland.conf" {
-  m_sPlayerPositionHint "Rio de Janeiro"
+  m_sPlayerPositionHint "RJ"
   m_aQuadHints {
-   "#AR-MapLocationHint_RioDeJaneiroSouthWest" "#AR-MapLocationHint_RioDeJaneiroSouth" "#AR-MapLocationHint_RioDeJaneiroSouthEast" "#AR-MapLocationHint_RioDeJaneiroWest" "#AR-MapLocationHint_RioDeJaneiroCentral" "#AR-MapLocationHint_RioDeJaneiroEast" "#AR-MapLocationHint_RioDeJaneiroNorthWest" "#AR-MapLocationHint_RioDeJaneiroNorth" "#AR-MapLocationHint_RioDeJaneiroNorthEast"
+   "South West de RJ" "Sul de RJ" "South East de RJ" "West de RJ" "Centro de RJ" "East de RJ" "North West de RJ" "North de RJ" "North East de RJ"
   }
  }
 }
@@ -4181,9 +4163,6 @@ $grp GenericEntity : "{3AE1A95C1023F894}Prefabs/Compositions/Slotted/SlotFlatSma
    }
   }
  }
-}
-Vehicle UAZ452_ambulance1 : "{43C4AF1EEBD001CE}Prefabs/Vehicles/Wheeled/UAZ452/UAZ452_ambulance.et" {
- coords 914.026 39 2847.79
 }
 GenericEntity : "{47789BA6E9CA2928}Prefabs/MP/Campaign/SupplyDepots/SupplyCache_S_FIA_03_Campaign.et" {
  coords 2098.789 20.122 2143.05
