@@ -32,12 +32,13 @@ SCR_GameModeCampaign GameMode_Campaign1 : "{3B230AAC5252108F}Prefabs/MP/Modes/Co
  m_sBLUFORFactionKey "BOPE"
  m_sOPFORFactionKey "CV"
 }
-SCR_CampaignFactionManager CampaignFactionManager2 : "{F1AC26310BAE3788}Prefabs/MP/Campaign/CampaignFactionManager.et" {
+SCR_CampaignFactionManager CampaignFactionManager : "{F1AC26310BAE3788}Prefabs/MP/Campaign/CampaignFactionManager.et" {
  coords 2532.245 5.173 2466.209
  Factions {
   SCR_CampaignFaction "{50B30C3AF4BFD934}" : "{A777B5723BB27A84}Configs/Factions/SampleFactionREDFOR_Campaign.conf" {
   }
   SCR_CampaignFaction "{50B30C3ADB052C80}" : "{7B47FE85B7F966F7}Configs/Factions/SampleFactionBLUFOR_Campaign.conf" {
+   FactionKey "BOPE"
   }
   SCR_Faction "{5EA0C73BA6381894}" : "{C93D9F19E9F3CD97}Configs/Factions/SampleFactionREDFOR.conf" {
    FactionKey "USSR"

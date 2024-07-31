@@ -400,7 +400,7 @@ $grp Tree : "{09E03E65489EEC39}Prefabs/Vegetation/Bush/b_phragmites_australis_1.
 }
 $grp Tree : "{0A56ED2CC73ABB23}PrefabLibrary/Vegetation/Bushes/b_sambucus_nigra_2.et" {
  {
-  coords 2041.997 -0 2416.229
+  coords 2041.997 0 2416.229
   angleX -1.196
   angleY 169.337
   angleZ -1.976
@@ -2196,7 +2196,6 @@ $grp Tree : "{0A56ED2CC73ABB23}PrefabLibrary/Vegetation/Bushes/b_sambucus_nigra_
   angleX -1.083
   angleY 132.851
   angleZ 1.002
-  scale 1
  }
  {
   coords 2292.549 0 2157.002
@@ -3855,7 +3854,6 @@ $grp Tree : "{0A56ED2CC73ABB23}PrefabLibrary/Vegetation/Bushes/b_sambucus_nigra_
   angleX -1.401
   angleY 264.757
   angleZ 0.419
-  scale 1
  }
  {
   coords 1925.476 0 2145.54
@@ -5608,7 +5606,6 @@ $grp Tree : "{0A56ED2CC73ABB23}PrefabLibrary/Vegetation/Bushes/b_sambucus_nigra_
  }
  {
   coords 3212.488 0 2875.649
-  angleX 0
   angleY 81.565
   angleZ -0.079
   scale 0.883
@@ -7550,7 +7547,6 @@ $grp Tree : "{0A56ED2CC73ABB23}PrefabLibrary/Vegetation/Bushes/b_sambucus_nigra_
   angleX 0.151
   angleY 252.935
   angleZ 1.942
-  scale 1
  }
  {
   coords 1494.521 0 2426.32
@@ -48176,7 +48172,6 @@ $grp Tree : "{6602D9CC7BFE340D}PrefabLibrary/Vegetation/Bushes/b_sambucus_nigra_
   angleX 0.819
   angleY 82.62
   angleZ -0.799
-  scale 1
  }
  {
   coords 2367.234 0 2006.28
@@ -48232,7 +48227,6 @@ $grp Tree : "{6602D9CC7BFE340D}PrefabLibrary/Vegetation/Bushes/b_sambucus_nigra_
   angleX 1.438
   angleY 262.702
   angleZ -0.177
-  scale 1
  }
  {
   coords 2357.131 0 1989.479
@@ -51018,7 +51012,6 @@ $grp Tree : "{6602D9CC7BFE340D}PrefabLibrary/Vegetation/Bushes/b_sambucus_nigra_
   angleX 0.355
   angleY 103.483
   angleZ 1.141
-  scale 1
  }
  {
   coords 1509.428 0 2338.842
@@ -53323,7 +53316,6 @@ $grp Tree : "{932E56F57F6F0C9A}PrefabLibrary/Vegetation/Bushes/b_salix_cinerea_1
   angleX -1.567
   angleY 174.965
   angleZ -1.151
-  scale 1
  }
  {
   coords 2425.418 0 2322.926
@@ -68958,7 +68950,7 @@ $grp Tree : "{D9DF1D13919F19A0}Prefabs/Vegetation/Bush/b_rosa_canina_0s.et" {
 }
 $grp Tree : "{DA7492F3E6B63251}PrefabLibrary/Vegetation/Bushes/b_corylus_avellana_1l.et" {
  {
-  coords 2041.79 -0 2422.724
+  coords 2041.79 0 2422.724
   angleX 1.458
   angleY 130.994
   angleZ 0.56
@@ -70383,7 +70375,6 @@ $grp Tree : "{DA7492F3E6B63251}PrefabLibrary/Vegetation/Bushes/b_corylus_avellan
   angleX 1.641
   angleY 30.279
   angleZ 1.351
-  scale 1
  }
  {
   coords 2637.837 0 2368.44
@@ -70530,7 +70521,6 @@ $grp Tree : "{DA7492F3E6B63251}PrefabLibrary/Vegetation/Bushes/b_corylus_avellan
   angleX 1.085
   angleY 113.305
   angleZ 1.539
-  scale 1
  }
  {
   coords 2501.959 0 2388.444
@@ -73684,7 +73674,6 @@ $grp Tree : "{DA7492F3E6B63251}PrefabLibrary/Vegetation/Bushes/b_corylus_avellan
  }
  {
   coords 2404.946 0 1938.297
-  angleX 0
   angleY 278.402
   angleZ -0.207
   scale 0.908
@@ -75427,7 +75416,6 @@ $grp Tree : "{DA7492F3E6B63251}PrefabLibrary/Vegetation/Bushes/b_corylus_avellan
  }
  {
   coords 2907.248 0 2734.482
-  angleX 0
   angleY 8.91
   angleZ 1.536
   scale 1.137
